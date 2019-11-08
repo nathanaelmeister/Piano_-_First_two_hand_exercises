@@ -1,7 +1,8 @@
-# Composer
-## Title; Op
+# Piano School
+## First two hand exercises
+### by Nathanael Meister; Op. 23
 
-lots of text....
+Collection of easy pieces for the first lectures in playing the Piano with two hands.
 
 _____________________________________________________________
 
