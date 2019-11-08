@@ -2,7 +2,7 @@
 
 \score {
   \new PianoStaff  <<
-    \set PianoStaff.instrumentName = \markup \huge \bold \number "1."
+    \set PianoStaff.instrumentName = \markup \huge \bold \number "2."
     \new Staff = "upper"
     \relative c' {
       \clef treble
@@ -15,6 +15,7 @@
       e e e2         | %02
       d4 d d2        | %03
       e4 g g2        | %04
+      \break
       e4 d c d       | %05
       e e e2         | %06
       d4 d e d       | %07
