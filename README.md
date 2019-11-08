@@ -1,6 +1,5 @@
 # Piano School
-## Part II
-## *First two hand exercises*
+## Part II - *First two hand exercises*
 ### by Nathanael Meister; Op. 23
 
 Collection of easy pieces for the first lectures in playing the Piano with two hands.
