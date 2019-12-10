@@ -23,4 +23,7 @@
   \pageBreak
   \include "./single-pages/03_Czerny_Carl_-_Op_824_-_Nr_3.ly"
   \include "./single-pages/04_Czerny_Carl_-_Op_824_-_Nr_4.ly"
+  \pageBreak
+  \include "./single-pages/41_Köhler_Louis_-_Op_300_-_Nr_41.ly"
+  \include "./single-pages/42_Köhler_Louis_-_Op_300_-_Nr_42.ly"
 }
