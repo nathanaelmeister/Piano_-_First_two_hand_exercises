@@ -12,25 +12,25 @@
       \clef treble
       \key c \major
       \time 4/4
+      \numericTimeSignature
+      \tempo "."
 
-      a4 b c d
     }
     \new Staff = "lower" \with {
       midiInstrument = #"acoustic grand" }
 
-    \relative c {
+    \relative c'' {
       \clef treble
       \key c \major
       \time 4/4
+      \numericTimeSignature
 
-      c2 d
-      
     }
   >>
   \layout { }
   \midi { }
   \header {
-    composer = "Carl Czerny"
+    composer = "Carl Czerny; Op. 824; Nº.2"
     piece = ""
     %opus = "824"
   }
