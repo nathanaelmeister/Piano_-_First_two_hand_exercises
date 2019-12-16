@@ -24,6 +24,9 @@
   \include "./single-pages/03_Czerny_Carl_-_Op_824_-_Nr_3.ly"
   \include "./single-pages/04_Czerny_Carl_-_Op_824_-_Nr_4.ly"
   \pageBreak
+  \include "./single-pages/05_Beyer_Ferdinant_-_Op_101_-_Nr_8.ly"
+  \include "./single-pages/06_Beyer_Ferdinant_-_Op_101_-_Nr_9.ly"
+  \pageBreak
   \include "./single-pages/41_Köhler_Louis_-_Op_300_-_Nr_41.ly"
   \include "./single-pages/42_Köhler_Louis_-_Op_300_-_Nr_42.ly"
 }
