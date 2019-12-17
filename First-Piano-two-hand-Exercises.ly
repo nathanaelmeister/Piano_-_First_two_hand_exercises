@@ -27,6 +27,10 @@
   \include "./single-pages/05_Beyer_Ferdinant_-_Op_101_-_Nr_8.ly"
   \include "./single-pages/06_Beyer_Ferdinant_-_Op_101_-_Nr_9.ly"
   \pageBreak
+  \include "single-pages/09_Beyer_Ferdinant_-_Op_101_-_Nr_12.ly"
+  \include "single-pages/10_Beyer_Ferdinant_-_Op_101_-_Nr_13.ly"
+  \include "single-pages/11_Beyer_Ferdinant_-_Op_101_-_Nr_14.ly"
+  \pageBreak
   \include "./single-pages/41_Köhler_Louis_-_Op_300_-_Nr_41.ly"
   \include "./single-pages/42_Köhler_Louis_-_Op_300_-_Nr_42.ly"
 }
