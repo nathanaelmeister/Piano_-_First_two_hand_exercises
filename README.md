@@ -1,8 +1,23 @@
 # Piano School
 ## Part II - *First two hand exercises*
-### by Nathanael Meister; Op. 23
+### by Nathanael Meister
 
-Collection of easy pieces for the first lectures in playing the Piano with two hands.
+Collection of easy pieces for the first lectures in
+playing the Piano with two hands at the same time.
+
+1. "Carl Czerny; Op. 824; Nº.1"
+2. "Carl Czerny; Op. 824; Nº.2"
+3. "Carl Czerny; Op. 824; Nº.3"
+4. "Carl Czerny; Op. 824; Nº.4"
+5. "Ferdinand Beyer; Op. 101; Nº.8"
+6.  "Ferdinand Beyer; Op. 101; Nº.9"
+{..}
+9. "Ferdinand Beyer; Op. 101; Nº.12"
+10. "Ferdinand Beyer; Op. 101; Nº.13"
+11. "Ferdinand Beyer; Op. 101; Nº.14"
+{..}
+41. "Louis Köhler; Op.300; Nº.41"
+42. "Louis Köhler; Op.300; Nº.42"
 
 _____________________________________________________________
 
@@ -21,7 +36,7 @@ apt install lilypond
 
 # compile input file with lilypond
 
-lilypond filename.ly 
+lilypond filename.ly
 
 # to batch compile all files in a folder
 # simply run this for-loop from the command-line
@@ -31,6 +46,7 @@ for i in *.ly; do lilypond "$i";done
 _____________________________________________________________
 
 typset with: [Lilypond](http://lilypond.org) "2.18.2"  
-
-you can try it online on: [LilyBin](http://lilybin.com)  
-or get support at the offical IRC on [FreeNode](http://webchat.freenode.net/?channels=lilypond)
+also have a look at: [LilyBin](http://lilybin.com)
+or get support at the offical IRC on [FreeNode](http://webchat.freenode.net/?channels=lilypond)  
+more Scores in the [LilyPond](http://lilypond.org) format can be found on [www.MutopiaProject.org](https://www.mutopiaproject.org)  
+snippets and tweaks can be found in [The LilyPond Snippet Repository ♪♫](http://lsr.di.unimi.it/LSR/Search) 
