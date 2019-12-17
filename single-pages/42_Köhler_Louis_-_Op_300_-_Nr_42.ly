@@ -34,8 +34,8 @@
               \startStaff
               c16(^\markup {
                 \bold "1.)" }
-              d e f) g8( e)   \bar "||" 
-              c16(^\markup { 
+              d e f) g8( e)   \bar "||"
+              c16(^\markup {
                 \bold "2.)" }
               d e f) g8-. e-. \bar "||"
               \stopStaff
@@ -137,4 +137,3 @@
     %opus = "300"
   }
 }
-
