@@ -60,7 +60,7 @@
   \layout { }
   \midi { }
   \header {
-    composer = "Deutsches VOlkslied"
+    composer = "Deutsches Volkslied"
     piece = "Der Kuckuck und der Esel"
     %opus = ""
   }

@@ -3,7 +3,7 @@
 ### by Nathanael Meister
 
 Collection of easy pieces for the first lectures in
-playing the Piano with two hands at the independently.
+playing the Piano with two hands independently.
 
 1. "Carl Czerny; Op. 824; Nº.1"
 2. "Carl Czerny; Op. 824; Nº.2"
