@@ -3,7 +3,7 @@
 ### by Nathanael Meister
 
 Collection of easy pieces for the first lectures in
-playing the Piano with two hands at the same time.
+playing the Piano with two hands at the independently.
 
 1. "Carl Czerny; Op. 824; Nº.1"
 2. "Carl Czerny; Op. 824; Nº.2"
@@ -21,20 +21,20 @@ playing the Piano with two hands at the same time.
 
 _____________________________________________________________
 
-While this collection is on growing, it is only providing the single pieces as [lilypond](http://lilypond.org) *.ly files.  
+While this collection is on growing, it is only providing the single pieces as [LilyPond](http://lilypond.org) *.ly files.  
 **PDF** and **MIDI** files are going to be added within the finalization of the collection to prevent a boost of the .git repository.  
-If you want to get **PDF** files beforehand you need to install [lilypond](http://lilypond.org) and compile the *.ly files.
+If you want to get **PDF** files beforehand you need to install [LilyPond](http://lilypond.org) and compile the *.ly files.
 
 **Here is a short description for a LINUX System from the Command-Line**
 
 ```
-# install lilypond from your repository
+# install LilyPond from your repository
 # using apt or your apropriate package manager
 
 apt update
 apt install lilypond
 
-# compile input file with lilypond
+# compile input file with LilyPond
 
 lilypond filename.ly
 
@@ -45,7 +45,7 @@ for i in *.ly; do lilypond "$i";done
 ```
 _____________________________________________________________
 
-typset with: [Lilypond](http://lilypond.org) "2.18.2"  
+typset with: [LilyPond](http://lilypond.org) "2.18.2"  
 also have a look at: [LilyBin](http://lilybin.com)
 or get support at the offical IRC on [FreeNode](http://webchat.freenode.net/?channels=lilypond)  
 more Scores in the [LilyPond](http://lilypond.org) format can be found on [www.MutopiaProject.org](https://www.mutopiaproject.org)  

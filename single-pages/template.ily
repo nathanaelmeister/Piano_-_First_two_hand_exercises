@@ -3,7 +3,7 @@
 \score {
   \new PianoStaff  <<
     \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "1." }
+      \huge \bold \number "NN." }
 
     \new Staff = "upper" \with {
       midiInstrument = #"acoustic grand" }
@@ -13,7 +13,7 @@
       \key c \major
       \time 4/4
       \numericTimeSignature
-      \tempo "."
+      \tempo ""
 
     }
     \new Staff = "lower" \with {
@@ -30,9 +30,9 @@
   \layout { }
   \midi { }
   \header {
-    composer = "Carl Czerny; Op. 824; Nº.2"
+    composer = "Comp; Op.; Nº.NN"
     piece = ""
-    %opus = "824"
+    %opus = ""
   }
 }
 
