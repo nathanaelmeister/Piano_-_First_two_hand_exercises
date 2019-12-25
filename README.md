@@ -16,6 +16,13 @@ playing the Piano with two hands at the independently.
 10. "Ferdinand Beyer; Op. 101; Nº.13"
 11. "Ferdinand Beyer; Op. 101; Nº.14"
 {..}
+12. "Volkslied - Hänschen klein"
+13. "Volkslied - Vogelhochzeit"
+14. "Volkslied - Kuckuck_kuckuck"
+15. "Volkslied - Summ summ summ"
+{..}
+17. "Volkslied - Der Kuckuck und der Esel"
+{..}
 41. "Louis Köhler; Op.300; Nº.41"
 42. "Louis Köhler; Op.300; Nº.42"
 
