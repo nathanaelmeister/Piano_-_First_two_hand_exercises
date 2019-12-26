@@ -5,26 +5,25 @@
 Collection of easy pieces for the first lectures in
 playing the Piano with two hands independently.
 
-1. "Carl Czerny; Op. 824; Nº.1"
-2. "Carl Czerny; Op. 824; Nº.2"
-3. "Carl Czerny; Op. 824; Nº.3"
-4. "Carl Czerny; Op. 824; Nº.4"
-5. "Ferdinand Beyer; Op. 101; Nº.8"
-6.  "Ferdinand Beyer; Op. 101; Nº.9"
-{..}
-9. "Ferdinand Beyer; Op. 101; Nº.12"
-10. "Ferdinand Beyer; Op. 101; Nº.13"
-11. "Ferdinand Beyer; Op. 101; Nº.14"
-{..}
-12. "Volkslied - Hänschen klein"
-13. "Volkslied - Vogelhochzeit"
-14. "Volkslied - Kuckuck_kuckuck"
-15. "Volkslied - Summ summ summ"
-{..}
-17. "Volkslied - Der Kuckuck und der Esel"
-{..}
-41. "Louis Köhler; Op.300; Nº.41"
-42. "Louis Köhler; Op.300; Nº.42"
+1. Czerny Carl - Op.824 - Nº.1
+2. Czerny Carl - Op.824 - Nº.2
+3. Czerny Carl - Op.824 - Nº.3
+4. Czerny Carl - Op.824 - Nº.4
+5. Beyer Ferdinant - Op.101 - Nº.8
+6. Beyer Ferdinant - Op.101 - Nº.9
+9. Beyer Ferdinant - Op.101 - Nº.12
+10. Beyer Ferdinant - Op.101 - Nº.13
+11. Beyer Ferdinant - Op.101 - Nº.14
+12. Volkslied - Gubben Noak
+13. Volkslied - Hänschen klein
+14. Volkslied - Vogelhochzeit
+15. Volkslied - Kuckuck kuckuck
+16. Volkslied - Summ summ summ
+17. Volkslied - Winter Ade
+18. Volkslied - Der Kuckuck und der Esel
+40. Dumont Felix - Op.24 - Wiegenlied
+41. Köhler Louis - Op.300 - Nº.41
+42. Köhler Louis - Op.300 - Nº.42
 
 _____________________________________________________________
 
