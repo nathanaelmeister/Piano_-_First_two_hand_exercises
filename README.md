@@ -14,13 +14,14 @@ playing the Piano with two hands independently.
 9. Beyer Ferdinant - Op.101 - Nº.12
 10. Beyer Ferdinant - Op.101 - Nº.13
 11. Beyer Ferdinant - Op.101 - Nº.14
-12. Volkslied - Gubben Noak
-13. Volkslied - Hänschen klein
-14. Volkslied - Vogelhochzeit
-15. Volkslied - Kuckuck kuckuck
-16. Volkslied - Summ summ summ
-17. Volkslied - Winter Ade
-18. Volkslied - Der Kuckuck und der Esel
+12. Volkslied - Ist ein Mann in Brunn gefallen
+13. Volkslied - Gubben Noak
+14. Volkslied - Hänschen klein
+15. Volkslied - Vogelhochzeit
+16. Volkslied - Kuckuck kuckuck
+17. Volkslied - Summ summ summ
+18. Volkslied - Winter Ade
+19. Volkslied - Der Kuckuck und der Esel
 40. Dumont Felix - Op.24 - Wiegenlied
 41. Köhler Louis - Op.300 - Nº.41
 42. Köhler Louis - Op.300 - Nº.42
