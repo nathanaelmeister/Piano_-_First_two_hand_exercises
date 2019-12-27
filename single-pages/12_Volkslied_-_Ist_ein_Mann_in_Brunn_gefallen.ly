@@ -3,7 +3,7 @@
 \score {
   \new PianoStaff  <<
     \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "14." }
+      \huge \bold \number "12." }
 
     \new Staff = "upper" \with {
       midiInstrument = #"acoustic grand" }
@@ -14,16 +14,14 @@
       \time 4/4
       \numericTimeSignature
 
-      \partial 4
-      e4           |
-      g e g e      | %01
-      f d f d      | %02
-      e c g'e      | %03
-      d g g g8 e   | %04
-      c4 c c g'8 e | %05
-      d4 d d g8 f  | %06
-      e4 c d-2 b-1 | %07
-      c2.-2          %08
+      c4 d e f  | %01
+      g g g g   | %02
+      c, d e f  | %03
+      g2 g      | %04
+      c,4 d e f | %05
+      g g g g   | %06
+      g f e d   | %07
+      c2 c      | %08
       \bar "|."
 
     }
@@ -36,14 +34,14 @@
       \time 4/4
       \numericTimeSignature
 
-      \partial 4
-      r4
-      \repeat unfold 3 {
-        c1
-        g'
-      }
-      c,2 g'
-      c,2.
+      c1 | %01
+      c  | %02
+      c  | %03
+      c  | %04
+      c  | %05
+      c  | %06
+      g' | %07
+      c, | %08
       \bar "|."
     }
   >>
@@ -51,7 +49,7 @@
   \midi { }
   \header {
     composer = "Deutsches Volkslied"
-    piece = "Die Vogelhochzeit"
+    piece = "Ist ein Mann in'n Brunn' gefallen"
     %opus = ""
   }
 }
