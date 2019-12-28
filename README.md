@@ -9,13 +9,13 @@ playing the Piano with two hands independently.
 2. Czerny Carl - Op.824 - Nº.2
 3. Czerny Carl - Op.824 - Nº.3
 4. Czerny Carl - Op.824 - Nº.4
-5. Beyer Ferdinant - Op.101 - Nº.8
-6. Beyer Ferdinant - Op.101 - Nº.9
-7. Beyer Ferdinant - Op.101 - Nº.10
-8. Beyer Ferdinant - Op.101 - Nº.11
-9. Beyer Ferdinant - Op.101 - Nº.12
-10. Beyer Ferdinant - Op.101 - Nº.13
-11. Beyer Ferdinant - Op.101 - Nº.14
+5. Beyer Ferdinand - Op.101 - Nº.8
+6. Beyer Ferdinand - Op.101 - Nº.9
+7. Beyer Ferdinand - Op.101 - Nº.10
+8. Beyer Ferdinand - Op.101 - Nº.11
+9. Beyer Ferdinand - Op.101 - Nº.12
+10. Beyer Ferdinand - Op.101 - Nº.13
+11. Beyer Ferdinand - Op.101 - Nº.14
 12. Volkslied - Ist ein Mann in Brunn gefallen
 13. Volkslied - Gubben Noak
 14. Volkslied - Hänschen klein
@@ -28,7 +28,7 @@ playing the Piano with two hands independently.
 21. Berens Hermann - Op.70 - Nº.2
 22. Berens Hermann - Op.70 - Nº.3
 23. Berens Hermann - Op.70 - Nº.4
-24. Beyer Ferdinant - Op.101 - Nº.15
+24. Beyer Ferdinand - Op.101 - Nº.15
 40. Dumont Felix - Op.24 - Wiegenlied
 41. Köhler Louis - Op.300 - Nº.41
 42. Köhler Louis - Op.300 - Nº.42
