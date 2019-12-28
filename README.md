@@ -1,4 +1,4 @@
-# Piano School
+# Piano School - LilyPond easy Piano Repository
 ## Part II - *First two hand exercises*
 ### by Nathanael Meister
 
@@ -22,6 +22,11 @@ playing the Piano with two hands independently.
 17. Volkslied - Summ summ summ
 18. Volkslied - Winter Ade
 19. Volkslied - Der Kuckuck und der Esel
+20. Berens Hermann - Op.70 - Nº.1
+21. Berens Hermann - Op.70 - Nº.2
+22. Berens Hermann - Op.70 - Nº.3
+23. Berens Hermann - Op.70 - Nº.4
+24. Beyer Ferdinant - Op.101 - Nº.15
 40. Dumont Felix - Op.24 - Wiegenlied
 41. Köhler Louis - Op.300 - Nº.41
 42. Köhler Louis - Op.300 - Nº.42
@@ -57,3 +62,24 @@ also have a look at: [LilyBin](http://lilybin.com)
 or get support at the offical IRC on [FreeNode](http://webchat.freenode.net/?channels=lilypond)  
 more Scores in the [LilyPond](http://lilypond.org) format can be found on [www.MutopiaProject.org](https://www.mutopiaproject.org)  
 snippets and tweaks can be found in [The LilyPond Snippet Repository ♪♫](http://lsr.di.unimi.it/LSR/Search) 
+_____________________________________________________________
+
+**To do list:**
+```
+typeset: Beyer; Op.101 Nr.10 and 11
+
+add: Beyer; Op.101; Nr.15 [done]
+     - (following later)
+
+add: Felix Dumont; Op.24; easy Variations
+
+add: Berens, Hermann - Op.70; Nr.1-4 [done]
+     - (following later)
+
+- write sh script to automate README.md creation. [done]
+  - get piece name and composer name from LilyPond syntax
+    instead of filename
+
+add: todo.list to README.md [done]
+
+```
