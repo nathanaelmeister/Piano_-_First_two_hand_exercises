@@ -11,29 +11,35 @@
     \relative c' {
       \clef treble
       \key c \major
-      \time 4/4
-      \numericTimeSignature
-      \tempo "Moderato" %4 = 120
+      \time 3/4
+      \tempo "Comodo" %4 = 120
 
-      c4 e c e    | %1
-      g c, c c    | %2
-      d d d d     | %3
-      e e e e     | %4
-      c e c e     | %5
-      g c, c c    | %6
-      d d e d     | %7
-      c e c2      | %8
-
-      \repeat volta 2 {
-        g'4 d d d | %9
-        e c c c   | %10
-        g' d d d  | %11
-        e c e d   | %12
-        c e c e   | %13
-        g c, c c  | %14
-        d d e d   | %15
-        c e c2    | %16
-      }
+      c d e   | %01
+      d e f   | %02
+      e4 g c, | %03
+      d2.     | %04
+      c4 d e  | %05
+      d e f   | %06
+      e g d   | %07
+      c2.     | %08
+      \bar "||"
+      d4 e f  | %09
+      e c e   | %10
+      g f e   | %11
+      d2.     | %12
+      d4 e f  | %13
+      e c e   | %14
+      g f e   | %15
+      d2.     | %16
+      c4 d e  | %17
+      d e f   | %18
+      e g c,  | %19
+      d2.     | %20
+      c4 d e  | %21
+      d e f   | %22
+      e g d   | %23
+      c2.     | %24
+      \bar "|."
     }
     \new Staff = "lower" \with {
       midiInstrument = #"acoustic grand" }
@@ -41,21 +47,18 @@
     \relative c' {
       \clef bass
       \key c \major
-      \time 4/4
-      \numericTimeSignature
+      \time 3/4
 
-      \repeat unfold 6 {
-        g1
-      }
-      g2 g
-      g1
-      \repeat volta 2 {
+      \repeat unfold 5 {
+        g2.
         g
-        \repeat unfold 2 {
-          g g g2 g
-        }
-        g1
+        g
+        g4 g g
       }
+      \repeat unfold 4 {
+        g2.
+      }
+      \bar "|."
     }
   >>
   \layout { }
