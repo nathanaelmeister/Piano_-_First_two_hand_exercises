@@ -41,6 +41,13 @@
   \include "./single-pages/17_Volkslied_-_Summ_summ_summ.ly"
   \include "./single-pages/18_Volkslied_-_Winter_Ade.ly"
   \include "./single-pages/19_Volkslied_-_Der_Kuckuck_und_der_Esel.ly"
+
+  \include "./single-pages/20_Berens_Hermann_-_Op_70_-_Nr_1.ly"
+  \include "./single-pages/21_Berens_Hermann_-_Op_70_-_Nr_2.ly"
+  \include "./single-pages/22_Berens_Hermann_-_Op_70_-_Nr_3.ly"
+  \include "./single-pages/23_Berens_Hermann_-_Op_70_-_Nr_4.ly"
+
+  \include "./single-pages/24_Beyer_Ferdinant_-_Op_101_-_Nr_15.ly"
   \include "./single-pages/40_Dumont_Felix_-_Op_24_-_Wiegenlied.ly"
   \pageBreak
   \include "./single-pages/41_Köhler_Louis_-_Op_300_-_Nr_41.ly"
