@@ -12,6 +12,7 @@ playing the Piano with two hands independently.
 5. Beyer Ferdinant - Op.101 - Nº.8
 6. Beyer Ferdinant - Op.101 - Nº.9
 7. Beyer Ferdinant - Op.101 - Nº.10
+8. Beyer Ferdinant - Op.101 - Nº.11
 9. Beyer Ferdinant - Op.101 - Nº.12
 10. Beyer Ferdinant - Op.101 - Nº.13
 11. Beyer Ferdinant - Op.101 - Nº.14
@@ -67,12 +68,8 @@ _____________________________________________________________
 
 **To do list:**
 ```
-typeset: Beyer; Op.101 Nr.10 [done]
-         - Op.101; Nr.11 [needs to come later if used]
-
-Nr.08 is emty!!!
-  - needs new file or to be romved
-    then all numbers of following files need to be decreased by one
+typeset: Beyer; - Op.101; Nr.10 [done] => Nr. 07
+                - Op.101; Nr.11 [done] => Nr. 08
 
 add: Beyer; Op.101; Nr.15 [done]
      - (following later)

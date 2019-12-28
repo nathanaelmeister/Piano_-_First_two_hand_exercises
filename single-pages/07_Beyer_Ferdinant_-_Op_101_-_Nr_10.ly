@@ -14,7 +14,7 @@
       \time 3/4
       \tempo "Comodo" %4 = 120
 
-      c d e   | %01
+      c4 d e  | %01
       d e f   | %02
       e4 g c, | %03
       d2.     | %04
