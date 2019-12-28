@@ -1,4 +1,4 @@
-# Piano School - LilyPond easy Piano Repository
+# Piano School - [LilyPond](http://www.lilypond.org) easy Piano Repository
 ## Part II - *First two hand exercises*
 ### by Nathanael Meister
 
@@ -11,6 +11,7 @@ playing the Piano with two hands independently.
 4. Czerny Carl - Op.824 - Nº.4
 5. Beyer Ferdinant - Op.101 - Nº.8
 6. Beyer Ferdinant - Op.101 - Nº.9
+7. Beyer Ferdinant - Op.101 - Nº.10
 9. Beyer Ferdinant - Op.101 - Nº.12
 10. Beyer Ferdinant - Op.101 - Nº.13
 11. Beyer Ferdinant - Op.101 - Nº.14
@@ -33,9 +34,9 @@ playing the Piano with two hands independently.
 
 _____________________________________________________________
 
-While this collection is on growing, it is only providing the single pieces as [LilyPond](http://lilypond.org) *.ly files.  
-**PDF** and **MIDI** files are going to be added within the finalization of the collection to prevent a boost of the .git repository.  
-If you want to get **PDF** files beforehand you need to install [LilyPond](http://lilypond.org) and compile the *.ly files.
+While this collection is on growing, it is only providing the single pieces as [LilyPond](http://lilypond.org) `*.ly` files.  
+**PDF** and **MIDI** files are going to be added within the finalization of the collection to prevent a boost of the `.git` repository.  
+If you want to get **PDF** files beforehand you need to install [LilyPond](http://lilypond.org) and compile the `*.ly` files.
 
 **Here is a short description for a LINUX System from the Command-Line**
 
@@ -66,7 +67,12 @@ _____________________________________________________________
 
 **To do list:**
 ```
-typeset: Beyer; Op.101 Nr.10 and 11
+typeset: Beyer; Op.101 Nr.10 [done]
+         - Op.101; Nr.11 [needs to come later if used]
+
+Nr.08 is emty!!!
+  - needs new file or to be romved
+    then all numbers of following files need to be decreased by one
 
 add: Beyer; Op.101; Nr.15 [done]
      - (following later)
