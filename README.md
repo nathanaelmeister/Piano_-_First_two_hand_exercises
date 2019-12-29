@@ -33,10 +33,10 @@ playing the Piano with two hands independently.
 26. Meister Nathanael - Op.24 - Nº.1b
 27. Meister Nathanael - Op.24 - Nº.2
 28. Meister Nathanael - Op.24 - Nº.3
-29. Meister Nathanael - Op.24 - Nº.2
-30. Meister Nathanael - Op.24 - Nº.3
-31. Meister Nathanael - Op.24 - Nº.4
-32. Meister Nathanael - Op.24 - Nº.5
+29. Meister Nathanael - Op.24 - Nº.4
+30. Meister Nathanael - Op.24 - Nº.5
+31. Meister Nathanael - Op.24 - Nº.6
+32. Meister Nathanael - Op.24 - Nº.7
 33. Beyer Ferdinand - Op.101 - Nº.16
 34. Beyer Ferdinand - Op.101 - Nº.17
 35. Beyer Ferdinand - Op.101 - Nº.18
@@ -91,6 +91,16 @@ add: Ferdinand Beyer; - Op.101; Nr.10 [done] => Nr.07
 
 add: todo.list to README.md [done]
 
+double check on files:
+- 27_Meister_Nathanael_-_Op_24_-_Nr_2.ly [rewritten/done]
+- 28_Meister_Nathanael_-_Op_24_-_Nr_3.ly [done]
+
+renumber Opus Numbers of:
+- 29_Meister_Nathanael_-_Op_24_-_Nr_2.ly [done]
+- 30_Meister_Nathanael_-_Op_24_-_Nr_3.ly [done]
+- 31_Meister_Nathanael_-_Op_24_-_Nr_4.ly [done]
+- 32_Meister_Nathanael_-_Op_24_-_Nr_5.ly [done]
+
 - write sh script to automate README.md creation. [done]
   - get piece and composer name from LilyPond syntax
     instead of filename!
@@ -115,14 +125,7 @@ check on:
   - Nr. 3
   - Nr. 4
 
-double check on files:
-- 27_Meister_Nathanael_-_Op_24_-_Nr_2.ly
-- 28_Meister_Nathanael_-_Op_24_-_Nr_3.ly
-
-renumber Opus Numbers of:
-- 29_Meister_Nathanael_-_Op_24_-_Nr_2.ly
-- 30_Meister_Nathanael_-_Op_24_-_Nr_3.ly
-- 31_Meister_Nathanael_-_Op_24_-_Nr_4.ly
-- 32_Meister_Nathanael_-_Op_24_-_Nr_5.ly
-
+add: "Hänsel und Gretel" => Nr.20
+add: Beethoven "An die Freude" => Nr.???
+     - simple, reduced or normal chords?
 ```

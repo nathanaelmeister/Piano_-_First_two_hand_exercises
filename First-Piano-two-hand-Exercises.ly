@@ -4,7 +4,7 @@
 #(set-global-staff-size 24)
 
 \include "./global-files/gitlink.ily"
-\include "./global-files/paper.ily"
+%\include "./global-files/paper.ily"
 \include "./global-files/pdf-header.ily"
 
 
@@ -29,6 +29,7 @@
   \pageBreak
   \include "./single-pages/07_Beyer_Ferdinand_-_Op_101_-_Nr_10.ly"
   \include "./single-pages/08_Beyer_Ferdinand_-_Op_101_-_Nr_11.ly"
+  \pageBreak
   \include "./single-pages/09_Beyer_Ferdinand_-_Op_101_-_Nr_12.ly"
   \include "./single-pages/10_Beyer_Ferdinand_-_Op_101_-_Nr_13.ly"
   \include "./single-pages/11_Beyer_Ferdinand_-_Op_101_-_Nr_14.ly"
@@ -39,6 +40,7 @@
   \include "./single-pages/15_Volkslied_-_Vogelhochzeit.ly"
   \include "./single-pages/16_Volkslied_-_Kuckuck_kuckuck.ly"
   \include "./single-pages/17_Volkslied_-_Summ_summ_summ.ly"
+  \pageBreak
   \include "./single-pages/18_Volkslied_-_Winter_Ade.ly"
   \include "./single-pages/19_Volkslied_-_Der_Kuckuck_und_der_Esel.ly"
 
@@ -52,10 +54,10 @@
   \include "./single-pages/26_Meister_Nathanael_-_Op_24_-_Nr_1b.ly"
   \include "./single-pages/27_Meister_Nathanael_-_Op_24_-_Nr_2.ly"
   \include "./single-pages/28_Meister_Nathanael_-_Op_24_-_Nr_3.ly"
-  \include "./single-pages/29_Meister_Nathanael_-_Op_24_-_Nr_2.ly"
-  \include "./single-pages/30_Meister_Nathanael_-_Op_24_-_Nr_3.ly"
-  \include "./single-pages/31_Meister_Nathanael_-_Op_24_-_Nr_4.ly"
-  \include "./single-pages/32_Meister_Nathanael_-_Op_24_-_Nr_5.ly"
+  \include "./single-pages/29_Meister_Nathanael_-_Op_24_-_Nr_4.ly"
+  \include "./single-pages/30_Meister_Nathanael_-_Op_24_-_Nr_5.ly"
+  \include "./single-pages/31_Meister_Nathanael_-_Op_24_-_Nr_6.ly"
+  \include "./single-pages/32_Meister_Nathanael_-_Op_24_-_Nr_7.ly"
 
   \include "./single-pages/33_Beyer_Ferdinand_-_Op_101_-_Nr_16.ly"
   \include "./single-pages/34_Beyer_Ferdinand_-_Op_101_-_Nr_17.ly"

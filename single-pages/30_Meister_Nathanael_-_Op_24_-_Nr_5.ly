@@ -3,7 +3,7 @@
 \score {
   \new PianoStaff  <<
     \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "28." }
+      \huge \bold \number "30." }
 
     \new Staff = "upper" \with {
       midiInstrument = #"acoustic grand" }
@@ -62,7 +62,7 @@
   \layout { }
   \midi { }
   \header {
-    composer = "Nathanael Meister; Op.24; Nº.3"
+    composer = "Nathanael Meister; Op.24; Nº.5"
     piece = ""
     %opus = ""
   }
