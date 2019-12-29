@@ -11,52 +11,59 @@
     \relative c' {
       \clef treble
       \key c \major
-      \time 3/4
+      \time 4/4
+      \numericTimeSignature
 
-      c4 g'( f) | %01
-      c g'( f)  | %02
-      c g'( f)  | %03
-      e2.       | %04
-      d4 g( f)  | %05
-      d g( f)   | %06
-      d g( f)   | %07
-      e2.       | %08
-      g4( f g)  | %09
-      f( e f)   | %10
-      e( d f)   | %11
-      e2.       | %12
-      g4( f g)  | %13
-      f( e f)   | %14
-      g( f d)   | %15
-      c2.       | %16
-      \bar "|."
-
+      \repeat volta 2 {
+        c4 d e2  | %01
+        g4 f d2  | %02
+        d4 e f d | %03
+        e2 e     | %04
+        c4 d e c | %05
+        d e f d  | %06
+        g f e d  | %07
+        c2 c     | %08
+      }
+      \repeat volta 2 {
+        d4 e d2  | %09
+        d4 g d2  | %10
+        d4 d e d | %11
+        g f e d  | %12
+        c d e c  | %13
+        d e f d  | %14
+        g f e d  | %15
+        c2 c     | %16
+      }
     }
     \new Staff = "lower" \with {
       midiInstrument = #"acoustic grand" }
 
-    \relative c' {
+    \relative c {
       \clef bass
       \key c \major
-      \time 3/4
+      \time 4/4
+      \numericTimeSignature
 
-      g2.     | %01
-      g       | %02
-      g       | %03
-      c,4 e g | %04
-      g2.     | %05
-      g       | %06
-      g       | %07
-      c,4 e g | %08
-      d2.     | %09
-      f       | %10
-      g       | %11
-      c,4 e g | %12
-      d2.     | %13
-      f       | %14
-      g       | %15
-      c,4 e c | %16
-      \bar "|."
+      \repeat volta 2 {
+        c1   | %01
+        d    | %02
+        f    | %03
+        c    | %04
+        c    | %05
+        g'   | %06
+        d2 g | %07
+        c,1  | %08
+      }
+      \repeat volta 2 {
+        d    | %09
+        g    | %10
+        d    | %11
+        g    | %12
+        c,   | %13
+        d    | %14
+        g    | %15
+        e2 c | %16
+      }
     }
   >>
   \layout { }

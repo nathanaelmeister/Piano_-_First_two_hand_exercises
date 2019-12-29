@@ -11,24 +11,28 @@
     \relative c' {
       \clef treble
       \key c \major
-      \time 3/4
+      \time 4/4
+      \numericTimeSignature
 
-      c4( d e) | %01
-      c( d e)  | %02
-      c( d e)  | %03
-      c2.      | %04
-      d4( e f) | %05
-      d( e f)  | %06
-      d( e f)  | %07
-      d2.      | %08
-      e4( f g) | %09
-      e( f g)  | %10
-      e( f g)  | %11
-      e2.      | %12
-      g4( f e) | %13
-      f( e d)  | %14
-      e( d c)  | %15
-      c2.      | %16
+
+      e2 c     | %01
+      e c      | %02
+      f d      | %03
+      f1       | %04
+      e2 c     | %05
+      f e      | %06
+      d1       | %07
+      d        | %08
+      \bar "||"
+
+      e2 c     | %09
+      e c      | %10
+      f d      | %11
+      f1       | %12
+      g2 e4 c  | %13
+      g'2 e4 c | %14
+      d1       | %15
+      c1       | %16
       \bar "|."
 
     }
@@ -38,25 +42,29 @@
     \relative c {
       \clef bass
       \key c \major
-      \time 3/4
+      \time 4/4
+      \numericTimeSignature
 
-      c2.   | %01
-      e     | %02
-      g     | %03
-      e     | %04
-      d     | %05
-      f     | %06
-      g     | %07
-      d     | %08
-      e     | %09
-      g     | %10
-      c,    | %11
-      e     | %12
-      g     | %13
-      f     | %14
-      e2 g4 | %15
-      c,2.  | %16
+      c1   | %01
+      e    | %02
+      d    | %03
+      d    | %04
+      c    | %05
+      d2 e | %06
+      f g  | %07
+      g d  | %08
+      \bar "||"
+
+      c1   | %09
+      e    | %10
+      d    | %11
+      d    | %12
+      c    | %13
+      e    | %14
+      d2 g | %15
+      c,1  | %16
       \bar "|."
+
     }
   >>
   \layout { }

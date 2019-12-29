@@ -33,11 +33,13 @@ playing the Piano with two hands independently.
 26. Meister Nathanael - Op.24 - Nº.1b
 27. Meister Nathanael - Op.24 - Nº.2
 28. Meister Nathanael - Op.24 - Nº.3
-29. Meister Nathanael - Op.24 - Nº.4
-30. Meister Nathanael - Op.24 - Nº.5
-31. Beyer Ferdinand - Op.101 - Nº.16
-32. Beyer Ferdinand - Op.101 - Nº.17
-33. Beyer Ferdinand - Op.101 - Nº.18
+29. Meister Nathanael - Op.24 - Nº.2
+30. Meister Nathanael - Op.24 - Nº.3
+31. Meister Nathanael - Op.24 - Nº.4
+32. Meister Nathanael - Op.24 - Nº.5
+33. Beyer Ferdinand - Op.101 - Nº.16
+34. Beyer Ferdinand - Op.101 - Nº.17
+35. Beyer Ferdinand - Op.101 - Nº.18
 40. Dumont Felix - Op.24 - Wiegenlied
 41. Köhler Louis - Op.300 - Nº.41
 42. Köhler Louis - Op.300 - Nº.42
@@ -87,15 +89,40 @@ add: Ferdinand Beyer; - Op.101; Nr.10 [done] => Nr.07
                       - Op.101; Nr.17 [done] => Nr.32
                       - Op.101; Nr.18 [done] => Nr.33
 
+add: todo.list to README.md [done]
+
+- write sh script to automate README.md creation. [done]
+  - get piece and composer name from LilyPond syntax
+    instead of filename!
+
 add: Felix Dumont; Op.24; easy Variations
 
 add: Berens, Hermann - Op.70; Nr.1-4 [done] => Nr.20-23
-                     - (following later)
+                     - (following later => CHECK!)
 
-- write sh script to automate README.md creation. [done]
-  - get piece name and composer name from LilyPond syntax
-    instead of filename
+check on:
+- Louis Köhler; Op.300
+  - Nr. 26
+  - Nr. 27 (compare with Felix Dumont; Op. 24; Wiegenlied)
+- Louis Köhler; Op.249
+  - Nr. 17 ---> sucsessor of Felix Dumont; Op. 24; Wiegenlied?
+  - Nr. 18
+  - Nr. 12
+  - Nr. 20
+- Nathanael Meister; Op.27; Rhythym School
+  - Nr. 1
+  - Nr. 2
+  - Nr. 3
+  - Nr. 4
 
-add: todo.list to README.md [done]
+double check on files:
+- 27_Meister_Nathanael_-_Op_24_-_Nr_2.ly
+- 28_Meister_Nathanael_-_Op_24_-_Nr_3.ly
+
+renumber Opus Numbers of:
+- 29_Meister_Nathanael_-_Op_24_-_Nr_2.ly
+- 30_Meister_Nathanael_-_Op_24_-_Nr_3.ly
+- 31_Meister_Nathanael_-_Op_24_-_Nr_4.ly
+- 32_Meister_Nathanael_-_Op_24_-_Nr_5.ly
 
 ```
