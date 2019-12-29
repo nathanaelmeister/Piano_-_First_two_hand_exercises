@@ -29,6 +29,15 @@ playing the Piano with two hands independently.
 22. Berens Hermann - Op.70 - Nº.3
 23. Berens Hermann - Op.70 - Nº.4
 24. Beyer Ferdinand - Op.101 - Nº.15
+25. Meister Nathanael - Op.24 - Nº.1a
+26. Meister Nathanael - Op.24 - Nº.1b
+27. Meister Nathanael - Op.24 - Nº.2
+28. Meister Nathanael - Op.24 - Nº.3
+29. Meister Nathanael - Op.24 - Nº.4
+30. Meister Nathanael - Op.24 - Nº.5
+31. Beyer Ferdinand - Op.101 - Nº.16
+32. Beyer Ferdinand - Op.101 - Nº.17
+33. Beyer Ferdinand - Op.101 - Nº.18
 40. Dumont Felix - Op.24 - Wiegenlied
 41. Köhler Louis - Op.300 - Nº.41
 42. Köhler Louis - Op.300 - Nº.42
@@ -68,16 +77,20 @@ _____________________________________________________________
 
 **To do list:**
 ```
-typeset: Beyer; - Op.101; Nr.10 [done] => Nr. 07
-                - Op.101; Nr.11 [done] => Nr. 08
-
-add: Beyer; Op.101; Nr.15 [done]
-     - (following later)
+add: Ferdinand Beyer; - Op.101; Nr.10 [done] => Nr.07
+                      - Op.101; Nr.11 [done] => Nr.08
+                      - Op.101; Nr.12 [done] => Nr.09
+                      - Op.101; Nr.13 [done] => Nr.10
+                      - Op.101; Nr.14 [done] => Nr.11
+                      - Op.101; Nr.15 [done] => Nr.24
+                      - Op.101; Nr.16 [done] => Nr.31
+                      - Op.101; Nr.17 [done] => Nr.32
+                      - Op.101; Nr.18 [done] => Nr.33
 
 add: Felix Dumont; Op.24; easy Variations
 
-add: Berens, Hermann - Op.70; Nr.1-4 [done]
-     - (following later)
+add: Berens, Hermann - Op.70; Nr.1-4 [done] => Nr.20-23
+                     - (following later)
 
 - write sh script to automate README.md creation. [done]
   - get piece name and composer name from LilyPond syntax
