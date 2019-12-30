@@ -63,7 +63,15 @@
   \include "./single-pages/34_Beyer_Ferdinand_-_Op_101_-_Nr_17.ly"
   \include "./single-pages/35_Beyer_Ferdinand_-_Op_101_-_Nr_18.ly"
 
-  \include "./single-pages/40_Dumont_Felix_-_Op_24_-_Wiegenlied.ly"
-  \include "./single-pages/41_Köhler_Louis_-_Op_300_-_Nr_41.ly"
-  \include "./single-pages/42_Köhler_Louis_-_Op_300_-_Nr_42.ly"
+  \include "./single-pages/36_Meister_Nathanael_-_Op_27_-_Nr_1a.ly"
+  \include "./single-pages/37_Meister_Nathanael_-_Op_27_-_Nr_1b.ly"
+  \include "./single-pages/38_Meister_Nathanael_-_Op_27_-_Nr_2a.ly"
+  \include "./single-pages/39_Meister_Nathanael_-_Op_27_-_Nr_2b.ly"
+  \include "./single-pages/40_Meister_Nathanael_-_Op_27_-_Nr_3.ly"
+  \include "./single-pages/41_Meister_Nathanael_-_Op_27_-_Nr_4.ly"
+  \include "./single-pages/43_Dumont_Felix_-_Op_24_-_Wiegenlied.ly"
+  \include "./single-pages/44_Czerny_Carl_-_Op_599_-_Nr_11.ly"
+  \include "./single-pages/45_Czerny_Carl_-_Op_599_-_Nr_12.ly"
+  \include "./single-pages/46_Köhler_Louis_-_Op_300_-_Nr_41.ly"
+  \include "./single-pages/47_Köhler_Louis_-_Op_300_-_Nr_42.ly"
 }

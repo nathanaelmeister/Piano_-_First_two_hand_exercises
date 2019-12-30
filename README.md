@@ -40,9 +40,17 @@ playing the Piano with two hands independently.
 33. Beyer Ferdinand - Op.101 - Nº.16
 34. Beyer Ferdinand - Op.101 - Nº.17
 35. Beyer Ferdinand - Op.101 - Nº.18
-40. Dumont Felix - Op.24 - Wiegenlied
-41. Köhler Louis - Op.300 - Nº.41
-42. Köhler Louis - Op.300 - Nº.42
+36. Meister Nathanael - Op.27 - Nº.1a
+37. Meister Nathanael - Op.27 - Nº.1b
+38. Meister Nathanael - Op.27 - Nº.2a
+39. Meister Nathanael - Op.27 - Nº.2b
+40. Meister Nathanael - Op.27 - Nº.3
+41. Meister Nathanael - Op.27 - Nº.4
+43. Dumont Felix - Op.24 - Wiegenlied
+44. Czerny Carl - Op.599 - Nº.11
+45. Czerny Carl - Op.599 - Nº.12
+46. Köhler Louis - Op.300 - Nº.41
+47. Köhler Louis - Op.300 - Nº.42
 
 _____________________________________________________________
 
@@ -120,10 +128,12 @@ check on:
   - Nr. 12
   - Nr. 20
 - Nathanael Meister; Op.27; Rhythym School
-  - Nr. 1
-  - Nr. 2
-  - Nr. 3
-  - Nr. 4
+  - Nr. 1a [done]
+  - Nr. 1b [done]
+  - Nr. 2a [done]
+  - Nr. 2b [done]
+  - Nr. 3  [done]
+  - Nr. 4  [done]
 
 add: "Hänsel und Gretel" => Nr.20
 add: Beethoven "An die Freude" => Nr.???
