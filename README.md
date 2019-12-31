@@ -24,33 +24,34 @@ playing the Piano with two hands independently.
 17. Volkslied - Summ summ summ
 18. Volkslied - Winter Ade
 19. Volkslied - Der Kuckuck und der Esel
-20. Berens Hermann - Op.70 - Nº.1
-21. Berens Hermann - Op.70 - Nº.2
-22. Berens Hermann - Op.70 - Nº.3
-23. Berens Hermann - Op.70 - Nº.4
-24. Beyer Ferdinand - Op.101 - Nº.15
-25. Meister Nathanael - Op.24 - Nº.1a
-26. Meister Nathanael - Op.24 - Nº.1b
-27. Meister Nathanael - Op.24 - Nº.2
-28. Meister Nathanael - Op.24 - Nº.3
-29. Meister Nathanael - Op.24 - Nº.4
-30. Meister Nathanael - Op.24 - Nº.5
-31. Meister Nathanael - Op.24 - Nº.6
-32. Meister Nathanael - Op.24 - Nº.7
-33. Beyer Ferdinand - Op.101 - Nº.16
-34. Beyer Ferdinand - Op.101 - Nº.17
-35. Beyer Ferdinand - Op.101 - Nº.18
-36. Meister Nathanael - Op.27 - Nº.1a
-37. Meister Nathanael - Op.27 - Nº.1b
-38. Meister Nathanael - Op.27 - Nº.2a
-39. Meister Nathanael - Op.27 - Nº.2b
-40. Meister Nathanael - Op.27 - Nº.3
-41. Meister Nathanael - Op.27 - Nº.4
-43. Dumont Felix - Op.24 - Wiegenlied
-44. Czerny Carl - Op.599 - Nº.11
-45. Czerny Carl - Op.599 - Nº.12
-46. Köhler Louis - Op.300 - Nº.41
-47. Köhler Louis - Op.300 - Nº.42
+20. Volkslied - Hänsel und Gretel
+21. Berens Hermann - Op.70 - Nº.1
+22. Berens Hermann - Op.70 - Nº.2
+23. Berens Hermann - Op.70 - Nº.3
+24. Berens Hermann - Op.70 - Nº.4
+25. Beyer Ferdinand - Op.101 - Nº.15
+26. Meister Nathanael - Op.24 - Nº.1a
+27. Meister Nathanael - Op.24 - Nº.1b
+28. Meister Nathanael - Op.24 - Nº.2
+29. Meister Nathanael - Op.24 - Nº.3
+30. Meister Nathanael - Op.24 - Nº.4
+31. Meister Nathanael - Op.24 - Nº.5
+32. Meister Nathanael - Op.24 - Nº.6
+33. Meister Nathanael - Op.24 - Nº.7
+34. Beyer Ferdinand - Op.101 - Nº.16
+35. Beyer Ferdinand - Op.101 - Nº.17
+36. Beyer Ferdinand - Op.101 - Nº.18
+37. Meister Nathanael - Op.27 - Nº.1a
+38. Meister Nathanael - Op.27 - Nº.1b
+39. Meister Nathanael - Op.27 - Nº.2a
+40. Meister Nathanael - Op.27 - Nº.2b
+41. Meister Nathanael - Op.27 - Nº.3
+42. Meister Nathanael - Op.27 - Nº.4
+44. Dumont Felix - Op.24 - Wiegenlied
+45. Czerny Carl - Op.599 - Nº.11
+46. Czerny Carl - Op.599 - Nº.12
+47. Köhler Louis - Op.300 - Nº.41
+48. Köhler Louis - Op.300 - Nº.42
 
 _____________________________________________________________
 
@@ -116,7 +117,9 @@ renumber Opus Numbers of:
 add: Felix Dumont; Op.24; easy Variations
 
 add: Berens, Hermann - Op.70; Nr.1-4 [done] => Nr.20-23
-                     - (following later => CHECK!)
+                     - following => Nr.36 ff
+                     - piece former known as "On the Swing"
+                       ==> after Felix Dumont - "Wiegenlied"
 
 check on:
 - Louis Köhler; Op.300
@@ -138,4 +141,15 @@ check on:
 add: "Hänsel und Gretel" => Nr.20
 add: Beethoven "An die Freude" => Nr.???
      - simple, reduced or normal chords?
+
+# ========================================================#
+# Stats: 47 Scores from 7 different Composers:
+# ========================================================#
+     14 Nathanael Meister
+     11 Ferdinand Beyer
+      9 - Volkslied
+      6 Carl Czerny
+      4 Hermann Berens
+      2 Louis Köhler
+      1 Felix Dumont
 ```
