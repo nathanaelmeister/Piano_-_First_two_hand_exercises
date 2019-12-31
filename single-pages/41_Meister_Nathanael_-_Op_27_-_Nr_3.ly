@@ -39,7 +39,7 @@
         <c e g >2. d4 | %02
         <c e g >2. d4 | %03
         <c e g >1     | %04
-        g4 f e d      | %05
+        g'4 f e d     | %05
         g f e d       | %06
         g f e d       | %07
         g e c2        | %08
