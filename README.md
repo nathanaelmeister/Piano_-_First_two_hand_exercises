@@ -16,15 +16,15 @@ playing the Piano with two hands independently.
 9. Beyer Ferdinand - Op.101 - Nº.12
 10. Beyer Ferdinand - Op.101 - Nº.13
 11. Beyer Ferdinand - Op.101 - Nº.14
-12. Volkslied - Ist ein Mann in Brunn gefallen
-13. Volkslied - Gubben Noak
-14. Volkslied - Hänschen klein
-15. Volkslied - Vogelhochzeit
-16. Volkslied - Kuckuck kuckuck
-17. Volkslied - Summ summ summ
-18. Volkslied - Winter Ade
-19. Volkslied - Der Kuckuck und der Esel
-20. Volkslied - Hänsel und Gretel
+12. Deutsches Volkslied - Ist ein Mann in Brunn gefallen
+13. Skandinavisches Volkslied - Gubben Noak
+14. Deutsches Volkslied - Hänschen klein
+15. Deutsches Volkslied - Vogelhochzeit
+16. Deutsches Volkslied - Kuckuck kuckuck
+17. Deutsches Volkslied - Summ summ summ
+18. Deutsches Volkslied - Winter Ade
+19. Deutsches Volkslied - Der Kuckuck und der Esel
+20. Deutsches Volkslied - Hänsel und Gretel
 21. Berens Hermann - Op.70 - Nº.1
 22. Berens Hermann - Op.70 - Nº.2
 23. Berens Hermann - Op.70 - Nº.3
@@ -110,14 +110,25 @@ renumber Opus Numbers of:
 - 31_Meister_Nathanael_-_Op_24_-_Nr_4.ly [done]
 - 32_Meister_Nathanael_-_Op_24_-_Nr_5.ly [done]
 
+- Nathanael Meister; Op.27; Rhythym School
+  - Nr. 1a [done]
+  - Nr. 1b [done]
+  - Nr. 2a [done]
+  - Nr. 2b [done]
+  - Nr. 3  [done]
+  - Nr. 4  [done]
+
+add: "Hänsel und Gretel" => Nr.20 [done]
+
 - write sh script to automate README.md creation. [done]
   - get piece and composer name from LilyPond syntax
     instead of filename!
 
 add: Felix Dumont; Op.24; easy Variations
+     - where? -> leading to/introducing "Alberti Bass" technique.
 
 add: Berens, Hermann - Op.70; Nr.1-4 [done] => Nr.20-23
-                     - following => Nr.36 ff
+                     - following => Nr.35 ff
                      - piece former known as "On the Swing"
                        ==> after Felix Dumont - "Wiegenlied"
 
@@ -130,26 +141,19 @@ check on:
   - Nr. 18
   - Nr. 12
   - Nr. 20
-- Nathanael Meister; Op.27; Rhythym School
-  - Nr. 1a [done]
-  - Nr. 1b [done]
-  - Nr. 2a [done]
-  - Nr. 2b [done]
-  - Nr. 3  [done]
-  - Nr. 4  [done]
 
-add: "Hänsel und Gretel" => Nr.20
 add: Beethoven "An die Freude" => Nr.???
      - simple, reduced or normal chords?
 
 # ========================================================#
-# Stats: 47 Scores from 7 different Composers:
+# Stats: 47 Scores from 8 different Composers:
 # ========================================================#
      14 Nathanael Meister
      11 Ferdinand Beyer
-      9 - Volkslied
+      8 Deutsches Volkslied
       6 Carl Czerny
       4 Hermann Berens
       2 Louis Köhler
+      1 Skandinavisches Volkslied
       1 Felix Dumont
 ```
