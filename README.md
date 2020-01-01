@@ -52,6 +52,8 @@ playing the Piano with two hands independently.
 46. Czerny Carl - Op.599 - Nº.12
 47. Köhler Louis - Op.300 - Nº.41
 48. Köhler Louis - Op.300 - Nº.42
+49. Czerny Carl - Op.599 - Nº.13
+50. Czerny Carl - Op.599 - Nº.14
 
 _____________________________________________________________
 
@@ -132,6 +134,8 @@ add: Berens, Hermann - Op.70; Nr.1-4 [done] => Nr.20-23
                      - piece former known as "On the Swing"
                        ==> after Felix Dumont - "Wiegenlied"
 
+add: Cornelius Gurlitt; Op.288 - from Nr.34 onwards => find place
+
 check on:
 - Louis Köhler; Op.300
   - Nr. 26
@@ -142,20 +146,22 @@ check on:
   - Nr. 12
   - Nr. 20
 
+add: alternative ending for Carl Czerny; Op. 599; Nr.14
+
 add: Beethoven "An die Freude" => Nr.???
      - simple, reduced or normal chords?
 
 # ========================================================#
-# Stats: 47 Scores from 8 different Composers:
+# Stats: 49 Scores from 8 different Composers:
 # ========================================================#
      14 Nathanael Meister
      11 Ferdinand Beyer
       8 Deutsches Volkslied
-      6 Carl Czerny
+      8 Carl Czerny
       4 Hermann Berens
       2 Louis Köhler
       1 Skandinavisches Volkslied
       1 Felix Dumont
 ```
 
-**Book-Version:** 0.0.1-56
+**Book-Version:** 0.0.1-59
