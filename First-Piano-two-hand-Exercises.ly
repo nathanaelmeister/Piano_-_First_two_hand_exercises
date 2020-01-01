@@ -72,4 +72,7 @@
   \include "./single-pages/46_Czerny_Carl_-_Op_599_-_Nr_12.ly"
   \include "./single-pages/47_Köhler_Louis_-_Op_300_-_Nr_41.ly"
   \include "./single-pages/48_Köhler_Louis_-_Op_300_-_Nr_42.ly"
+  \include "./single-pages/49_Czerny_Carl_-_Op_599_-_Nr_13.ly"
+  \include "./single-pages/50_Czerny_Carl_-_Op_599_-_Nr_14.ly"
 }
+
