@@ -3,7 +3,7 @@
 \score {
   \new PianoStaff  <<
     \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "24." }
+      \huge \bold \number "25." }
 
     \new Staff = "upper" \with {
       midiInstrument = #"acoustic grand" }
