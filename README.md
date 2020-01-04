@@ -5,55 +5,55 @@
 Collection of easy pieces for the first lectures in
 playing the Piano with two hands independently.
 
-1. Czerny Carl - Op.824 - Nº.1 - [[LilyPond]](./single-pages/01_Czerny_Carl_-_Op_824_-_Nr_1.ly)
-2. Czerny Carl - Op.824 - Nº.2 - [[LilyPond]](./single-pages/02_Czerny_Carl_-_Op_824_-_Nr_2.ly)
-3. Czerny Carl - Op.824 - Nº.3 - [[LilyPond]](./single-pages/03_Czerny_Carl_-_Op_824_-_Nr_3.ly)
-4. Czerny Carl - Op.824 - Nº.4 - [[LilyPond]](./single-pages/04_Czerny_Carl_-_Op_824_-_Nr_4.ly)
-5. Beyer Ferdinand - Op.101 - Nº.8 - [[LilyPond]](./single-pages/05_Beyer_Ferdinand_-_Op_101_-_Nr_8.ly)
-6. Beyer Ferdinand - Op.101 - Nº.9 - [[LilyPond]](./single-pages/06_Beyer_Ferdinand_-_Op_101_-_Nr_9.ly)
-7. Beyer Ferdinand - Op.101 - Nº.10 - [[LilyPond]](./single-pages/07_Beyer_Ferdinand_-_Op_101_-_Nr_10.ly)
-8. Beyer Ferdinand - Op.101 - Nº.11 - [[LilyPond]](./single-pages/08_Beyer_Ferdinand_-_Op_101_-_Nr_11.ly)
-9. Beyer Ferdinand - Op.101 - Nº.12 - [[LilyPond]](./single-pages/09_Beyer_Ferdinand_-_Op_101_-_Nr_12.ly)
-10. Beyer Ferdinand - Op.101 - Nº.13 - [[LilyPond]](./single-pages/10_Beyer_Ferdinand_-_Op_101_-_Nr_13.ly)
-11. Beyer Ferdinand - Op.101 - Nº.14 - [[LilyPond]](./single-pages/11_Beyer_Ferdinand_-_Op_101_-_Nr_14.ly)
-12. Deutsches Volkslied - Ist ein Mann in Brunn gefallen - [[LilyPond]](./single-pages/12_Deutsches_Volkslied_-_Ist_ein_Mann_in_Brunn_gefallen.ly)
-13. Skandinavisches Volkslied - Gubben Noak - [[LilyPond]](./single-pages/13_Skandinavisches_Volkslied_-_Gubben_Noak.ly)
-14. Deutsches Volkslied - Hänschen klein - [[LilyPond]](./single-pages/14_Deutsches_Volkslied_-_Hänschen_klein.ly)
-15. Deutsches Volkslied - Vogelhochzeit - [[LilyPond]](./single-pages/15_Deutsches_Volkslied_-_Vogelhochzeit.ly)
-16. Deutsches Volkslied - Kuckuck kuckuck - [[LilyPond]](./single-pages/16_Deutsches_Volkslied_-_Kuckuck_kuckuck.ly)
-17. Deutsches Volkslied - Summ summ summ - [[LilyPond]](./single-pages/17_Deutsches_Volkslied_-_Summ_summ_summ.ly)
-18. Deutsches Volkslied - Winter Ade - [[LilyPond]](./single-pages/18_Deutsches_Volkslied_-_Winter_Ade.ly)
-19. Deutsches Volkslied - Der Kuckuck und der Esel - [[LilyPond]](./single-pages/19_Deutsches_Volkslied_-_Der_Kuckuck_und_der_Esel.ly)
-20. Deutsches Volkslied - Hänsel und Gretel - [[LilyPond]](./single-pages/20_Deutsches_Volkslied_-_Hänsel_und_Gretel.ly)
-21. Berens Hermann - Op.70 - Nº.1 - [[LilyPond]](./single-pages/21_Berens_Hermann_-_Op_70_-_Nr_1.ly)
-22. Berens Hermann - Op.70 - Nº.2 - [[LilyPond]](./single-pages/22_Berens_Hermann_-_Op_70_-_Nr_2.ly)
-23. Berens Hermann - Op.70 - Nº.3 - [[LilyPond]](./single-pages/23_Berens_Hermann_-_Op_70_-_Nr_3.ly)
-24. Berens Hermann - Op.70 - Nº.4 - [[LilyPond]](./single-pages/24_Berens_Hermann_-_Op_70_-_Nr_4.ly)
-25. Beyer Ferdinand - Op.101 - Nº.15 - [[LilyPond]](./single-pages/25_Beyer_Ferdinand_-_Op_101_-_Nr_15.ly)
-26. Meister Nathanael - Op.24 - Nº.1a - [[LilyPond]](./single-pages/26_Meister_Nathanael_-_Op_24_-_Nr_1a.ly)
-27. Meister Nathanael - Op.24 - Nº.1b - [[LilyPond]](./single-pages/27_Meister_Nathanael_-_Op_24_-_Nr_1b.ly)
-28. Meister Nathanael - Op.24 - Nº.2 - [[LilyPond]](./single-pages/28_Meister_Nathanael_-_Op_24_-_Nr_2.ly)
-29. Meister Nathanael - Op.24 - Nº.3 - [[LilyPond]](./single-pages/29_Meister_Nathanael_-_Op_24_-_Nr_3.ly)
-30. Meister Nathanael - Op.24 - Nº.4 - [[LilyPond]](./single-pages/30_Meister_Nathanael_-_Op_24_-_Nr_4.ly)
-31. Meister Nathanael - Op.24 - Nº.5 - [[LilyPond]](./single-pages/31_Meister_Nathanael_-_Op_24_-_Nr_5.ly)
-32. Meister Nathanael - Op.24 - Nº.6 - [[LilyPond]](./single-pages/32_Meister_Nathanael_-_Op_24_-_Nr_6.ly)
-33. Meister Nathanael - Op.24 - Nº.7 - [[LilyPond]](./single-pages/33_Meister_Nathanael_-_Op_24_-_Nr_7.ly)
-34. Beyer Ferdinand - Op.101 - Nº.16 - [[LilyPond]](./single-pages/34_Beyer_Ferdinand_-_Op_101_-_Nr_16.ly)
-35. Beyer Ferdinand - Op.101 - Nº.17 - [[LilyPond]](./single-pages/35_Beyer_Ferdinand_-_Op_101_-_Nr_17.ly)
-36. Beyer Ferdinand - Op.101 - Nº.18 - [[LilyPond]](./single-pages/36_Beyer_Ferdinand_-_Op_101_-_Nr_18.ly)
-37. Meister Nathanael - Op.27 - Nº.1a - [[LilyPond]](./single-pages/37_Meister_Nathanael_-_Op_27_-_Nr_1a.ly)
-38. Meister Nathanael - Op.27 - Nº.1b - [[LilyPond]](./single-pages/38_Meister_Nathanael_-_Op_27_-_Nr_1b.ly)
-39. Meister Nathanael - Op.27 - Nº.2a - [[LilyPond]](./single-pages/39_Meister_Nathanael_-_Op_27_-_Nr_2a.ly)
-40. Meister Nathanael - Op.27 - Nº.2b - [[LilyPond]](./single-pages/40_Meister_Nathanael_-_Op_27_-_Nr_2b.ly)
-41. Meister Nathanael - Op.27 - Nº.3 - [[LilyPond]](./single-pages/41_Meister_Nathanael_-_Op_27_-_Nr_3.ly)
-42. Meister Nathanael - Op.27 - Nº.4 - [[LilyPond]](./single-pages/42_Meister_Nathanael_-_Op_27_-_Nr_4.ly)
-44. Dumont Felix - Op.24 - Wiegenlied - [[LilyPond]](./single-pages/44_Dumont_Felix_-_Op_24_-_Wiegenlied.ly)
-45. Czerny Carl - Op.599 - Nº.11 - [[LilyPond]](./single-pages/45_Czerny_Carl_-_Op_599_-_Nr_11.ly)
-46. Czerny Carl - Op.599 - Nº.12 - [[LilyPond]](./single-pages/46_Czerny_Carl_-_Op_599_-_Nr_12.ly)
-47. Köhler Louis - Op.300 - Nº.41 - [[LilyPond]](./single-pages/47_Köhler_Louis_-_Op_300_-_Nr_41.ly)
-48. Köhler Louis - Op.300 - Nº.42 - [[LilyPond]](./single-pages/48_Köhler_Louis_-_Op_300_-_Nr_42.ly)
-49. Czerny Carl - Op.599 - Nº.13 - [[LilyPond]](./single-pages/49_Czerny_Carl_-_Op_599_-_Nr_13.ly)
-50. Czerny Carl - Op.599 - Nº.14 - [[LilyPond]](./single-pages/50_Czerny_Carl_-_Op_599_-_Nr_14.ly)
+1. Czerny Carl - Op.824 - Nº.1 - [[LilyPond]](./input-files/01_Czerny_Carl_-_Op_824_-_Nr_1.ily)
+2. Czerny Carl - Op.824 - Nº.2 - [[LilyPond]](./input-files/02_Czerny_Carl_-_Op_824_-_Nr_2.ily)
+3. Czerny Carl - Op.824 - Nº.3 - [[LilyPond]](./input-files/03_Czerny_Carl_-_Op_824_-_Nr_3.ily)
+4. Czerny Carl - Op.824 - Nº.4 - [[LilyPond]](./input-files/04_Czerny_Carl_-_Op_824_-_Nr_4.ily)
+5. Beyer Ferdinand - Op.101 - Nº.8 - [[LilyPond]](./input-files/05_Beyer_Ferdinand_-_Op_101_-_Nr_8.ily)
+6. Beyer Ferdinand - Op.101 - Nº.9 - [[LilyPond]](./input-files/06_Beyer_Ferdinand_-_Op_101_-_Nr_9.ily)
+7. Beyer Ferdinand - Op.101 - Nº.10 - [[LilyPond]](./input-files/07_Beyer_Ferdinand_-_Op_101_-_Nr_10.ily)
+8. Beyer Ferdinand - Op.101 - Nº.11 - [[LilyPond]](./input-files/08_Beyer_Ferdinand_-_Op_101_-_Nr_11.ily)
+9. Beyer Ferdinand - Op.101 - Nº.12 - [[LilyPond]](./input-files/09_Beyer_Ferdinand_-_Op_101_-_Nr_12.ily)
+10. Beyer Ferdinand - Op.101 - Nº.13 - [[LilyPond]](./input-files/10_Beyer_Ferdinand_-_Op_101_-_Nr_13.ily)
+11. Beyer Ferdinand - Op.101 - Nº.14 - [[LilyPond]](./input-files/11_Beyer_Ferdinand_-_Op_101_-_Nr_14.ily)
+12. Deutsches Volkslied - Ist ein Mann in Brunn gefallen - [[LilyPond]](./input-files/12_Deutsches_Volkslied_-_Ist_ein_Mann_in_Brunn_gefallen.ily)
+13. Skandinavisches Volkslied - Gubben Noak - [[LilyPond]](./input-files/13_Skandinavisches_Volkslied_-_Gubben_Noak.ily)
+14. Deutsches Volkslied - Hänschen klein - [[LilyPond]](./input-files/14_Deutsches_Volkslied_-_Hänschen_klein.ily)
+15. Deutsches Volkslied - Vogelhochzeit - [[LilyPond]](./input-files/15_Deutsches_Volkslied_-_Vogelhochzeit.ily)
+16. Deutsches Volkslied - Kuckuck kuckuck - [[LilyPond]](./input-files/16_Deutsches_Volkslied_-_Kuckuck_kuckuck.ily)
+17. Deutsches Volkslied - Summ summ summ - [[LilyPond]](./input-files/17_Deutsches_Volkslied_-_Summ_summ_summ.ily)
+18. Deutsches Volkslied - Winter Ade - [[LilyPond]](./input-files/18_Deutsches_Volkslied_-_Winter_Ade.ily)
+19. Deutsches Volkslied - Der Kuckuck und der Esel - [[LilyPond]](./input-files/19_Deutsches_Volkslied_-_Der_Kuckuck_und_der_Esel.ily)
+20. Deutsches Volkslied - Hänsel und Gretel - [[LilyPond]](./input-files/20_Deutsches_Volkslied_-_Hänsel_und_Gretel.ily)
+21. Berens Hermann - Op.70 - Nº.1 - [[LilyPond]](./input-files/21_Berens_Hermann_-_Op_70_-_Nr_1.ily)
+22. Berens Hermann - Op.70 - Nº.2 - [[LilyPond]](./input-files/22_Berens_Hermann_-_Op_70_-_Nr_2.ily)
+23. Berens Hermann - Op.70 - Nº.3 - [[LilyPond]](./input-files/23_Berens_Hermann_-_Op_70_-_Nr_3.ily)
+24. Berens Hermann - Op.70 - Nº.4 - [[LilyPond]](./input-files/24_Berens_Hermann_-_Op_70_-_Nr_4.ily)
+25. Beyer Ferdinand - Op.101 - Nº.15 - [[LilyPond]](./input-files/25_Beyer_Ferdinand_-_Op_101_-_Nr_15.ily)
+26. Meister Nathanael - Op.24 - Nº.1a - [[LilyPond]](./input-files/26_Meister_Nathanael_-_Op_24_-_Nr_1a.ily)
+27. Meister Nathanael - Op.24 - Nº.1b - [[LilyPond]](./input-files/27_Meister_Nathanael_-_Op_24_-_Nr_1b.ily)
+28. Meister Nathanael - Op.24 - Nº.2 - [[LilyPond]](./input-files/28_Meister_Nathanael_-_Op_24_-_Nr_2.ily)
+29. Meister Nathanael - Op.24 - Nº.3 - [[LilyPond]](./input-files/29_Meister_Nathanael_-_Op_24_-_Nr_3.ily)
+30. Meister Nathanael - Op.24 - Nº.4 - [[LilyPond]](./input-files/30_Meister_Nathanael_-_Op_24_-_Nr_4.ily)
+31. Meister Nathanael - Op.24 - Nº.5 - [[LilyPond]](./input-files/31_Meister_Nathanael_-_Op_24_-_Nr_5.ily)
+32. Meister Nathanael - Op.24 - Nº.6 - [[LilyPond]](./input-files/32_Meister_Nathanael_-_Op_24_-_Nr_6.ily)
+33. Meister Nathanael - Op.24 - Nº.7 - [[LilyPond]](./input-files/33_Meister_Nathanael_-_Op_24_-_Nr_7.ily)
+34. Beyer Ferdinand - Op.101 - Nº.16 - [[LilyPond]](./input-files/34_Beyer_Ferdinand_-_Op_101_-_Nr_16.ily)
+35. Beyer Ferdinand - Op.101 - Nº.17 - [[LilyPond]](./input-files/35_Beyer_Ferdinand_-_Op_101_-_Nr_17.ily)
+36. Beyer Ferdinand - Op.101 - Nº.18 - [[LilyPond]](./input-files/36_Beyer_Ferdinand_-_Op_101_-_Nr_18.ily)
+37. Meister Nathanael - Op.27 - Nº.1a - [[LilyPond]](./input-files/37_Meister_Nathanael_-_Op_27_-_Nr_1a.ily)
+38. Meister Nathanael - Op.27 - Nº.1b - [[LilyPond]](./input-files/38_Meister_Nathanael_-_Op_27_-_Nr_1b.ily)
+39. Meister Nathanael - Op.27 - Nº.2a - [[LilyPond]](./input-files/39_Meister_Nathanael_-_Op_27_-_Nr_2a.ily)
+40. Meister Nathanael - Op.27 - Nº.2b - [[LilyPond]](./input-files/40_Meister_Nathanael_-_Op_27_-_Nr_2b.ily)
+41. Meister Nathanael - Op.27 - Nº.3 - [[LilyPond]](./input-files/41_Meister_Nathanael_-_Op_27_-_Nr_3.ily)
+42. Meister Nathanael - Op.27 - Nº.4 - [[LilyPond]](./input-files/42_Meister_Nathanael_-_Op_27_-_Nr_4.ily)
+44. Dumont Felix - Op.24 - Wiegenlied - [[LilyPond]](./input-files/44_Dumont_Felix_-_Op_24_-_Wiegenlied.ily)
+45. Czerny Carl - Op.599 - Nº.11 - [[LilyPond]](./input-files/45_Czerny_Carl_-_Op_599_-_Nr_11.ily)
+46. Czerny Carl - Op.599 - Nº.12 - [[LilyPond]](./input-files/46_Czerny_Carl_-_Op_599_-_Nr_12.ily)
+47. Köhler Louis - Op.300 - Nº.41 - [[LilyPond]](./input-files/47_Köhler_Louis_-_Op_300_-_Nr_41.ily)
+48. Köhler Louis - Op.300 - Nº.42 - [[LilyPond]](./input-files/48_Köhler_Louis_-_Op_300_-_Nr_42.ily)
+49. Czerny Carl - Op.599 - Nº.13 - [[LilyPond]](./input-files/49_Czerny_Carl_-_Op_599_-_Nr_13.ily)
+50. Czerny Carl - Op.599 - Nº.14 - [[LilyPond]](./input-files/50_Czerny_Carl_-_Op_599_-_Nr_14.ily)
 
 _____________________________________________________________
 
@@ -126,6 +126,16 @@ add: "Hänsel und Gretel" => Nr.20 [done]
   - get piece and composer name from LilyPond syntax
     instead of filename!
 
+move all files in './single-pages/' to new folder: './input-files/' [done]
+  - make files within './single-pages/' to compilable files,
+    layouted to be printed on one page [done]
+    --> going to result in loads of whitespace for very short pieces
+    - check on LilyPond command simmiliar to something like:
+      'fit to page' []
+
+rename all files in './input-files/' from '*.ly' to '*.ily'
+  - adapt 'file-lister.sh' shell-script.
+
 add: Felix Dumont; Op.24; easy Variations
      - where? -> leading to/introducing "Alberti Bass" technique.
 
@@ -164,4 +174,4 @@ add: Beethoven "An die Freude" => Nr.???
       1 Felix Dumont
 ```
 
-**Book-Version:** 0.0.1-62
+**Book-Version:** 0.0.1-63

@@ -1,68 +1,12 @@
 \version "2.18.2"
 
-\score {
-  \new PianoStaff  <<
-    \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "19." }
+#(set-default-paper-size "a4")
+#(set-global-staff-size 26)
 
-    \new Staff = "upper" \with {
-      midiInstrument = #"acoustic grand" }
+\include "../global-files/paper-single-pages.ily"
+\include "../global-files/gitlink.ily"
+\include "../global-files/header-single-pages.ily"
+\include "../global-files/pdf-header-single-pages.ily"
 
-    \relative c'' {
-      \clef treble
-      \key c \major
-      \time 4/4
-      \numericTimeSignature
-
-      \partial 4
-      g4           |
-      e g e g      | %01
-      f f r f      | %02
-      d f d f      | %03
-      e2 r4 g8( f) | %04
-      e4 e e e     | %05
-      f f r f8( e) | %06
-      d4 d d d     | %07
-      e e r c      | %08
-      c d e f      | %09
-      g2 r4 f      | %10
-      e e d d      | %11
-      c2 r4          %12
-      \bar "|."
-
-    }
-    \new Staff = "lower" \with {
-      midiInstrument = #"acoustic grand" }
-
-    \relative c {
-      \clef bass
-      \key c \major
-      \time 4/4
-      \numericTimeSignature
-
-      \partial 4
-      r4       |
-      c1       | %01
-      g'       | %02
-      g        | %03
-      c,       | %04
-      c        | %05
-      g'       | %06
-      g        | %07
-      c,       | %08
-      c2 g'2   | %19
-      c,2. g'4 | %10
-      c,2 g'2  | %11
-      c,2 r4     %12
-      \bar "|."
-    }
-  >>
-  \layout { }
-  \midi { }
-  \header {
-    composer = "Deutsches Volkslied"
-    piece = "Der Kuckuck und der Esel"
-    %opus = ""
-  }
-}
+\include "../input-files/19_Deutsches_Volkslied_-_Der_Kuckuck_und_der_Esel.ily"
 

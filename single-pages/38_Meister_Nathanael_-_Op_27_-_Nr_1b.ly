@@ -1,57 +1,12 @@
 \version "2.18.2"
 
-\score {
-  \new PianoStaff  <<
-    \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "38." }
+#(set-default-paper-size "a4")
+#(set-global-staff-size 26)
 
-    \new Staff = "upper" \with {
-      midiInstrument = #"acoustic grand" }
+\include "../global-files/paper-single-pages.ily"
+\include "../global-files/gitlink.ily"
+\include "../global-files/header-single-pages.ily"
+\include "../global-files/pdf-header-single-pages.ily"
 
-    \relative c' {
-      \clef treble
-      \key c \major
-      \time 4/4
-      \numericTimeSignature
-
-      \repeat volta 2 {
-        <c e g >1 | %01
-        <c e g >  | %02
-        <c e g >  | %03
-        <c e g >  | %04
-        <b d g >  | %05
-        <b d g >  | %06
-        <b d g >  | %07
-        <c e g >  | %08
-      }
-    }
-    \new Staff = "lower" \with {
-      midiInstrument = #"acoustic grand" }
-
-    \relative c {
-      \clef bass
-      \key c \major
-      \time 4/4
-      \numericTimeSignature
-
-      \repeat volta 2 {
-        c4 d8( e) f4 g  | %01
-        c, d8( e) f4 g  | %02
-        c, d8( e) f4 g  | %03
-        e g c,2         | %04
-        g'4 f8( e) f4 d | %05
-        g f8( e) f4 d   | %06
-        g f8( e) f4 d   | %07
-        e g c,2         | %08
-      }
-    }
-  >>
-  \layout { }
-  \midi { }
-  \header {
-    composer = "Nathanael Meister; Op.27; Nº.1b"
-    piece = ""
-    %opus = ""
-  }
-}
+\include "../input-files/38_Meister_Nathanael_-_Op_27_-_Nr_1b.ily"
 

@@ -1,55 +1,12 @@
 \version "2.18.2"
 
-\score {
-  \new PianoStaff  <<
-    \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "24." }
+#(set-default-paper-size "a4")
+#(set-global-staff-size 26)
 
-    \new Staff = "upper" \with {
-      midiInstrument = #"acoustic grand" }
+\include "../global-files/paper-single-pages.ily"
+\include "../global-files/gitlink.ily"
+\include "../global-files/header-single-pages.ily"
+\include "../global-files/pdf-header-single-pages.ily"
 
-    \relative c' {
-      \clef treble
-      \key c \major
-      \time 3/4
-
-      c4 c g' | %01
-      f e d   | %02
-      c c e   | %03
-      d d f   | %04
-      e g e   | %05
-      f e d   | %06
-      c e d   | %07
-      c2.     | %08
-      \bar "|."
-
-    }
-    \new Staff = "lower" \with {
-      midiInstrument = #"acoustic grand" }
-
-    \relative c {
-      \clef bass
-      \key c \major
-      \time 3/4
-
-      c2.    | %01
-      d      | %02
-      e      | %03
-      g      | %04
-      c,     | %05
-      d4 e f | %06
-      g2 g4  | %07
-      c,2.   | %08
-      \bar "|."
-
-    }
-  >>
-  \layout { }
-  \midi { }
-  \header {
-    composer = "Hermann Berens; Op.70; Nº.4"
-    piece = ""
-    %opus = ""
-  }
-}
+\include "../input-files/24_Berens_Hermann_-_Op_70_-_Nr_4.ily"
 
