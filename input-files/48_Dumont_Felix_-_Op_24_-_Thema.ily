@@ -44,7 +44,7 @@
   \layout { }
   \midi {}
   \header {
-    composer = "Felix Dumont; Op.24"
+    composer = "Felix Dumont; Op.24; Nº.4"
     piece = "Zweites Thema"
     %opus = "24"
   }
