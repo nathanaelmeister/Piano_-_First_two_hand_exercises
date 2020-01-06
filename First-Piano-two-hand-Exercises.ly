@@ -91,7 +91,10 @@
   \include "./input-files/66_Czerny_Carl_-_Op_599_-_Nr_12.ily"
   \include "./input-files/67_Köhler_Louis_-_Op_300_-_Nr_41.ily"
   \include "./input-files/68_Köhler_Louis_-_Op_300_-_Nr_42.ily"
-  \include "./input-files/69_Czerny_Carl_-_Op_599_-_Nr_13.ily"
-  \include "./input-files/70_Czerny_Carl_-_Op_599_-_Nr_14.ily"
+  \include "./input-files/69_Beyer_Ferdinand_-_Op_101_-_Nr_19.ily"
+  \include "./input-files/70_Beyer_Ferdinand_-_Op_101_-_Nr_20.ily"
+  \include "./input-files/71_Beyer_Ferdinand_-_Op_101_-_Nr_21.ily"
+  \include "./input-files/72_Czerny_Carl_-_Op_599_-_Nr_13.ily"
+  \include "./input-files/73_Czerny_Carl_-_Op_599_-_Nr_14.ily"
 }
 

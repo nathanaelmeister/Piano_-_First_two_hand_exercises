@@ -72,8 +72,11 @@ playing the Piano with two hands independently.
 66. Czerny Carl - Op.599 - Nº.12 - [[LilyPond]](./input-files/66_Czerny_Carl_-_Op_599_-_Nr_12.ily)
 67. Köhler Louis - Op.300 - Nº.41 - [[LilyPond]](./input-files/67_Köhler_Louis_-_Op_300_-_Nr_41.ily)
 68. Köhler Louis - Op.300 - Nº.42 - [[LilyPond]](./input-files/68_Köhler_Louis_-_Op_300_-_Nr_42.ily)
-69. Czerny Carl - Op.599 - Nº.13 - [[LilyPond]](./input-files/69_Czerny_Carl_-_Op_599_-_Nr_13.ily)
-70. Czerny Carl - Op.599 - Nº.14 - [[LilyPond]](./input-files/70_Czerny_Carl_-_Op_599_-_Nr_14.ily)
+69. Beyer Ferdinand - Op.101 - Nº.19 - [[LilyPond]](./input-files/69_Beyer_Ferdinand_-_Op_101_-_Nr_19.ily)
+70. Beyer Ferdinand - Op.101 - Nº.20 - [[LilyPond]](./input-files/70_Beyer_Ferdinand_-_Op_101_-_Nr_20.ily)
+71. Beyer Ferdinand - Op.101 - Nº.21 - [[LilyPond]](./input-files/71_Beyer_Ferdinand_-_Op_101_-_Nr_21.ily)
+72. Czerny Carl - Op.599 - Nº.13 - [[LilyPond]](./input-files/72_Czerny_Carl_-_Op_599_-_Nr_13.ily)
+73. Czerny Carl - Op.599 - Nº.14 - [[LilyPond]](./input-files/73_Czerny_Carl_-_Op_599_-_Nr_14.ily)
 
 _____________________________________________________________
 
@@ -190,12 +193,20 @@ add: Ferdinand Beyer; - Op.101; Nr.19 => Nr.69
                       - Op.101; Nr.22 => Nr.72
                       - Op.101; Nr.23 => Nr.73
 
+introduce higher c'' in violin clef with:
+  - Henri Bertini "Complete progressive Piano Method"
+
+add: Oskar Bolck; Op.23; Nr.1-4
+
+((((continue /Klavier/C*))))
+
+introduce Bela Bartok when leaving "C-position"
 
 # ========================================================#
-# Stats: 69 Scores from 9 different Composers:
+# Stats: 72 Scores from 9 different Composers:
 # ========================================================#
      14 Nathanael Meister
-     11 Ferdinand Beyer
+     14 Ferdinand Beyer
       9 Hermann Berens
       9 Deutsches Volkslied
       8 Cornelius Gurlitt
@@ -205,4 +216,4 @@ add: Ferdinand Beyer; - Op.101; Nr.19 => Nr.69
       1 Skandinavisches Volkslied
 ```
 
-**Book-Version:** 0.0.1-69
+**Book-Version:** 0.0.1-72
