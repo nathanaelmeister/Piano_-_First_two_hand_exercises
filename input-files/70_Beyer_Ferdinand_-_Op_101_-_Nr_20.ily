@@ -13,7 +13,7 @@
       \numericTimeSignature
       \tempo "Allegretto"
 
-      c2 e4     | %01
+      c2. e4    | %01
       c2. e4    | %02
       d2 d      | %03
       e c       | %04
