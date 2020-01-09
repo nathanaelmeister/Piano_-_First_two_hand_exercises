@@ -8,5 +8,5 @@
 \include "../global-files/header-single-pages.ily"
 \include "../global-files/pdf-header-single-pages.ily"
 
-\include "../input-files/73_Czerny_Carl_-_Op_599_-_Nr_14.ily"
+\include "../input-files/77_Bolck_Oscar_-_Op_23_-_Nr_4.ily"
 

@@ -77,6 +77,10 @@ playing the Piano with two hands independently.
 71. Beyer Ferdinand - Op.101 - Nº.21 - [[LilyPond]](./input-files/71_Beyer_Ferdinand_-_Op_101_-_Nr_21.ily)
 72. Czerny Carl - Op.599 - Nº.13 - [[LilyPond]](./input-files/72_Czerny_Carl_-_Op_599_-_Nr_13.ily)
 73. Czerny Carl - Op.599 - Nº.14 - [[LilyPond]](./input-files/73_Czerny_Carl_-_Op_599_-_Nr_14.ily)
+74. Bolck Oscar - Op.23 - Nº.1 - [[LilyPond]](./input-files/74_Bolck_Oscar_-_Op_23_-_Nr_1.ily)
+75. Bolck Oscar - Op.23 - Nº.2 - [[LilyPond]](./input-files/75_Bolck_Oscar_-_Op_23_-_Nr_2.ily)
+76. Bolck Oscar - Op.23 - Nº.3 - [[LilyPond]](./input-files/76_Bolck_Oscar_-_Op_23_-_Nr_3.ily)
+77. Bolck Oscar - Op.23 - Nº.4 - [[LilyPond]](./input-files/77_Bolck_Oscar_-_Op_23_-_Nr_4.ily)
 
 _____________________________________________________________
 
@@ -196,14 +200,18 @@ add: Ferdinand Beyer; - Op.101; Nr.19 => Nr.69
 introduce higher c'' in violin clef with:
   - Henri Bertini "Complete progressive Piano Method"
 
-add: Oskar Bolck; Op.23; Nr.1-4
+add: Oskar Bolck; Op.23:
+  - Nr.1
+  - Nr.2
+  - Nr.3
+  - Nr.4
 
 ((((continue /Klavier/C*))))
 
 introduce Bela Bartok when leaving "C-position"
 
 # ========================================================#
-# Stats: 72 Scores from 9 different Composers:
+# Stats: 76 Scores from 10 different Composers:
 # ========================================================#
      14 Nathanael Meister
      14 Ferdinand Beyer
@@ -212,8 +220,9 @@ introduce Bela Bartok when leaving "C-position"
       8 Cornelius Gurlitt
       8 Carl Czerny
       7 Felix Dumont
+      4 Oscar Bolck
       2 Louis Köhler
       1 Skandinavisches Volkslied
 ```
 
-**Book-Version:** 0.0.1-72
+**Book-Version:** 0.0.1-75
