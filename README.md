@@ -1,3 +1,5 @@
+![Hands off Assange!!!](http://somersetbean.com/wp-content/uploads/2018/10/free-assange-banner-8ftx2ft-150ppi-WEB.jpg)
+
 # Piano School - [LilyPond](http://www.lilypond.org) easy Piano Repository
 ## Part II - *First two hand exercises*
 ### by Nathanael Meister
@@ -221,7 +223,12 @@ add: Benjamin Carr; Analytical Instructor;
   => then changes to G-position (review later)
 
 add: William Mathews; Standard Graded Course
-  -Nr.13; -Nr.14; -Nr.15; -Nr.16; -Nr.17; -Nr.18; -Nr.19; -Nr.20; -Nr.21; -Nr.22; -Nr.23; -Nr.24; -Nr.25; -Nr.26; -Nr.27; -Nr.28; -Nr.29; -Nr.30; -Nr.31; -Nr.32; -Nr.33; -Nr.34; -Nr.35; -Nr.36; -Nr.37; -Nr.38; -Nr.39; -Nr.40; -Nr.41; -Nr.42;
+  -Nr.13; -Nr.14; -Nr.15; -Nr.16; -Nr.17;
+  -Nr.18; -Nr.19; -Nr.20; -Nr.21; -Nr.22;
+  -Nr.23; -Nr.24; -Nr.25; -Nr.26; -Nr.27;
+  -Nr.28; -Nr.29; -Nr.30; -Nr.31; -Nr.32;
+  -Nr.33; -Nr.34; -Nr.35; -Nr.36; -Nr.37;
+  -Nr.38; -Nr.39; -Nr.40; -Nr.41; -Nr.42;
     => find places
 
 add: Nathanael Meister
