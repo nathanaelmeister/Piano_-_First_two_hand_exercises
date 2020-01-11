@@ -214,9 +214,29 @@ add: Oskar Bolck; Op.23:
   - Nr.3 [done]
   - Nr.4 [done]
 
-((((continue /Klavier/C*))))
+add: Benjamin Carr; Analytical Instructor;
+  - Nr.4
+  - Nr.5
+  - Nr.6
+  => then changes to G-position (review later)
+
+add: William Mathews; Standard Graded Course
+  -Nr.13; -Nr.14; -Nr.15; -Nr.16; -Nr.17; -Nr.18; -Nr.19; -Nr.20; -Nr.21; -Nr.22; -Nr.23; -Nr.24; -Nr.25; -Nr.26; -Nr.27; -Nr.28; -Nr.29; -Nr.30; -Nr.31; -Nr.32; -Nr.33; -Nr.34; -Nr.35; -Nr.36; -Nr.37; -Nr.38; -Nr.39; -Nr.40; -Nr.41; -Nr.42;
+    => find places
+
+add: Nathanael Meister
+  - two easy Variations over a Theme by Carl Czerny
+
+add: Feliz Le Couppey
+  - Nr.13;
+  - Nr.14;
+    => other pieces later (position changes left hand c to g)
+
+((((continue /Klavier/D*))))
 
 introduce Bela Bartok when leaving "C-position"
+  - "First Terms on Piano"
+  - "Microkosmos I"
 
 # ========================================================#
 # Stats: 80 Scores from 11 different Composers:
@@ -234,4 +254,4 @@ introduce Bela Bartok when leaving "C-position"
       1 Skandinavisches Volkslied
 ```
 
-**Book-Version:** 0.0.1-76
+**Book-Version:** 0.0.1-77
