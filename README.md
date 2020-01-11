@@ -75,12 +75,16 @@ playing the Piano with two hands independently.
 69. Beyer Ferdinand - Op.101 - Nº.19 - [[LilyPond]](./input-files/69_Beyer_Ferdinand_-_Op_101_-_Nr_19.ily)
 70. Beyer Ferdinand - Op.101 - Nº.20 - [[LilyPond]](./input-files/70_Beyer_Ferdinand_-_Op_101_-_Nr_20.ily)
 71. Beyer Ferdinand - Op.101 - Nº.21 - [[LilyPond]](./input-files/71_Beyer_Ferdinand_-_Op_101_-_Nr_21.ily)
-72. Czerny Carl - Op.599 - Nº.13 - [[LilyPond]](./input-files/72_Czerny_Carl_-_Op_599_-_Nr_13.ily)
-73. Czerny Carl - Op.599 - Nº.14 - [[LilyPond]](./input-files/73_Czerny_Carl_-_Op_599_-_Nr_14.ily)
-74. Bolck Oscar - Op.23 - Nº.1 - [[LilyPond]](./input-files/74_Bolck_Oscar_-_Op_23_-_Nr_1.ily)
-75. Bolck Oscar - Op.23 - Nº.2 - [[LilyPond]](./input-files/75_Bolck_Oscar_-_Op_23_-_Nr_2.ily)
-76. Bolck Oscar - Op.23 - Nº.3 - [[LilyPond]](./input-files/76_Bolck_Oscar_-_Op_23_-_Nr_3.ily)
-77. Bolck Oscar - Op.23 - Nº.4 - [[LilyPond]](./input-files/77_Bolck_Oscar_-_Op_23_-_Nr_4.ily)
+72. Bertini Henri - Piano Method - Lesson VII - Nr.1 - [[LilyPond]](./input-files/72_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.1.ily)
+73. Bertini Henri - Piano Method - Lesson VII - Nr.2 - [[LilyPond]](./input-files/73_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.2.ily)
+74. Bertini Henri - Piano Method - Lesson VIII - Nr.1 - [[LilyPond]](./input-files/74_Bertini_Henri_-_Piano_Method_-_Lesson_VIII_-_Nr.1.ily)
+75. Bertini Henri - Piano Method - Lesson VIII - Nr.2 - [[LilyPond]](./input-files/75_Bertini_Henri_-_Piano_Method_-_Lesson_VIII_-_Nr.2.ily)
+76. Czerny Carl - Op.599 - Nº.13 - [[LilyPond]](./input-files/76_Czerny_Carl_-_Op_599_-_Nr_13.ily)
+77. Czerny Carl - Op.599 - Nº.14 - [[LilyPond]](./input-files/77_Czerny_Carl_-_Op_599_-_Nr_14.ily)
+78. Bolck Oscar - Op.23 - Nº.1 - [[LilyPond]](./input-files/78_Bolck_Oscar_-_Op_23_-_Nr_1.ily)
+79. Bolck Oscar - Op.23 - Nº.2 - [[LilyPond]](./input-files/79_Bolck_Oscar_-_Op_23_-_Nr_2.ily)
+80. Bolck Oscar - Op.23 - Nº.3 - [[LilyPond]](./input-files/80_Bolck_Oscar_-_Op_23_-_Nr_3.ily)
+81. Bolck Oscar - Op.23 - Nº.4 - [[LilyPond]](./input-files/81_Bolck_Oscar_-_Op_23_-_Nr_4.ily)
 
 _____________________________________________________________
 
@@ -199,19 +203,23 @@ add: Ferdinand Beyer; - Op.101; Nr.19 => Nr.69
 
 introduce higher c'' in violin clef with:
   - Henri Bertini "Complete progressive Piano Method"
+    - Lesson_VII-Nr.1 [done]
+    - Lesson_VII-Nr.2 [done]
+    - Lesson_VIII-Nr.1 [done]
+    - Lesson_VIII-Nr.2 [done]
 
 add: Oskar Bolck; Op.23:
-  - Nr.1
-  - Nr.2
-  - Nr.3
-  - Nr.4
+  - Nr.1 [done]
+  - Nr.2 [done]
+  - Nr.3 [done]
+  - Nr.4 [done]
 
 ((((continue /Klavier/C*))))
 
 introduce Bela Bartok when leaving "C-position"
 
 # ========================================================#
-# Stats: 76 Scores from 10 different Composers:
+# Stats: 80 Scores from 11 different Composers:
 # ========================================================#
      14 Nathanael Meister
      14 Ferdinand Beyer
@@ -221,8 +229,9 @@ introduce Bela Bartok when leaving "C-position"
       8 Carl Czerny
       7 Felix Dumont
       4 Oscar Bolck
+      4 Henri Bertini
       2 Louis Köhler
       1 Skandinavisches Volkslied
 ```
 
-**Book-Version:** 0.0.1-75
+**Book-Version:** 0.0.1-76
