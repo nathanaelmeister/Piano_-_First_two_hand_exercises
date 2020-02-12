@@ -23,7 +23,7 @@
       d4 d d d     | %07
       e e r c      | %08
       c d e f      | %09
-      g2 r4 f      | %10
+      g2. f4       | %10
       e e d d      | %11
       c2 r4          %12
       \bar "|."
