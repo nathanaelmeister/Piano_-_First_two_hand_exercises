@@ -21,7 +21,6 @@
       c e     | %06
       d e4 d  | %07
       c1      | %08
-      \bar "||"
 
       \repeat volta 2 {
         d2 c4 d | %09
