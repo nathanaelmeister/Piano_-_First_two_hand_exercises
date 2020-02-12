@@ -12,15 +12,16 @@
       \time 4/4
       \numericTimeSignature
 
-      c4 d e f  | %01
-      g g g g   | %02
-      c, d e f  | %03
-      g2 g      | %04
-      c,4 d e f | %05
-      g g g g   | %06
-      g f e d   | %07
-      c2 c      | %08
-      \bar "|."
+      \repeat volta 2 {
+        c4 d e f  | %01
+        g g g g   | %02
+        c, d e f  | %03
+        g2 g      | %04
+        c,4 d e f | %05
+        g g g g   | %06
+        g f e d   | %07
+        c2 c      | %08
+      }
 
     }
     \new Staff = "lower" \with {
@@ -32,15 +33,16 @@
       \time 4/4
       \numericTimeSignature
 
-      c1 | %01
-      c  | %02
-      c  | %03
-      c  | %04
-      c  | %05
-      c  | %06
-      g' | %07
-      c, | %08
-      \bar "|."
+      \repeat volta 2 {
+        c1 | %01
+        c  | %02
+        c  | %03
+        c  | %04
+        c  | %05
+        c  | %06
+        g' | %07
+        c, | %08
+      }
     }
   >>
   \layout { }
