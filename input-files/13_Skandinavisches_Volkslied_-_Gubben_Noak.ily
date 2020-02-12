@@ -16,16 +16,16 @@
         c4 c c e | %01
         d d d f  | %02
         e e d d  | %03
-        c2. r4   | %04
+        c1       | %04
       }
-      e e e e  | %05
-      g2 f4 r  | %06
-      d d d d  | %07
-      f2 e4 r  | %08
-      c c c e  | %09
+      e4 e e e | %05
+      g2 f2    | %06
+      d4 d d d | %07
+      f2 e2    | %08
+      c4 c c e | %09
       d d d f  | %10
       e e d d  | %11
-      c2. r4   | %12
+      c1       | %12
       \bar "|."
 
     }
