@@ -13,17 +13,17 @@
       \numericTimeSignature
 
       c2 e      | %01
-      g r4 f    | %02
+      g2. f4    | %02
       e e d d   | %03
-      c2 r      | %04
+      c1        | %04
       g'4 g f f | %05
       e e d d   | %06
       g g f f   | %07
       e e d d   | %08
       c2 e      | %09
-      g r4 f    | %10
+      g2. f4    | %10
       e e d d   | %11
-      c2 r      | %12
+      c1        | %12
       \bar "|."
     }
     \new Staff = "lower" \with {
@@ -46,7 +46,7 @@
       c,1     | %09
       c2. g'4 | %10
       c,2 g'  | %11
-      c, r    | %12
+      c,1     | %12
       \bar "|."
     }
   >>
