@@ -33,27 +33,27 @@
     \new Staff = "lower" \with {
       midiInstrument = #"acoustic grand" }
 
-    \relative c' {
+    \relative c {
       \clef bass
       \key c \major
       \time 3/4
 
-      g2.     | %01
-      g       | %02
-      g       | %03
-      c,4 e g | %04
-      g2.     | %05
-      g       | %06
-      g       | %07
-      c,4 e g | %08
-      d2.     | %09
-      f       | %10
-      g       | %11
-      c,4 e g | %12
-      d2.     | %13
-      f       | %14
-      g       | %15
-      c,4 e c | %16
+      c2.       | %01
+      c         | %02
+      c         | %03
+      c4( e g)  | %04
+      d2.       | %05
+      d         | %06
+      d         | %07
+      c4( e g)  | %08
+      d2.       | %09
+      c         | %10
+      g'        | %11
+      c,4( e g) | %12
+      d2.       | %13
+      c         | %14
+      g'2 f4    | %15
+      c e c     | %16
       \bar "|."
     }
   >>
