@@ -16,17 +16,17 @@
       g2 g4 | %02
       e2 e4 | %03
       g2.   | %04
-      \break
+      %\break
       f2 f4 | %05
       d2 d4 | %06
       c2 c4 | %07
       d2 d4 | %08
-      \break
+      %\break
       e2 e4 | %09
       g2 g4 | %10
       e2 e4 | %11
       g2.   | %12
-      \break
+      %\break
       f2 f4 | %13
       d2 d4 | %14
       c2 c4 | %15

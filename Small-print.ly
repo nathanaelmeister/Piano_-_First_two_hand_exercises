@@ -1,16 +1,16 @@
-\version "2.18.2"
+\version "2.20.0"
 
 #(set-default-paper-size "a4")
 #(set-global-staff-size 18)
 
 \include "./global-files/gitlink.ily"
-%\include "./global-files/paper.ily"
+\include "./global-files/paper.ily"
 \include "./global-files/pdf-header.ily"
 
 
 \book {
   \paper {
-    ragged-last = ##f
+    ragged-right = ##f
     scoreTitleMarkup = \markup {
       \fill-line {
         \fontsize #2 \bold \fromproperty #'header:piece
@@ -21,27 +21,21 @@
   \include "./global-files/header.ily"
   \include "./input-files/01_Czerny_Carl_-_Op_824_-_Nr_1.ily"
   \include "./input-files/02_Czerny_Carl_-_Op_824_-_Nr_2.ily"
-  %\pageBreak
   \include "./input-files/03_Czerny_Carl_-_Op_824_-_Nr_3.ily"
   \include "./input-files/04_Czerny_Carl_-_Op_824_-_Nr_4.ily"
-  %\pageBreak
   \include "./input-files/05_Beyer_Ferdinand_-_Op_101_-_Nr_8.ily"
   \include "./input-files/06_Beyer_Ferdinand_-_Op_101_-_Nr_9.ily"
-  %\pageBreak
   \include "./input-files/07_Beyer_Ferdinand_-_Op_101_-_Nr_10.ily"
   \include "./input-files/08_Beyer_Ferdinand_-_Op_101_-_Nr_11.ily"
-  %\pageBreak
   \include "./input-files/09_Beyer_Ferdinand_-_Op_101_-_Nr_12.ily"
   \include "./input-files/10_Beyer_Ferdinand_-_Op_101_-_Nr_13.ily"
   \include "./input-files/11_Beyer_Ferdinand_-_Op_101_-_Nr_14.ily"
-  %\pageBreak
   \include "./input-files/12_Deutsches_Volkslied_-_Ist_ein_Mann_in_Brunn_gefallen.ily"
   \include "./input-files/13_Skandinavisches_Volkslied_-_Gubben_Noak.ily"
   \include "./input-files/14_Deutsches_Volkslied_-_Hänschen_klein.ily"
   \include "./input-files/15_Deutsches_Volkslied_-_Vogelhochzeit.ily"
   \include "./input-files/16_Deutsches_Volkslied_-_Kuckuck_kuckuck.ily"
   \include "./input-files/17_Deutsches_Volkslied_-_Summ_summ_summ.ily"
-  %\pageBreak
   \include "./input-files/18_Deutsches_Volkslied_-_Aaa_der_Winter_der_ist_da.ily"
   \include "./input-files/19_Deutsches_Volkslied_-_Winter_Ade.ily"
   \include "./input-files/20_Deutsches_Volkslied_-_Der_Kuckuck_und_der_Esel.ily"
@@ -95,7 +89,14 @@
   \include "./input-files/69_Beyer_Ferdinand_-_Op_101_-_Nr_19.ily"
   \include "./input-files/70_Beyer_Ferdinand_-_Op_101_-_Nr_20.ily"
   \include "./input-files/71_Beyer_Ferdinand_-_Op_101_-_Nr_21.ily"
-  \include "./input-files/72_Czerny_Carl_-_Op_599_-_Nr_13.ily"
-  \include "./input-files/73_Czerny_Carl_-_Op_599_-_Nr_14.ily"
+  \include "./input-files/72_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.1.ily"
+  \include "./input-files/73_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.2.ily"
+  \include "./input-files/74_Bertini_Henri_-_Piano_Method_-_Lesson_VIII_-_Nr.1.ily"
+  \include "./input-files/75_Bertini_Henri_-_Piano_Method_-_Lesson_VIII_-_Nr.2.ily"
+  \include "./input-files/76_Czerny_Carl_-_Op_599_-_Nr_13.ily"
+  \include "./input-files/77_Czerny_Carl_-_Op_599_-_Nr_14.ily"
+  \include "./input-files/78_Bolck_Oscar_-_Op_23_-_Nr_1.ily"
+  \include "./input-files/79_Bolck_Oscar_-_Op_23_-_Nr_2.ily"
+  \include "./input-files/80_Bolck_Oscar_-_Op_23_-_Nr_3.ily"
+  \include "./input-files/81_Bolck_Oscar_-_Op_23_-_Nr_4.ily"
 }
-
