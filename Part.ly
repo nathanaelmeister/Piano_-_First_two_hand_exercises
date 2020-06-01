@@ -7,7 +7,6 @@
 %\include "./global-files/paper.ily"
 \include "./global-files/pdf-header.ily"
 
-%{
 \book {
   \bookOutputSuffix "1"
   \paper {
@@ -37,8 +36,10 @@
   \pageBreak
   \include "./input-files/12_Deutsches_Volkslied_-_Ist_ein_Mann_in_Brunn_gefallen.ily"
   \include "./input-files/13_Skandinavisches_Volkslied_-_Gubben_Noak.ily"
+  \pageBreak
   \include "./input-files/14_Deutsches_Volkslied_-_Hänschen_klein.ily"
   \include "./input-files/15_Deutsches_Volkslied_-_Vogelhochzeit.ily"
+  \pageBreak
   \include "./input-files/16_Deutsches_Volkslied_-_Kuckuck_kuckuck.ily"
   \include "./input-files/17_Deutsches_Volkslied_-_Summ_summ_summ.ily"
   \pageBreak
@@ -46,8 +47,8 @@
   \include "./input-files/19_Deutsches_Volkslied_-_Winter_Ade.ily"
   \include "./input-files/20_Deutsches_Volkslied_-_Der_Kuckuck_und_der_Esel.ily"
 }
-%}
 
+%{
 \book {
   \bookOutputSuffix "2"
   \paper {
@@ -58,6 +59,7 @@
       }
     }
   }
+  \include "./global-files/header.ily"
   \include "./input-files/21_Deutsches_Volkslied_-_Hänsel_und_Gretel.ily"
   \include "./input-files/22_Berens_Hermann_-_Op_70_-_Nr_1.ily"
   \include "./input-files/23_Berens_Hermann_-_Op_70_-_Nr_2.ily"
@@ -88,8 +90,9 @@
   \include "./input-files/42_Meister_Nathanael_-_Op_27_-_Nr_3.ily"
   \pageBreak
   \include "./input-files/43_Meister_Nathanael_-_Op_27_-_Nr_4.ily"
-}
-%{
+
+%%%% Part 3
+
   \include "./input-files/45_Dumont_Felix_-_Op_24_-_Thema_1.ily"
   \include "./input-files/46_Dumont_Felix_-_Op_24_-_Variation_1.ily"
   \include "./input-files/47_Dumont_Felix_-_Op_24_-_Variation_2.ily"
