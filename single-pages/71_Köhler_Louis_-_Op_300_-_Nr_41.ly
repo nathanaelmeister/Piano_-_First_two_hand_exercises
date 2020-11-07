@@ -8,5 +8,5 @@
 \include "../global-files/header-single-pages.ily"
 \include "../global-files/pdf-header-single-pages.ily"
 
-\include "../input-files/69_Köhler_Louis_-_Op_300_-_Nr_41.ily"
+\include "../input-files/71_Köhler_Louis_-_Op_300_-_Nr_41.ily"
 

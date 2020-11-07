@@ -8,5 +8,5 @@
 \include "../global-files/header-single-pages.ily"
 \include "../global-files/pdf-header-single-pages.ily"
 
-\include "../input-files/75_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.2.ily"
+\include "../input-files/77_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.2.ily"
 

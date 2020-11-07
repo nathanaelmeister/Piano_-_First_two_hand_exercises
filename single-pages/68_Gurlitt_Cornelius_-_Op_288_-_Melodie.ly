@@ -8,5 +8,5 @@
 \include "../global-files/header-single-pages.ily"
 \include "../global-files/pdf-header-single-pages.ily"
 
-\include "../input-files/66_Gurlitt_Cornelius_-_Op_288_-_Melodie.ily"
+\include "../input-files/68_Gurlitt_Cornelius_-_Op_288_-_Melodie.ily"
 

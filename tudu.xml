@@ -31,6 +31,46 @@
 			<text>
 </text>
 		</todo>
+		<todo done="no" collapse="no">
+			<title>Find place to introduce Mathews with higher C</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>First before Nr.30: Beyer_-_Op_101_-_Nr_15</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+	</todo>
+	<todo done="no" collapse="no">
+		<title>Scripts</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>Num-Moover</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>fix shelcheck erros</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>add option to run num-fixer</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>add option to run single-pages creator</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Remove obsolete Scripts from Repository</title>
+			<text>
+</text>
+		</todo>
 	</todo>
 	<todo done="no" collapse="no">
 		<title>Specific Lilypond related Questions</title>
@@ -47,7 +87,7 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Review all pieces</title>
 		<text>
 </text>
