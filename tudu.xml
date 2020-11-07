@@ -5,21 +5,31 @@
 		<title>Add new pieces</title>
 		<text>
 </text>
-		<todo done="no" collapse="no">
+		<todo done="yes" collapse="no">
 			<title>23 - Nathanael o.O.</title>
 			<text>Reversed left hand, right hand technique of Berens Op.70 Nr. 1
 
 </text>
-			<todo done="no" collapse="no">
-				<title>Create</title>
-				<text>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>25 - Nathanael o.O.</title>
+			<text>
 </text>
-			</todo>
-			<todo done="no" collapse="no">
-				<title>Check for pieces of Louis Köhler to add here</title>
-				<text>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>27 - Nathanael o.O.</title>
+			<text>
 </text>
-			</todo>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>29 - Nathanael o.O.</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Check for pieces of Louis Köhler to add here</title>
+			<text>
+</text>
 		</todo>
 	</todo>
 	<todo done="no" collapse="no">
@@ -28,6 +38,11 @@
 </text>
 		<todo done="no" collapse="no">
 			<title>How to make versions with and without fingering</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>How to mark middle C on Keyboard Diagrams</title>
 			<text>
 </text>
 		</todo>

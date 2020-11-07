@@ -1,7 +1,7 @@
 \score {
   \new PianoStaff  <<
     \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "50." }
+      \huge \bold \number "49." }
 
     \new Staff = "upper" \with {
       midiInstrument = #"acoustic grand" }
@@ -11,22 +11,23 @@
       \key c \major
       \time 4/4
       \numericTimeSignature
-      e2 e | %01
-      c c  | %02
-      f f  | %03
-      d d  | %04
-      g g  | %05
-      f f  | %06
-      e e  | %07
-      d d  | %08
-      c c  | %09
-      e e  | %10
-      d d  | %11
-      f f  | %12
-      e e  | %13
-      d d  | %14
-      e1   | %15
-      \bar "|."
+
+        e1 | %01
+        c  | %02
+        f  | %03
+        d  | %04
+        g  | %05
+        f  | %06
+        e  | %07
+        d  | %08
+        c  | %09
+        e  | %10
+        d  | %11
+        f  | %12
+        e  | %13
+        d  | %14
+        e  | %15
+       \bar "|."
     }
     \new Staff = "lower" \with {
       midiInstrument = #"acoustic grand" }
@@ -52,14 +53,13 @@
       g  | %13
       g, | %14
       c  | %15
-     \bar "|."
     }
   >>
   \layout { }
   \midi {}
   \header {
-    composer = "Felix Dumont; Op.24; Nº.2"
-    piece = "Variation 1"
+    composer = "Felix Dumont; Op.24; Nº.1"
+    piece = "Erstes Thema"
     %opus = "24"
   }
 }
