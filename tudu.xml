@@ -32,11 +32,21 @@
 </text>
 		</todo>
 		<todo done="no" collapse="no">
+			<title>Find out about pieces allready typeset</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
 			<title>Find place to introduce Mathews with higher C</title>
 			<text>
 </text>
 			<todo done="no" collapse="no">
 				<title>First before Nr.30: Beyer_-_Op_101_-_Nr_15</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Mix Mathews with Schüngeler 1-16</title>
 				<text>
 </text>
 			</todo>
@@ -64,6 +74,16 @@
 				<title>add option to run single-pages creator</title>
 				<text>
 </text>
+				<todo done="no" collapse="no">
+					<title>only needs to check files being changed</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>==&gt; makefile</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 		</todo>
 		<todo done="no" collapse="no">
@@ -83,6 +103,11 @@
 		</todo>
 		<todo done="no" collapse="no">
 			<title>How to mark middle C on Keyboard Diagrams</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Ask for list of piano-technique tags</title>
 			<text>
 </text>
 		</todo>
