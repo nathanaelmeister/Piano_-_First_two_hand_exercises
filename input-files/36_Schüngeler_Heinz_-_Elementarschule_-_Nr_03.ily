@@ -8,7 +8,7 @@
     \new Staff = "upper" \with {
       midiInstrument = #"acoustic grand" }
 
-    \relative c' {
+    \relative c'' {
       \clef treble
       \key c \major
       \time 4/4
@@ -30,7 +30,7 @@
       \clef bass
       \key c \major
       \time 4/4
-      c,4-5  d e f |
+      c4-5  d e f |
       e  d e f |
       g1~ |
       g1 |

@@ -89,8 +89,13 @@
 				<title>Mix Mathews with Schüngeler 1-16</title>
 				<text>
 </text>
-				<todo done="yes" collapse="no">
-					<title>Schüngeler 1-4</title>
+				<todo done="no" collapse="no">
+					<title>Check for original ´\relatice c {}´</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Schüngeler 1-4 (fixed: `relative c` errors)</title>
 					<text>
 </text>
 				</todo>
