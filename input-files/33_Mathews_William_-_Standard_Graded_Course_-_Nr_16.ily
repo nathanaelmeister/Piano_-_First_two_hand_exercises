@@ -1,7 +1,7 @@
 \score {
   \new PianoStaff  <<
     \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "1." }
+      \huge \bold \number "33." }
 
     \new Staff = "upper" \with {
       midiInstrument = #"acoustic grand" }
@@ -13,14 +13,14 @@
       \numericTimeSignature
       \tempo 4=60 - 92
 
-      e2( f | %01
-      g f)  | %02
-      e( d  | %03
-      c d)  | %04
-      e( f  | %05
-      g f)  | %06
-      e( d  | %07
-      c1)   | %08
+      c4( d c d | %01
+      e1)       | %02
+      e4( f e f | %03
+      g1)       | %04
+      d4( e d e | %05
+      f1)       | %06
+      d4( f e d | %07
+      c1)       | %08
       \bar "|."
     }
     \new Staff = "lower" \with {
@@ -32,21 +32,21 @@
       \time 4/4
       \numericTimeSignature
 
-      c2( d | %01
-      e f)  | %02
-      g( f  | %03
-      e d)  | %04
-      c( d  | %05
-      e f)  | %06
-      g( f  | %07
-      e1)   | %08
+      R1        | %01
+      c4( d c d | %02
+      e1)       | %03
+      e4( f e f | %04
+      g1)       | %05
+      d4( e d e | %06
+      f2 g4 f   | %07
+      <c e >1)  | %08
       \bar "|."
     }
   >>
   \layout { }
   \midi {}
   \header {
-    composer = "William Mathews; Standard Graded Course; Nº.15"
+    composer = "William Mathews; Standard Graded Course; Nº.16"
     piece = ""
     %opus = "824"
   }

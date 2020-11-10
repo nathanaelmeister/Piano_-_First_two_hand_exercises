@@ -2,6 +2,26 @@
 <!DOCTYPE tudu SYSTEM "/usr/share/tudu/tudu.dtd">
 <todo>
 	<todo done="no" collapse="no">
+		<title>Fix these bugs first</title>
+		<text>
+</text>
+		<todo done="yes" collapse="no">
+			<title>rename new pices ly =&gt; ily</title>
+			<text>
+</text>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>fix numbers and create single-pages/*.ly files</title>
+			<text>
+</text>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>check if composer listing and file creation works</title>
+			<text>
+</text>
+		</todo>
+	</todo>
+	<todo done="no" collapse="no">
 		<title>Add new pieces</title>
 		<text>
 </text>

@@ -1,7 +1,7 @@
 \score {
   \new PianoStaff  <<
     \set PianoStaff.instrumentName = \markup {
-      \huge \bold \number "1." }
+      \huge \bold \number "31." }
 
     \new Staff = "upper" \with {
       midiInstrument = #"acoustic grand" }
@@ -9,18 +9,18 @@
     \relative c'' {
       \clef treble
       \key c \major
-      \time 4/4
+      \time 3/4
       \numericTimeSignature
-      \tempo 4=60 - 92
+      \tempo 4=60 - 80
 
-      c4( d c d | %01
-      e1)       | %02
-      e4( f e f | %03
-      g1)       | %04
-      d4( e d e | %05
-      f1)       | %06
-      d4( f e d | %07
-      c1)       | %08
+      c4 c c( | %01
+      d2) d4( | %02
+      e) e e( | %03
+      f2) f4( | %04
+      g) g g( | %05
+      f2) f4( | %06
+      e) e( d | %07
+      c2.)    | %08
       \bar "|."
     }
     \new Staff = "lower" \with {
@@ -29,24 +29,24 @@
     \relative c' {
       \clef treble
       \key c \major
-      \time 4/4
+      \time 3/4
       \numericTimeSignature
 
-      R1        | %01
-      c4( d c d | %02
-      e1)       | %03
-      e4( f e f | %04
-      g1)       | %05
-      d4( e d e | %06
-      f2 g4 f   | %07
-      <c e >1)  | %08
+      c2.     | %01
+      d       | %02
+      e       | %03
+      f       | %04
+      g       | %05
+      f       | %06
+      e2 d4   | %07
+      c2.     | %08
       \bar "|."
     }
   >>
   \layout { }
   \midi {}
   \header {
-    composer = "William Mathews; Standard Graded Course; Nº.16"
+    composer = "William Mathews; Standard Graded Course; Nº.14"
     piece = ""
     %opus = "824"
   }
