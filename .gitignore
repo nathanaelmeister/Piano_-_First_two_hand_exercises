@@ -1,6 +1,7 @@
 composers/
 infile
 _*
+~*
 *.ogg
 *.midi
 *.pdf

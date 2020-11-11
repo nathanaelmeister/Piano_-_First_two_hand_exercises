@@ -54,6 +54,11 @@
 				<title>add from Op.190 Nr.5 (Lilypond typeset[done])</title>
 				<text>
 </text>
+				<todo done="no" collapse="no">
+					<title>add Nr.5-7 to Nr.32-34 $(nm.sh 32 3)</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 		</todo>
 		<todo done="no" collapse="no">
@@ -85,7 +90,7 @@
 </text>
 				</todo>
 				<todo done="no" collapse="no">
-					<title>5-16</title>
+					<title>6-16</title>
 					<text>
 </text>
 				</todo>
@@ -144,6 +149,31 @@
 					<text>
 </text>
 				</todo>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Tudu song-list creator</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>Automate file handeling</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>If keeping temp "~tudu.xml" add to ".gitignore"</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Rewrite for updaing list, not only rewrite (complicated)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Create completely new list with date (simpler) </title>
+				<text>
+</text>
 			</todo>
 		</todo>
 		<todo done="no" collapse="no">
@@ -330,11 +360,21 @@
 			<title>30_Meister_Nathanael_-_Op_24_-_Nr_3</title>
 			<text>
 </text>
+			<todo done="no" collapse="no">
+				<title>Add left-hand right hand flip (R.H. w. Chords)</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>31_Meister_Nathanael_-_Op_24_-_Nr_4</title>
 			<text>
 </text>
+			<todo done="no" collapse="no">
+				<title>Add left-hand right hand flip (R.H. w. Chords)</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>32_Meister_Nathanael_-_Op_24_-_Nr_5</title>
