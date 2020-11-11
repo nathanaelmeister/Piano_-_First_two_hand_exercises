@@ -70,12 +70,17 @@
 			<title>Find place to introduce Mathews with higher C</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
-				<title>First before Nr.30: Beyer_-_Op_101_-_Nr_15 &gt;&gt; Nr.13-16</title>
+			<todo done="yes" collapse="no">
+				<title>William Mathews; Standard Graded Course</title>
 				<text>
 </text>
 				<todo done="yes" collapse="no">
-					<title>1-4</title>
+					<title>1-4 before Nr.30: Beyer_-_Op_101_-_Nr_15 &gt;&gt; Nr.13-16</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>5-6 to Nr.39-40</title>
 					<text>
 </text>
 				</todo>
@@ -86,15 +91,15 @@
 				</todo>
 			</todo>
 			<todo done="no" collapse="no">
-				<title>Mix Mathews with Schüngeler 1-16</title>
+				<title>Heinz Schüngeler; Elementarschule; 1-16</title>
 				<text>
 </text>
 				<todo done="no" collapse="no">
-					<title>Check for original ´\relatice c {}´</title>
+					<title>Check for original ´\relative c {}´</title>
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>Schüngeler 1-4 (fixed: `relative c` errors)</title>
 					<text>
 </text>
