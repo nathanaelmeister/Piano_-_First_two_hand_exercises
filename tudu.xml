@@ -54,8 +54,13 @@
 				<title>add from Op.190 Nr.5 (Lilypond typeset[done])</title>
 				<text>
 </text>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>add Nr.5-7 to Nr.32-34 $(nm.sh 32 3)</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>add Nr.8-9 to Nr.48-49 $(nm.sh 48 2)</title>
 					<text>
 </text>
 				</todo>
@@ -360,8 +365,13 @@
 			<title>30_Meister_Nathanael_-_Op_24_-_Nr_3</title>
 			<text>
 </text>
+			<todo done="yes" collapse="no">
+				<title>Add left-hand right hand flip</title>
+				<text>
+</text>
+			</todo>
 			<todo done="no" collapse="no">
-				<title>Add left-hand right hand flip (R.H. w. Chords)</title>
+				<title>Review - using simple Chords in RH?</title>
 				<text>
 </text>
 			</todo>
@@ -370,8 +380,13 @@
 			<title>31_Meister_Nathanael_-_Op_24_-_Nr_4</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Add left-hand right hand flip (R.H. w. Chords)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Review - using simple Chords in RH?</title>
 				<text>
 </text>
 			</todo>
