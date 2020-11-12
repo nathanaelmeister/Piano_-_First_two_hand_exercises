@@ -52,6 +52,11 @@
 </text>
 		</todo>
 		<todo done="no" collapse="no">
+			<title>If New pieces in Nathanael Op. 24; =&gt; renumber</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
 			<title>Check for pieces of Louis Köhler to add here</title>
 			<text>
 </text>
@@ -64,8 +69,8 @@
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
-					<title>add Nr.8-9 to Nr.48-49 $(nm.sh 48 2)</title>
+				<todo done="yes" collapse="no">
+					<title>add Nr.8-9 to Nr.47-49 $(nm.sh 047 2)</title>
 					<text>
 </text>
 				</todo>
@@ -184,6 +189,16 @@
 				<title>check compatibility with 3 digit numbers</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>Fixed (needed update)</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Check if working with 2 and 3 digits</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 		</todo>
 		<todo done="no" collapse="no">
@@ -380,11 +395,41 @@
 			<title>27_Meister_Nathanael_-_Op_24_-_Nr_1a</title>
 			<text>
 </text>
+			<todo done="no" collapse="no">
+				<title>Add left-hand right hand flip</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Review - using simple Chords in RH?</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>merge into Repository</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>28_Meister_Nathanael_-_Op_24_-_Nr_1b</title>
 			<text>
 </text>
+			<todo done="no" collapse="no">
+				<title>Add left-hand right hand flip</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Review - using simple Chords in RH?</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>merge into Repository</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>29_Meister_Nathanael_-_Op_24_-_Nr_2</title>
@@ -405,7 +450,7 @@
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>merge into Repository</title>
 				<text>
 </text>
@@ -425,7 +470,7 @@
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>merge into Repository</title>
 				<text>
 </text>
