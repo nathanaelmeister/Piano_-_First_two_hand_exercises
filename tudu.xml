@@ -20,6 +20,11 @@
 			<text>
 </text>
 		</todo>
+		<todo done="yes" collapse="no">
+			<title>add leading zeros to input-files $(rename 's/^/0/g' *.ily)</title>
+			<text>
+</text>
+		</todo>
 	</todo>
 	<todo done="no" collapse="no">
 		<title>Add new pieces</title>
@@ -136,7 +141,12 @@
 </text>
 			</todo>
 			<todo done="no" collapse="no">
-				<title>add option to run num-fixer</title>
+				<title>add option to atom. run num-fixer afterwards</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>add option to atom. run link-fixer afterwards</title>
 				<text>
 </text>
 			</todo>
@@ -154,6 +164,26 @@
 					<text>
 </text>
 				</todo>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Link-fixer</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>write</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Num-fixer</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>check compatibility with 3 digit numbers</title>
+				<text>
+</text>
 			</todo>
 		</todo>
 		<todo done="no" collapse="no">
@@ -212,7 +242,7 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="yes">
+	<todo done="no" collapse="no">
 		<title>Review all pieces</title>
 		<text>
 </text>
@@ -375,6 +405,11 @@
 				<text>
 </text>
 			</todo>
+			<todo done="no" collapse="no">
+				<title>merge into Repository</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>31_Meister_Nathanael_-_Op_24_-_Nr_4</title>
@@ -387,6 +422,11 @@
 			</todo>
 			<todo done="no" collapse="no">
 				<title>Review - using simple Chords in RH?</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>merge into Repository</title>
 				<text>
 </text>
 			</todo>
