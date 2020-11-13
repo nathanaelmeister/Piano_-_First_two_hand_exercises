@@ -65,12 +65,17 @@
 				<text>
 </text>
 				<todo done="yes" collapse="no">
-					<title>add Nr.5-7 to Nr.32-34 $(nm.sh 32 3)</title>
+					<title>add Nr.5-7 =&gt; Nr.32-34 $(nm.sh 32 3)</title>
 					<text>
 </text>
 				</todo>
 				<todo done="yes" collapse="no">
-					<title>add Nr.8-9 to Nr.47-49 $(nm.sh 047 2)</title>
+					<title>add Nr.8-9 =&gt; Nr.47-49 $(nm.sh 047 2)</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Continue with 10 after adding note b</title>
 					<text>
 </text>
 				</todo>
@@ -142,6 +147,11 @@
 </text>
 			<todo done="no" collapse="no">
 				<title>fix shelcheck erros</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>fix error with double zeros in filenames</title>
 				<text>
 </text>
 			</todo>
