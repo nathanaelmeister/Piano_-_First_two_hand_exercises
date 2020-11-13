@@ -87,7 +87,8 @@
 </text>
 			<todo done="no" collapse="no">
 				<title>From "Technic is Fun" Collection</title>
-				<text>
+				<text>postpone this until before the very last edition.
+
 </text>
 			</todo>
 		</todo>
@@ -109,8 +110,23 @@
 					<text>
 </text>
 				</todo>
+				<todo done="yes" collapse="no">
+					<title>7-10 (=&gt; Nr.59-62 if Schüngeler 5-6 before) $(nm.sh 059 4)</title>
+					<text>
+</text>
+				</todo>
 				<todo done="no" collapse="no">
-					<title>6-16</title>
+					<title>11-13 (=&gt; Nr.74-76) $(nm.sh 074 3)</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Move: Schmoll "Der erste Walzer" here </title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>13-16</title>
 					<text>
 </text>
 				</todo>
@@ -129,8 +145,18 @@
 					<text>
 </text>
 				</todo>
+				<todo done="yes" collapse="no">
+					<title>Schüngeler 5-6 (=&gt; Nr.56-67) $(nm.sh 056 2)</title>
+					<text>
+</text>
+				</todo>
 				<todo done="no" collapse="no">
-					<title>Schüngeler 5-16</title>
+					<title>Schüngeler 7-8 (=&gt; Nr.65-66) $(nm.sh 065 1)</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Schüngeler 9-16</title>
 					<text>
 </text>
 				</todo>
