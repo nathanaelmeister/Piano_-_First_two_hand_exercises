@@ -92,7 +92,7 @@
 </text>
 			</todo>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="no" collapse="yes">
 			<title>Find place to introduce Mathews with higher C</title>
 			<text>
 </text>
@@ -178,7 +178,7 @@
 			</todo>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Scripts</title>
 		<text>
 </text>
@@ -308,7 +308,7 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Review all pieces</title>
 		<text>
 </text>
