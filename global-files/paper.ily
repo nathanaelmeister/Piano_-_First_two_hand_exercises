@@ -1,4 +1,5 @@
 \paper {
+  page-breaking = #ly:page-turn-breaking
   system-system-spacing =
   #'((basic-distance . 12)
      (minimum-distance . 10)

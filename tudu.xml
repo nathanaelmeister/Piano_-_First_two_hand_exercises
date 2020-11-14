@@ -115,18 +115,18 @@
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
-					<title>11-13 (=&gt; Nr.74-76) $(nm.sh 074 3)</title>
+				<todo done="yes" collapse="no">
+					<title>11-13 (=&gt; Nr.85-87) $(nm.sh 085 3)</title>
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>Move: Schmoll "Der erste Walzer" here </title>
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
-					<title>13-16</title>
+				<todo done="yes" collapse="no">
+					<title>14-16 (=&gt; Nr.107-109) $(nm.sh 107 3)</title>
 					<text>
 </text>
 				</todo>
@@ -135,7 +135,7 @@
 				<title>Heinz Schüngeler; Elementarschule; 1-16</title>
 				<text>
 </text>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>Check for original ´\relative c {}´</title>
 					<text>
 </text>
@@ -150,13 +150,28 @@
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
-					<title>Schüngeler 7-8 (=&gt; Nr.65-66) $(nm.sh 065 1)</title>
+				<todo done="yes" collapse="no">
+					<title>Schüngeler 7-8 (=&gt; Nr.71-72) $(nm.sh 072 1)</title>
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
-					<title>Schüngeler 9-16</title>
+				<todo done="yes" collapse="no">
+					<title>Schüngeler 9-10 (=&gt; Nr.80-71) $(nm.sh 080 2)</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>Schüngeler 11-12 (=&gt; Nr.90-91) $(nm.sh 090 2)</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>Schüngeler 13-16 (=&gt; Nr.100-101) $(nm.sh 100 2)</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>Schüngeler 14-16 (=&gt; Nr.109-110) $(nm.sh 109 2)</title>
 					<text>
 </text>
 				</todo>

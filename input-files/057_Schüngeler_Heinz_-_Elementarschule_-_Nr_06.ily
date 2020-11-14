@@ -26,8 +26,8 @@
     \new Staff = "lower" \with {
       midiInstrument = #"acoustic grand" }
 
-    \relative c {
-      \clef bass
+    \relative c' {
+      \clef treble
       \key c \major
       \time 4/4
       \numericTimeSignature

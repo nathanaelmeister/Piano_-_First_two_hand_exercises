@@ -14,8 +14,8 @@
       \time 4/4
       \numericTimeSignature
       \tempo ""
-      c-1 d-2 e-3 f-4 |
-      g-5 f-4 e-3 d-2 |
+      c4-1 d-2 e-3 f-4 |
+      g-5 f-4 e-3 d-2  |
       c1~ |
       c1 |
       c4-1 d e f |
@@ -26,13 +26,13 @@
     \new Staff = "lower" \with {
       midiInstrument = #"acoustic grand" }
 
-    \relative c {
-      \clef bass
+    \relative c' {
+      \clef treble
       \key c \major
       \time 4/4
       \numericTimeSignature
-      r1 |
-      r1 |
+      R1 |
+      R1 |
       c4-5 d-4 e-3 f-2 |
       g-1 f-2 e-3 d-4 |
       c1~ |
