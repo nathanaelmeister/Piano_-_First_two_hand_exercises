@@ -1,5 +1,3 @@
-![Hands off Assange!!!](http://somersetbean.com/wp-content/uploads/2018/10/free-assange-banner-8ftx2ft-150ppi-WEB.jpg)
-
 # Piano School - [LilyPond](http://www.lilypond.org) easy Piano Repository
 ## Part II - *First two hand exercises*
 ### by Nathanael Meister
@@ -7,86 +5,129 @@
 Collection of easy pieces for the first lectures in
 playing the Piano with two hands independently.
 
-1. Czerny Carl - Op.824 - Nº.1 - [[LilyPond]](./input-files/01_Czerny_Carl_-_Op_824_-_Nr_1.ily)
-2. Czerny Carl - Op.824 - Nº.2 - [[LilyPond]](./input-files/02_Czerny_Carl_-_Op_824_-_Nr_2.ily)
-3. Czerny Carl - Op.824 - Nº.3 - [[LilyPond]](./input-files/03_Czerny_Carl_-_Op_824_-_Nr_3.ily)
-4. Czerny Carl - Op.824 - Nº.4 - [[LilyPond]](./input-files/04_Czerny_Carl_-_Op_824_-_Nr_4.ily)
-5. Beyer Ferdinand - Op.101 - Nº.8 - [[LilyPond]](./input-files/05_Beyer_Ferdinand_-_Op_101_-_Nr_8.ily)
-6. Beyer Ferdinand - Op.101 - Nº.9 - [[LilyPond]](./input-files/06_Beyer_Ferdinand_-_Op_101_-_Nr_9.ily)
-7. Beyer Ferdinand - Op.101 - Nº.10 - [[LilyPond]](./input-files/07_Beyer_Ferdinand_-_Op_101_-_Nr_10.ily)
-8. Beyer Ferdinand - Op.101 - Nº.11 - [[LilyPond]](./input-files/08_Beyer_Ferdinand_-_Op_101_-_Nr_11.ily)
-9. Beyer Ferdinand - Op.101 - Nº.12 - [[LilyPond]](./input-files/09_Beyer_Ferdinand_-_Op_101_-_Nr_12.ily)
-10. Beyer Ferdinand - Op.101 - Nº.13 - [[LilyPond]](./input-files/10_Beyer_Ferdinand_-_Op_101_-_Nr_13.ily)
-11. Beyer Ferdinand - Op.101 - Nº.14 - [[LilyPond]](./input-files/11_Beyer_Ferdinand_-_Op_101_-_Nr_14.ily)
-12. Deutsches Volkslied - Ist ein Mann in Brunn gefallen - [[LilyPond]](./input-files/12_Deutsches_Volkslied_-_Ist_ein_Mann_in_Brunn_gefallen.ily)
-13. Skandinavisches Volkslied - Gubben Noak - [[LilyPond]](./input-files/13_Skandinavisches_Volkslied_-_Gubben_Noak.ily)
-14. Deutsches Volkslied - Hänschen klein - [[LilyPond]](./input-files/14_Deutsches_Volkslied_-_Hänschen_klein.ily)
-15. Deutsches Volkslied - Vogelhochzeit - [[LilyPond]](./input-files/15_Deutsches_Volkslied_-_Vogelhochzeit.ily)
-16. Deutsches Volkslied - Kuckuck kuckuck - [[LilyPond]](./input-files/16_Deutsches_Volkslied_-_Kuckuck_kuckuck.ily)
-17. Deutsches Volkslied - Summ summ summ - [[LilyPond]](./input-files/17_Deutsches_Volkslied_-_Summ_summ_summ.ily)
-18. Deutsches Volkslied - Aaa der Winter der ist da - [[LilyPond]](./input-files/18_Deutsches_Volkslied_-_Aaa_der_Winter_der_ist_da.ily)
-19. Deutsches Volkslied - Winter Ade - [[LilyPond]](./input-files/19_Deutsches_Volkslied_-_Winter_Ade.ily)
-20. Deutsches Volkslied - Der Kuckuck und der Esel - [[LilyPond]](./input-files/20_Deutsches_Volkslied_-_Der_Kuckuck_und_der_Esel.ily)
-21. Deutsches Volkslied - Hänsel und Gretel - [[LilyPond]](./input-files/21_Deutsches_Volkslied_-_Hänsel_und_Gretel.ily)
-22. Berens Hermann - Op.70 - Nº.1 - [[LilyPond]](./input-files/22_Berens_Hermann_-_Op_70_-_Nr_1.ily)
-23. Berens Hermann - Op.70 - Nº.2 - [[LilyPond]](./input-files/23_Berens_Hermann_-_Op_70_-_Nr_2.ily)
-24. Berens Hermann - Op.70 - Nº.3 - [[LilyPond]](./input-files/24_Berens_Hermann_-_Op_70_-_Nr_3.ily)
-25. Berens Hermann - Op.70 - Nº.4 - [[LilyPond]](./input-files/25_Berens_Hermann_-_Op_70_-_Nr_4.ily)
-26. Beyer Ferdinand - Op.101 - Nº.15 - [[LilyPond]](./input-files/26_Beyer_Ferdinand_-_Op_101_-_Nr_15.ily)
-27. Meister Nathanael - Op.24 - Nº.1a - [[LilyPond]](./input-files/27_Meister_Nathanael_-_Op_24_-_Nr_1a.ily)
-28. Meister Nathanael - Op.24 - Nº.1b - [[LilyPond]](./input-files/28_Meister_Nathanael_-_Op_24_-_Nr_1b.ily)
-29. Meister Nathanael - Op.24 - Nº.2 - [[LilyPond]](./input-files/29_Meister_Nathanael_-_Op_24_-_Nr_2.ily)
-30. Meister Nathanael - Op.24 - Nº.3 - [[LilyPond]](./input-files/30_Meister_Nathanael_-_Op_24_-_Nr_3.ily)
-31. Meister Nathanael - Op.24 - Nº.4 - [[LilyPond]](./input-files/31_Meister_Nathanael_-_Op_24_-_Nr_4.ily)
-32. Meister Nathanael - Op.24 - Nº.5 - [[LilyPond]](./input-files/32_Meister_Nathanael_-_Op_24_-_Nr_5.ily)
-33. Meister Nathanael - Op.24 - Nº.6 - [[LilyPond]](./input-files/33_Meister_Nathanael_-_Op_24_-_Nr_6.ily)
-34. Meister Nathanael - Op.24 - Nº.7 - [[LilyPond]](./input-files/34_Meister_Nathanael_-_Op_24_-_Nr_7.ily)
-35. Beyer Ferdinand - Op.101 - Nº.16 - [[LilyPond]](./input-files/35_Beyer_Ferdinand_-_Op_101_-_Nr_16.ily)
-36. Beyer Ferdinand - Op.101 - Nº.17 - [[LilyPond]](./input-files/36_Beyer_Ferdinand_-_Op_101_-_Nr_17.ily)
-37. Beyer Ferdinand - Op.101 - Nº.18 - [[LilyPond]](./input-files/37_Beyer_Ferdinand_-_Op_101_-_Nr_18.ily)
-38. Meister Nathanael - Op.27 - Nº.1a - [[LilyPond]](./input-files/38_Meister_Nathanael_-_Op_27_-_Nr_1a.ily)
-39. Meister Nathanael - Op.27 - Nº.1b - [[LilyPond]](./input-files/39_Meister_Nathanael_-_Op_27_-_Nr_1b.ily)
-40. Meister Nathanael - Op.27 - Nº.2a - [[LilyPond]](./input-files/40_Meister_Nathanael_-_Op_27_-_Nr_2a.ily)
-41. Meister Nathanael - Op.27 - Nº.2b - [[LilyPond]](./input-files/41_Meister_Nathanael_-_Op_27_-_Nr_2b.ily)
-42. Meister Nathanael - Op.27 - Nº.3 - [[LilyPond]](./input-files/42_Meister_Nathanael_-_Op_27_-_Nr_3.ily)
-43. Meister Nathanael - Op.27 - Nº.4 - [[LilyPond]](./input-files/43_Meister_Nathanael_-_Op_27_-_Nr_4.ily)
-45. Dumont Felix - Op.24 - Thema 1 - [[LilyPond]](./input-files/45_Dumont_Felix_-_Op_24_-_Thema_1.ily)
-46. Dumont Felix - Op.24 - Variation 1 - [[LilyPond]](./input-files/46_Dumont_Felix_-_Op_24_-_Variation_1.ily)
-47. Dumont Felix - Op.24 - Variation 2 - [[LilyPond]](./input-files/47_Dumont_Felix_-_Op_24_-_Variation_2.ily)
-48. Dumont Felix - Op.24 - Thema - [[LilyPond]](./input-files/48_Dumont_Felix_-_Op_24_-_Thema.ily)
-49. Dumont Felix - Op.24 - Variation 1 - [[LilyPond]](./input-files/49_Dumont_Felix_-_Op_24_-_Variation_1.ily)
-50. Dumont Felix - Op.24 - Variation 2 - [[LilyPond]](./input-files/50_Dumont_Felix_-_Op_24_-_Variation_2.ily)
-51. Dumont Felix - Op.24 - Wiegenlied - [[LilyPond]](./input-files/51_Dumont_Felix_-_Op_24_-_Wiegenlied.ily)
-52. Berens Hermann - Op.70 - Nº.5 - [[LilyPond]](./input-files/52_Berens_Hermann_-_Op_70_-_Nr_5.ily)
-53. Berens Hermann - Op.70 - Nº.6 - [[LilyPond]](./input-files/53_Berens_Hermann_-_Op_70_-_Nr_6.ily)
-54. Berens Hermann - Op.70 - Nº.7 - [[LilyPond]](./input-files/54_Berens_Hermann_-_Op_70_-_Nr_7.ily)
-55. Berens Hermann - Op.70 - Nº.8 - [[LilyPond]](./input-files/55_Berens_Hermann_-_Op_70_-_Nr_8.ily)
-56. Berens Hermann - Op.70 - Nº.9 - [[LilyPond]](./input-files/56_Berens_Hermann_-_Op_70_-_Nr_9.ily)
-57. Gurlitt Cornelius - Op.288 - Nº.34 - [[LilyPond]](./input-files/57_Gurlitt_Cornelius_-_Op_288_-_Nr_34.ily)
-58. Gurlitt Cornelius - Op.288 - Nº.35 - [[LilyPond]](./input-files/58_Gurlitt_Cornelius_-_Op_288_-_Nr_35.ily)
-59. Gurlitt Cornelius - Op.288 - Nº.37 - [[LilyPond]](./input-files/59_Gurlitt_Cornelius_-_Op_288_-_Nr_37.ily)
-60. Gurlitt Cornelius - Op.288 - Nº.38 - [[LilyPond]](./input-files/60_Gurlitt_Cornelius_-_Op_288_-_Nr_38.ily)
-61. Gurlitt Cornelius - Op.288 - Nº.39 - [[LilyPond]](./input-files/61_Gurlitt_Cornelius_-_Op_288_-_Nr_39.ily)
-62. Gurlitt Cornelius - Op.288 - Nº.40 - [[LilyPond]](./input-files/62_Gurlitt_Cornelius_-_Op_288_-_Nr_40.ily)
-63. Gurlitt Cornelius - Op.288 - Nº.41 - [[LilyPond]](./input-files/63_Gurlitt_Cornelius_-_Op_288_-_Nr_41.ily)
-64. Gurlitt Cornelius - Op.288 - Melodie - [[LilyPond]](./input-files/64_Gurlitt_Cornelius_-_Op_288_-_Melodie.ily)
-65. Czerny Carl - Op.599 - Nº.11 - [[LilyPond]](./input-files/65_Czerny_Carl_-_Op_599_-_Nr_11.ily)
-66. Czerny Carl - Op.599 - Nº.12 - [[LilyPond]](./input-files/66_Czerny_Carl_-_Op_599_-_Nr_12.ily)
-67. Köhler Louis - Op.300 - Nº.41 - [[LilyPond]](./input-files/67_Köhler_Louis_-_Op_300_-_Nr_41.ily)
-68. Köhler Louis - Op.300 - Nº.42 - [[LilyPond]](./input-files/68_Köhler_Louis_-_Op_300_-_Nr_42.ily)
-69. Beyer Ferdinand - Op.101 - Nº.19 - [[LilyPond]](./input-files/69_Beyer_Ferdinand_-_Op_101_-_Nr_19.ily)
-70. Beyer Ferdinand - Op.101 - Nº.20 - [[LilyPond]](./input-files/70_Beyer_Ferdinand_-_Op_101_-_Nr_20.ily)
-71. Beyer Ferdinand - Op.101 - Nº.21 - [[LilyPond]](./input-files/71_Beyer_Ferdinand_-_Op_101_-_Nr_21.ily)
-72. Bertini Henri - Piano Method - Lesson VII - Nr.1 - [[LilyPond]](./input-files/72_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.1.ily)
-73. Bertini Henri - Piano Method - Lesson VII - Nr.2 - [[LilyPond]](./input-files/73_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.2.ily)
-74. Bertini Henri - Piano Method - Lesson VIII - Nr.1 - [[LilyPond]](./input-files/74_Bertini_Henri_-_Piano_Method_-_Lesson_VIII_-_Nr.1.ily)
-75. Bertini Henri - Piano Method - Lesson VIII - Nr.2 - [[LilyPond]](./input-files/75_Bertini_Henri_-_Piano_Method_-_Lesson_VIII_-_Nr.2.ily)
-76. Czerny Carl - Op.599 - Nº.13 - [[LilyPond]](./input-files/76_Czerny_Carl_-_Op_599_-_Nr_13.ily)
-77. Czerny Carl - Op.599 - Nº.14 - [[LilyPond]](./input-files/77_Czerny_Carl_-_Op_599_-_Nr_14.ily)
-78. Bolck Oscar - Op.23 - Nº.1 - [[LilyPond]](./input-files/78_Bolck_Oscar_-_Op_23_-_Nr_1.ily)
-79. Bolck Oscar - Op.23 - Nº.2 - [[LilyPond]](./input-files/79_Bolck_Oscar_-_Op_23_-_Nr_2.ily)
-80. Bolck Oscar - Op.23 - Nº.3 - [[LilyPond]](./input-files/80_Bolck_Oscar_-_Op_23_-_Nr_3.ily)
-81. Bolck Oscar - Op.23 - Nº.4 - [[LilyPond]](./input-files/81_Bolck_Oscar_-_Op_23_-_Nr_4.ily)
+1. 001 Czerny Carl - Op.824 - Nº.1 - [[LilyPond]](./input-files/001_Czerny_Carl_-_Op_824_-_Nr_1.ily)
+2. 002 Czerny Carl - Op.824 - Nº.2 - [[LilyPond]](./input-files/002_Czerny_Carl_-_Op_824_-_Nr_2.ily)
+3. 003 Czerny Carl - Op.824 - Nº.3 - [[LilyPond]](./input-files/003_Czerny_Carl_-_Op_824_-_Nr_3.ily)
+4. 004 Czerny Carl - Op.824 - Nº.4 - [[LilyPond]](./input-files/004_Czerny_Carl_-_Op_824_-_Nr_4.ily)
+5. 005 Beyer Ferdinand - Op.101 - Nº.8 - [[LilyPond]](./input-files/005_Beyer_Ferdinand_-_Op_101_-_Nr_8.ily)
+6. 006 Beyer Ferdinand - Op.101 - Nº.9 - [[LilyPond]](./input-files/006_Beyer_Ferdinand_-_Op_101_-_Nr_9.ily)
+7. 007 Beyer Ferdinand - Op.101 - Nº.10 - [[LilyPond]](./input-files/007_Beyer_Ferdinand_-_Op_101_-_Nr_10.ily)
+8. 008 Beyer Ferdinand - Op.101 - Nº.11 - [[LilyPond]](./input-files/008_Beyer_Ferdinand_-_Op_101_-_Nr_11.ily)
+9. 009 Beyer Ferdinand - Op.101 - Nº.12 - [[LilyPond]](./input-files/009_Beyer_Ferdinand_-_Op_101_-_Nr_12.ily)
+10. 010 Beyer Ferdinand - Op.101 - Nº.13 - [[LilyPond]](./input-files/010_Beyer_Ferdinand_-_Op_101_-_Nr_13.ily)
+11. 011 Beyer Ferdinand - Op.101 - Nº.14 - [[LilyPond]](./input-files/011_Beyer_Ferdinand_-_Op_101_-_Nr_14.ily)
+12. 012 Deutsches Volkslied - Ist ein Mann in Brunn gefallen - [[LilyPond]](./input-files/012_Deutsches_Volkslied_-_Ist_ein_Mann_in_Brunn_gefallen.ily)
+13. 013 Skandinavisches Volkslied - Gubben Noak - [[LilyPond]](./input-files/013_Skandinavisches_Volkslied_-_Gubben_Noak.ily)
+14. 014 Deutsches Volkslied - Hänschen klein - [[LilyPond]](./input-files/014_Deutsches_Volkslied_-_Hänschen_klein.ily)
+15. 015 Deutsches Volkslied - Vogelhochzeit - [[LilyPond]](./input-files/015_Deutsches_Volkslied_-_Vogelhochzeit.ily)
+16. 016 Deutsches Volkslied - Kuckuck kuckuck - [[LilyPond]](./input-files/016_Deutsches_Volkslied_-_Kuckuck_kuckuck.ily)
+17. 017 Deutsches Volkslied - Summ summ summ - [[LilyPond]](./input-files/017_Deutsches_Volkslied_-_Summ_summ_summ.ily)
+18. 018 Deutsches Volkslied - Aaa der Winter der ist da - [[LilyPond]](./input-files/018_Deutsches_Volkslied_-_Aaa_der_Winter_der_ist_da.ily)
+19. 019 Deutsches Volkslied - Winter Ade - [[LilyPond]](./input-files/019_Deutsches_Volkslied_-_Winter_Ade.ily)
+20. 020 Deutsches Volkslied - Der Kuckuck und der Esel - [[LilyPond]](./input-files/020_Deutsches_Volkslied_-_Der_Kuckuck_und_der_Esel.ily)
+21. 021 Deutsches Volkslied - Hänsel und Gretel - [[LilyPond]](./input-files/021_Deutsches_Volkslied_-_Hänsel_und_Gretel.ily)
+22. 022 Berens Hermann - Op.70 - Nº.1 - [[LilyPond]](./input-files/022_Berens_Hermann_-_Op_70_-_Nr_1.ily)
+23. 023 Meister Nathanael - oO - [[LilyPond]](./input-files/023_Meister_Nathanael_-_oO.ily)
+24. 024 Berens Hermann - Op.70 - Nº.2 - [[LilyPond]](./input-files/024_Berens_Hermann_-_Op_70_-_Nr_2.ily)
+25. 025 Meister Nathanael - oO - [[LilyPond]](./input-files/025_Meister_Nathanael_-_oO.ily)
+26. 026 Berens Hermann - Op.70 - Nº.3 - [[LilyPond]](./input-files/026_Berens_Hermann_-_Op_70_-_Nr_3.ily)
+27. 027 Meister Nathanael - oO - [[LilyPond]](./input-files/027_Meister_Nathanael_-_oO.ily)
+28. 028 Berens Hermann - Op.70 - Nº.4 - [[LilyPond]](./input-files/028_Berens_Hermann_-_Op_70_-_Nr_4.ily)
+29. 029 Meister Nathanael - oO - [[LilyPond]](./input-files/029_Meister_Nathanael_-_oO.ily)
+30. 030 Mathews William - Standard Graded Course - Nº.13 - [[LilyPond]](./input-files/030_Mathews_William_-_Standard_Graded_Course_-_Nr_13.ily)
+31. 031 Mathews William - Standard Graded Course - Nº.14 - [[LilyPond]](./input-files/031_Mathews_William_-_Standard_Graded_Course_-_Nr_14.ily)
+32. 032 Köhler Louis - Op.190 - Nº.5 - [[LilyPond]](./input-files/032_Köhler_Louis_-_Op_190_-_Nr_5.ily)
+33. 033 Köhler Louis - Op.190 - Nº.6 - [[LilyPond]](./input-files/033_Köhler_Louis_-_Op_190_-_Nr_6.ily)
+34. 034 Köhler Louis - Op.190 - Nº.7 - [[LilyPond]](./input-files/034_Köhler_Louis_-_Op_190_-_Nr_7.ily)
+35. 035 Mathews William - Standard Graded Course - Nº.15 - [[LilyPond]](./input-files/035_Mathews_William_-_Standard_Graded_Course_-_Nr_15.ily)
+36. 036 Mathews William - Standard Graded Course - Nº.16 - [[LilyPond]](./input-files/036_Mathews_William_-_Standard_Graded_Course_-_Nr_16.ily)
+37. 037 Schüngeler Heinz - Elementarschule - Nº.01 - [[LilyPond]](./input-files/037_Schüngeler_Heinz_-_Elementarschule_-_Nr_01.ily)
+38. 038 Schüngeler Heinz - Elementarschule - Nº.02 - [[LilyPond]](./input-files/038_Schüngeler_Heinz_-_Elementarschule_-_Nr_02.ily)
+39. 039 Schüngeler Heinz - Elementarschule - Nº.03 - [[LilyPond]](./input-files/039_Schüngeler_Heinz_-_Elementarschule_-_Nr_03.ily)
+40. 040 Schüngeler Heinz - Elementarschule - Nº.04 - [[LilyPond]](./input-files/040_Schüngeler_Heinz_-_Elementarschule_-_Nr_04.ily)
+41. 041 Beyer Ferdinand - Op.101 - Nº.15 - [[LilyPond]](./input-files/041_Beyer_Ferdinand_-_Op_101_-_Nr_15.ily)
+42. 042 Mathews William - Standard Graded Course - Nº.17 - [[LilyPond]](./input-files/042_Mathews_William_-_Standard_Graded_Course_-_Nr_17.ily)
+43. 043 Mathews William - Standard Graded Course - Nº.18 - [[LilyPond]](./input-files/043_Mathews_William_-_Standard_Graded_Course_-_Nr_18.ily)
+44. 044 Meister Nathanael - Op.24 - Nº.1a - [[LilyPond]](./input-files/044_Meister_Nathanael_-_Op_24_-_Nr_1a.ily)
+45. 045 Meister Nathanael - Op.24 - Nº.1b - [[LilyPond]](./input-files/045_Meister_Nathanael_-_Op_24_-_Nr_1b.ily)
+46. 046 Meister Nathanael - Op.24 - Nº.2 - [[LilyPond]](./input-files/046_Meister_Nathanael_-_Op_24_-_Nr_2.ily)
+47. 047 Köhler Louis - Op.190 - Nº.8 - [[LilyPond]](./input-files/047_Köhler_Louis_-_Op_190_-_Nr_8.ily)
+48. 048 Köhler Louis - Op.190 - Nº.9 - [[LilyPond]](./input-files/048_Köhler_Louis_-_Op_190_-_Nr_9.ily)
+49. 049 Meister Nathanael - Op.24 - Nº.3 - [[LilyPond]](./input-files/049_Meister_Nathanael_-_Op_24_-_Nr_3.ily)
+50. 050 Meister Nathanael - Op.24 - Nº.3b - [[LilyPond]](./input-files/050_Meister_Nathanael_-_Op_24_-_Nr_3b.ily)
+51. 051 Meister Nathanael - Op.24 - Nº.4 - [[LilyPond]](./input-files/051_Meister_Nathanael_-_Op_24_-_Nr_4.ily)
+52. 052 Meister Nathanael - Op.24 - Nº.4b - [[LilyPond]](./input-files/052_Meister_Nathanael_-_Op_24_-_Nr_4b.ily)
+53. 053 Meister Nathanael - Op.24 - Nº.5 - [[LilyPond]](./input-files/053_Meister_Nathanael_-_Op_24_-_Nr_5.ily)
+54. 054 Meister Nathanael - Op.24 - Nº.6 - [[LilyPond]](./input-files/054_Meister_Nathanael_-_Op_24_-_Nr_6.ily)
+55. 055 Meister Nathanael - Op.24 - Nº.7 - [[LilyPond]](./input-files/055_Meister_Nathanael_-_Op_24_-_Nr_7.ily)
+56. 056 Schüngeler Heinz - Elementarschule - Nº.05 - [[LilyPond]](./input-files/056_Schüngeler_Heinz_-_Elementarschule_-_Nr_05.ily)
+57. 057 Schüngeler Heinz - Elementarschule - Nº.06 - [[LilyPond]](./input-files/057_Schüngeler_Heinz_-_Elementarschule_-_Nr_06.ily)
+58. 058 Beyer Ferdinand - Op.101 - Nº.16 - [[LilyPond]](./input-files/058_Beyer_Ferdinand_-_Op_101_-_Nr_16.ily)
+59. 059 Mathews William - Standard Graded Course - Nº.19 - [[LilyPond]](./input-files/059_Mathews_William_-_Standard_Graded_Course_-_Nr_19.ily)
+60. 060 Mathews William - Standard Graded Course - Nº.20 - [[LilyPond]](./input-files/060_Mathews_William_-_Standard_Graded_Course_-_Nr_20.ily)
+61. 061 Mathews William - Standard Graded Course - Nº.21 - [[LilyPond]](./input-files/061_Mathews_William_-_Standard_Graded_Course_-_Nr_21.ily)
+62. 062 Mathews William - Standard Graded Course - Nº.22 - [[LilyPond]](./input-files/062_Mathews_William_-_Standard_Graded_Course_-_Nr_22.ily)
+63. 063 Beyer Ferdinand - Op.101 - Nº.17 - [[LilyPond]](./input-files/063_Beyer_Ferdinand_-_Op_101_-_Nr_17.ily)
+64. 064 Beyer Ferdinand - Op.101 - Nº.18 - [[LilyPond]](./input-files/064_Beyer_Ferdinand_-_Op_101_-_Nr_18.ily)
+65. 065 Meister Nathanael - Op.27 - Nº.1a - [[LilyPond]](./input-files/065_Meister_Nathanael_-_Op_27_-_Nr_1a.ily)
+66. 066 Meister Nathanael - Op.27 - Nº.1b - [[LilyPond]](./input-files/066_Meister_Nathanael_-_Op_27_-_Nr_1b.ily)
+67. 067 Meister Nathanael - Op.27 - Nº.2a - [[LilyPond]](./input-files/067_Meister_Nathanael_-_Op_27_-_Nr_2a.ily)
+68. 068 Meister Nathanael - Op.27 - Nº.2b - [[LilyPond]](./input-files/068_Meister_Nathanael_-_Op_27_-_Nr_2b.ily)
+69. 069 Meister Nathanael - Op.27 - Nº.3 - [[LilyPond]](./input-files/069_Meister_Nathanael_-_Op_27_-_Nr_3.ily)
+70. 070 Meister Nathanael - Op.27 - Nº.4 - [[LilyPond]](./input-files/070_Meister_Nathanael_-_Op_27_-_Nr_4.ily)
+71. 071 Schüngeler Heinz - Elementarschule - Nº.07 - [[LilyPond]](./input-files/071_Schüngeler_Heinz_-_Elementarschule_-_Nr_07.ily)
+72. 072 Schüngeler Heinz - Elementarschule - Nº.08 - [[LilyPond]](./input-files/072_Schüngeler_Heinz_-_Elementarschule_-_Nr_08.ily)
+73. 073 Dumont Felix - Op.24 - Thema 1 - [[LilyPond]](./input-files/073_Dumont_Felix_-_Op_24_-_Thema_1.ily)
+74. 074 Dumont Felix - Op.24 - Variation 1 - [[LilyPond]](./input-files/074_Dumont_Felix_-_Op_24_-_Variation_1.ily)
+75. 075 Dumont Felix - Op.24 - Variation 2 - [[LilyPond]](./input-files/075_Dumont_Felix_-_Op_24_-_Variation_2.ily)
+76. 076 Dumont Felix - Op.24 - Thema - [[LilyPond]](./input-files/076_Dumont_Felix_-_Op_24_-_Thema.ily)
+77. 077 Dumont Felix - Op.24 - Variation 1 - [[LilyPond]](./input-files/077_Dumont_Felix_-_Op_24_-_Variation_1.ily)
+78. 078 Dumont Felix - Op.24 - Variation 2 - [[LilyPond]](./input-files/078_Dumont_Felix_-_Op_24_-_Variation_2.ily)
+79. 079 Dumont Felix - Op.24 - Wiegenlied - [[LilyPond]](./input-files/079_Dumont_Felix_-_Op_24_-_Wiegenlied.ily)
+80. 080 Schüngeler Heinz - Elementarschule - Nº.09 - [[LilyPond]](./input-files/080_Schüngeler_Heinz_-_Elementarschule_-_Nr_09.ily)
+81. 081 Schüngeler Heinz - Elementarschule - Nº.10 - [[LilyPond]](./input-files/081_Schüngeler_Heinz_-_Elementarschule_-_Nr_10.ily)
+82. 082 Berens Hermann - Op.70 - Nº.5 - [[LilyPond]](./input-files/082_Berens_Hermann_-_Op_70_-_Nr_5.ily)
+83. 083 Berens Hermann - Op.70 - Nº.6 - [[LilyPond]](./input-files/083_Berens_Hermann_-_Op_70_-_Nr_6.ily)
+84. 084 Berens Hermann - Op.70 - Nº.7 - [[LilyPond]](./input-files/084_Berens_Hermann_-_Op_70_-_Nr_7.ily)
+85. 085 Berens Hermann - Op.70 - Nº.8 - [[LilyPond]](./input-files/085_Berens_Hermann_-_Op_70_-_Nr_8.ily)
+86. 086 Berens Hermann - Op.70 - Nº.9 - [[LilyPond]](./input-files/086_Berens_Hermann_-_Op_70_-_Nr_9.ily)
+87. 087 Mathews William - Standard Graded Course - Nº.23 - [[LilyPond]](./input-files/087_Mathews_William_-_Standard_Graded_Course_-_Nr_23.ily)
+88. 088 Mathews William - Standard Graded Course - Nº.25 - [[LilyPond]](./input-files/088_Mathews_William_-_Standard_Graded_Course_-_Nr_25.ily)
+89. 089 Schmoll Anton - Op.91-95 - Der erste Walzer - [[LilyPond]](./input-files/089_Schmoll_Anton_-_Op.91-95_-_Der_erste_Walzer.ily)
+90. 090 Schüngeler Heinz - Elementarschule - Nº.11 - [[LilyPond]](./input-files/090_Schüngeler_Heinz_-_Elementarschule_-_Nr_11.ily)
+91. 091 Schüngeler Heinz - Elementarschule - Nº.12 - [[LilyPond]](./input-files/091_Schüngeler_Heinz_-_Elementarschule_-_Nr_12.ily)
+92. 092 Gurlitt Cornelius - Op.288 - Nº.34 - [[LilyPond]](./input-files/092_Gurlitt_Cornelius_-_Op_288_-_Nr_34.ily)
+93. 093 Gurlitt Cornelius - Op.288 - Nº.35 - [[LilyPond]](./input-files/093_Gurlitt_Cornelius_-_Op_288_-_Nr_35.ily)
+94. 094 Gurlitt Cornelius - Op.288 - Nº.37 - [[LilyPond]](./input-files/094_Gurlitt_Cornelius_-_Op_288_-_Nr_37.ily)
+95. 095 Gurlitt Cornelius - Op.288 - Nº.38 - [[LilyPond]](./input-files/095_Gurlitt_Cornelius_-_Op_288_-_Nr_38.ily)
+96. 096 Gurlitt Cornelius - Op.288 - Nº.39 - [[LilyPond]](./input-files/096_Gurlitt_Cornelius_-_Op_288_-_Nr_39.ily)
+97. 097 Gurlitt Cornelius - Op.288 - Nº.40 - [[LilyPond]](./input-files/097_Gurlitt_Cornelius_-_Op_288_-_Nr_40.ily)
+98. 098 Gurlitt Cornelius - Op.288 - Nº.41 - [[LilyPond]](./input-files/098_Gurlitt_Cornelius_-_Op_288_-_Nr_41.ily)
+99. 099 Gurlitt Cornelius - Op.288 - Melodie - [[LilyPond]](./input-files/099_Gurlitt_Cornelius_-_Op_288_-_Melodie.ily)
+100. 100 Schüngeler Heinz - Elementarschule - Nº.13 - [[LilyPond]](./input-files/100_Schüngeler_Heinz_-_Elementarschule_-_Nr_13.ily)
+101. 101 Schüngeler Heinz - Elementarschule - Nº.14 - [[LilyPond]](./input-files/101_Schüngeler_Heinz_-_Elementarschule_-_Nr_14.ily)
+102. 102 Czerny Carl - Op.599 - Nº.11 - [[LilyPond]](./input-files/102_Czerny_Carl_-_Op_599_-_Nr_11.ily)
+103. 103 Czerny Carl - Op.599 - Nº.12 - [[LilyPond]](./input-files/103_Czerny_Carl_-_Op_599_-_Nr_12.ily)
+104. 104 Köhler Louis - Op.300 - Nº.41 - [[LilyPond]](./input-files/104_Köhler_Louis_-_Op_300_-_Nr_41.ily)
+105. 105 Köhler Louis - Op.300 - Nº.42 - [[LilyPond]](./input-files/105_Köhler_Louis_-_Op_300_-_Nr_42.ily)
+106. 106 Beyer Ferdinand - Op.101 - Nº.19 - [[LilyPond]](./input-files/106_Beyer_Ferdinand_-_Op_101_-_Nr_19.ily)
+107. 107 Beyer Ferdinand - Op.101 - Nº.20 - [[LilyPond]](./input-files/107_Beyer_Ferdinand_-_Op_101_-_Nr_20.ily)
+108. 108 Beyer Ferdinand - Op.101 - Nº.21 - [[LilyPond]](./input-files/108_Beyer_Ferdinand_-_Op_101_-_Nr_21.ily)
+109. 109 Schüngeler Heinz - Elementarschule - Nº.15 - [[LilyPond]](./input-files/109_Schüngeler_Heinz_-_Elementarschule_-_Nr_15.ily)
+110. 110 Schüngeler Heinz - Elementarschule - Nº.16 - [[LilyPond]](./input-files/110_Schüngeler_Heinz_-_Elementarschule_-_Nr_16.ily)
+111. 111 Bertini Henri - Piano Method - Lesson VII - Nr.1 - [[LilyPond]](./input-files/111_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.1.ily)
+112. 112 Bertini Henri - Piano Method - Lesson VII - Nr.2 - [[LilyPond]](./input-files/112_Bertini_Henri_-_Piano_Method_-_Lesson_VII_-_Nr.2.ily)
+113. 113 Bertini Henri - Piano Method - Lesson VIII - Nr.1 - [[LilyPond]](./input-files/113_Bertini_Henri_-_Piano_Method_-_Lesson_VIII_-_Nr.1.ily)
+114. 114 Bertini Henri - Piano Method - Lesson VIII - Nr.2 - [[LilyPond]](./input-files/114_Bertini_Henri_-_Piano_Method_-_Lesson_VIII_-_Nr.2.ily)
+115. 115 Mathews William - Standard Graded Course - Nº.28 - [[LilyPond]](./input-files/115_Mathews_William_-_Standard_Graded_Course_-_Nr_28.ily)
+116. 116 Mathews William - Standard Graded Course - Nº.29 - [[LilyPond]](./input-files/116_Mathews_William_-_Standard_Graded_Course_-_Nr_29.ily)
+117. 117 Mathews William - Standard Graded Course - Nº.30 - [[LilyPond]](./input-files/117_Mathews_William_-_Standard_Graded_Course_-_Nr_30.ily)
+118. 118 Czerny Carl - Op.599 - Nº.13 - [[LilyPond]](./input-files/118_Czerny_Carl_-_Op_599_-_Nr_13.ily)
+119. 119 Czerny Carl - Op.599 - Nº.14 - [[LilyPond]](./input-files/119_Czerny_Carl_-_Op_599_-_Nr_14.ily)
+120. 120 Bolck Oscar - Op.23 - Nº.1 - [[LilyPond]](./input-files/120_Bolck_Oscar_-_Op_23_-_Nr_1.ily)
+121. 121 Bolck Oscar - Op.23 - Nº.2 - [[LilyPond]](./input-files/121_Bolck_Oscar_-_Op_23_-_Nr_2.ily)
+122. 122 Bolck Oscar - Op.23 - Nº.3 - [[LilyPond]](./input-files/122_Bolck_Oscar_-_Op_23_-_Nr_3.ily)
+123. 123 Bolck Oscar - Op.23 - Nº.4 - [[LilyPond]](./input-files/123_Bolck_Oscar_-_Op_23_-_Nr_4.ily)
 
 _____________________________________________________________
 
@@ -114,7 +155,7 @@ for i in *.ly; do lilypond "$i";done
 ```
 _____________________________________________________________
 
-typset with: [LilyPond](http://lilypond.org) "2.18.2"  
+typset with: [LilyPond](http://lilypond.org) "2.20.0"  
 also have a look at: [LilyBin](http://lilybin.com)
 or get support at the offical IRC on [FreeNode](http://webchat.freenode.net/?channels=lilypond)  
 more Scores in the [LilyPond](http://lilypond.org) format can be found on [www.MutopiaProject.org](https://www.mutopiaproject.org)  
@@ -223,12 +264,25 @@ add: Benjamin Carr; Analytical Instructor;
   => then changes to G-position (review later)
 
 add: William Mathews; Standard Graded Course
-  -Nr.13; -Nr.14; -Nr.15; -Nr.16; -Nr.17;
-  -Nr.18; -Nr.19; -Nr.20; -Nr.21; -Nr.22;
-  -Nr.23; -Nr.24; -Nr.25; -Nr.26; -Nr.27;
-  -Nr.28; -Nr.29; -Nr.30; -Nr.31; -Nr.32;
-  -Nr.33; -Nr.34; -Nr.35; -Nr.36; -Nr.37;
-  -Nr.38; -Nr.39; -Nr.40; -Nr.41; -Nr.42;
+  -Nr.13 [done]
+  -Nr.14 [done]
+  -Nr.15 [done]
+  -Nr.16 [done]
+  -Nr.17 [done]
+  -Nr.18 [done]
+  -Nr.19 [done]
+  -Nr.20 [done]
+  -Nr.21 [done]
+  -Nr.22 [done]
+  -Nr.23 [done]
+  -Nr.24 [done]
+  -Nr.25 [done]
+  -Nr.26 [done]
+  -Nr.27 [done]
+  -Nr.28 [done]
+  -Nr.29 [done]
+  -Nr.30 [done]
+  -Nr.31; -Nr.32; -Nr.33; -Nr.34; -Nr.35; -Nr.36; -Nr.37; -Nr.38; -Nr.39; -Nr.40; -Nr.41; -Nr.42;
     => find places
 
 add: Nathanael Meister
@@ -246,19 +300,22 @@ introduce Bela Bartok when leaving "C-position"
   - "Microkosmos I"
 
 # ========================================================#
-# Stats: 80 Scores from 11 different Composers:
+# Stats: 123 Scores from 14 different Composers:
 # ========================================================#
-     14 Nathanael Meister
+     20 Nathanael Meister
+     16 Heinz Schüngeler
+     15 William Mathews
      14 Ferdinand Beyer
       9 Hermann Berens
       9 Deutsches Volkslied
       8 Cornelius Gurlitt
       8 Carl Czerny
+      7 Louis Köhler
       7 Felix Dumont
       4 Oscar Bolck
       4 Henri Bertini
-      2 Louis Köhler
       1 Skandinavisches Volkslied
+      1 Anton Schmoll
 ```
 
-**Book-Version:** 0.0.1-77
+**Book-Version:** 0.0.2-113
