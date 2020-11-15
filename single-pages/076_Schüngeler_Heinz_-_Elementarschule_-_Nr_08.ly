@@ -8,5 +8,5 @@
 \include "../global-files/header-single-pages.ily"
 \include "../global-files/pdf-header-single-pages.ily"
 
-\include "../input-files/072_Schüngeler_Heinz_-_Elementarschule_-_Nr_08.ily"
+\include "../input-files/076_Schüngeler_Heinz_-_Elementarschule_-_Nr_08.ily"
 

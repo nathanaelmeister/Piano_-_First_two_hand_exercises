@@ -8,5 +8,5 @@
 \include "../global-files/header-single-pages.ily"
 \include "../global-files/pdf-header-single-pages.ily"
 
-\include "../input-files/067_Meister_Nathanael_-_Op_27_-_Nr_2a.ily"
+\include "../input-files/071_Meister_Nathanael_-_Op_27_-_Nr_2a.ily"
 

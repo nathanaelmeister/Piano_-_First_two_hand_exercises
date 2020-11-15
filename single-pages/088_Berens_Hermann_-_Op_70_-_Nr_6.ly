@@ -8,5 +8,5 @@
 \include "../global-files/header-single-pages.ily"
 \include "../global-files/pdf-header-single-pages.ily"
 
-\include "../input-files/083_Berens_Hermann_-_Op_70_-_Nr_6.ily"
+\include "../input-files/088_Berens_Hermann_-_Op_70_-_Nr_6.ily"
 

@@ -56,6 +56,11 @@
 			<text>
 </text>
 		</todo>
+		<todo done="yes" collapse="no">
+			<title>Czerny_Carl_-_Op_803_-_Nr_01</title>
+			<text>
+</text>
+		</todo>
 		<todo done="no" collapse="no">
 			<title>Ferdinand Beyer (need typeset):</title>
 			<text>
@@ -67,6 +72,46 @@
 			</todo>
 			<todo done="no" collapse="no">
 				<title>Op.101; Nr.23</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Op.101; Nr.24</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Op.101; Nr.25</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Op.101; Nr.26</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Op.101; Nr.27</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Op.101; Nr.28</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Op.101; Nr.29</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Op.101; Nr.30</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Op.101; Nr.31</title>
 				<text>
 </text>
 			</todo>
