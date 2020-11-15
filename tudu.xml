@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE tudu SYSTEM "/usr/share/tudu/tudu.dtd">
 <todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Fix these bugs first</title>
 		<text>
 </text>
@@ -52,6 +52,11 @@
 </text>
 		</todo>
 		<todo done="no" collapse="no">
+			<title>"Schlaf Kindchen, schlaf" with C and G accompaniment</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
 			<title>If New pieces in Nathanael Op. 24; =&gt; renumber</title>
 			<text>
 </text>
@@ -61,56 +66,56 @@
 			<text>
 </text>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="no" collapse="yes">
 			<title>Ferdinand Beyer (need typeset):</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.22 =&gt; after 21</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.23</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.24</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.25</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.26</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.27</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.28</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.29</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.30</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Op.101; Nr.31</title>
 				<text>
 </text>
