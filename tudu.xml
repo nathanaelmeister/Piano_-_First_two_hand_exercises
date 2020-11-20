@@ -56,30 +56,80 @@
 			<text>
 </text>
 			<todo done="no" collapse="no">
-				<title>Nr.1</title>
-				<text>
+				<title>Nr.1 after Schüngeler Nr.8 (now Nr.80)</title>
+				<text>num-mover.sh 080 4
 </text>
+				<todo done="yes" collapse="no">
+					<title>add</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>review</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 			<todo done="no" collapse="no">
 				<title>Nr.2</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>add</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>review</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 			<todo done="no" collapse="no">
 				<title>Nr.3</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>add</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>review</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 			<todo done="no" collapse="no">
 				<title>Nr.4</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>add</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>review</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="no" collapse="yes">
 			<title>"Schlaf Kindchen, schlaf" with C and G accompaniment</title>
 			<text>
 </text>
+			<todo done="yes" collapse="no">
+				<title>add</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>review</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="yes" collapse="no">
 			<title>If New pieces in Nathanael Op. 24; =&gt; renumber</title>
@@ -167,6 +217,11 @@
 			</todo>
 			<todo done="yes" collapse="no">
 				<title>Alles Neu macht der Mai</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Add titles to filenames</title>
 				<text>
 </text>
 			</todo>
