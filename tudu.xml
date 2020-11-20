@@ -51,12 +51,37 @@
 			<text>
 </text>
 		</todo>
+		<todo done="no" collapse="yes">
+			<title>Review and add Dominik Variationen 1-4</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>Nr.1</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.2</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.3</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.4</title>
+				<text>
+</text>
+			</todo>
+		</todo>
 		<todo done="no" collapse="no">
 			<title>"Schlaf Kindchen, schlaf" with C and G accompaniment</title>
 			<text>
 </text>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="yes" collapse="no">
 			<title>If New pieces in Nathanael Op. 24; =&gt; renumber</title>
 			<text>
 </text>
@@ -168,42 +193,6 @@
 					<title>Continue with 10 after adding note b</title>
 					<text>
 </text>
-				</todo>
-			</todo>
-		</todo>
-		<todo done="no" collapse="no">
-			<title>Find out about pieces allready typeset</title>
-			<text>
-</text>
-			<todo done="no" collapse="yes">
-				<title>From "Technic is Fun" Collection</title>
-				<text>postpone this until before the very last edition.
-
-</text>
-				<todo done="no" collapse="no">
-					<title>Elemantary B</title>
-					<text>
-</text>
-					<todo done="no" collapse="no">
-						<title>Nr.1 before Nathanael Meister;Op.27;Nr.1a</title>
-						<text>e
-</text>
-					</todo>
-					<todo done="no" collapse="no">
-						<title>Nr.2</title>
-						<text>
-</text>
-					</todo>
-					<todo done="no" collapse="no">
-						<title>Nr.3</title>
-						<text>
-</text>
-					</todo>
-					<todo done="no" collapse="no">
-						<title>Nr.4</title>
-						<text>
-</text>
-					</todo>
 				</todo>
 			</todo>
 		</todo>
@@ -392,6 +381,11 @@
 </text>
 			</todo>
 		</todo>
+		<todo done="yes" collapse="no">
+			<title>Write Sequence Validator</title>
+			<text>
+</text>
+		</todo>
 		<todo done="no" collapse="no">
 			<title>Write Script Descriptions and or add help options</title>
 			<text>
@@ -561,7 +555,7 @@
 			<title>27_Meister_Nathanael_-_Op_24_-_Nr_1a</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Add left-hand right hand flip</title>
 				<text>
 </text>
@@ -571,7 +565,7 @@
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>merge into Repository</title>
 				<text>
 </text>
@@ -581,7 +575,7 @@
 			<title>28_Meister_Nathanael_-_Op_24_-_Nr_1b</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Add left-hand right hand flip</title>
 				<text>
 </text>
@@ -591,7 +585,7 @@
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>merge into Repository</title>
 				<text>
 </text>
