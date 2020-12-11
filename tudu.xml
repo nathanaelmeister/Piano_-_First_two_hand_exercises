@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE tudu SYSTEM "/usr/share/tudu/tudu.dtd">
 <todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Fix these bugs first</title>
 		<text>
 </text>
@@ -52,9 +52,239 @@
 </text>
 		</todo>
 		<todo done="no" collapse="no">
+			<title>Czerny Recreations</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>Nr.3</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.4</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.5</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.6</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Czerny Op. 481; Nr. 1</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Czerny Op. 599; Nr. 1</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>Nr. 1</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.15</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.16</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.17</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.18</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>Review and add Dominik Variationen 1-4</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>Nr.1 after Schüngeler Nr.8 (now Nr.80)</title>
+				<text>num-mover.sh 080 4
+</text>
+				<todo done="yes" collapse="no">
+					<title>add</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>review</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.2</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>add</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>review</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.3</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>add</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>review</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Nr.4</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>add</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>review</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>"Schlaf Kindchen, schlaf" with C and G accompaniment</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>add</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>review</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="yes" collapse="no">
 			<title>If New pieces in Nathanael Op. 24; =&gt; renumber</title>
 			<text>
 </text>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>Czerny_Carl_-_Op_803_-_Nr_01</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>Ferdinand Beyer (need typeset):</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.22 =&gt; after 21</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.23</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.24</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.25</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.26</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.27</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.28</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.29</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.30</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Op.101; Nr.31</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>MP Heller - Volkslieder</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>Summ, summ, summ =&gt; 59</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Schlaf Kindchen, Schlaf =&gt; 60</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Kuckuck, Kuckuck rufts aus dem Wald</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Alles Neu macht der Mai</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Add titles to filenames</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>Check for pieces of Louis Köhler to add here</title>
@@ -79,17 +309,6 @@
 					<text>
 </text>
 				</todo>
-			</todo>
-		</todo>
-		<todo done="no" collapse="no">
-			<title>Find out about pieces allready typeset</title>
-			<text>
-</text>
-			<todo done="no" collapse="no">
-				<title>From "Technic is Fun" Collection</title>
-				<text>postpone this until before the very last edition.
-
-</text>
 			</todo>
 		</todo>
 		<todo done="no" collapse="yes">
@@ -277,6 +496,11 @@
 </text>
 			</todo>
 		</todo>
+		<todo done="yes" collapse="no">
+			<title>Write Sequence Validator</title>
+			<text>
+</text>
+		</todo>
 		<todo done="no" collapse="no">
 			<title>Write Script Descriptions and or add help options</title>
 			<text>
@@ -446,7 +670,7 @@
 			<title>27_Meister_Nathanael_-_Op_24_-_Nr_1a</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Add left-hand right hand flip</title>
 				<text>
 </text>
@@ -456,7 +680,7 @@
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>merge into Repository</title>
 				<text>
 </text>
@@ -466,7 +690,7 @@
 			<title>28_Meister_Nathanael_-_Op_24_-_Nr_1b</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Add left-hand right hand flip</title>
 				<text>
 </text>
@@ -476,7 +700,7 @@
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>merge into Repository</title>
 				<text>
 </text>
