@@ -26,7 +26,7 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Add new pieces</title>
 		<text>
 </text>
@@ -55,28 +55,73 @@
 			<title>Czerny Recreations</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
+			<todo done="no" collapse="yes">
 				<title>Nr.3</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="no" collapse="yes">
 				<title>Nr.4</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="no" collapse="yes">
 				<title>Nr.5</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr.6</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 			<todo done="no" collapse="no">
-				<title>Nr.6</title>
+				<title>continue with others when introducing jumps</title>
 				<text>
 </text>
 			</todo>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="yes" collapse="no">
 			<title>Czerny Op. 481; Nr. 1</title>
 			<text>
 </text>
@@ -85,30 +130,85 @@
 			<title>Czerny Op. 599; Nr. 1</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
+			<todo done="no" collapse="yes">
 				<title>Nr. 1</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 			<todo done="no" collapse="no">
+				<title>continue with others when mixing positions</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="yes">
 				<title>Nr.15</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="no" collapse="yes">
 				<title>Nr.16</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="no" collapse="yes">
 				<title>Nr.17</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="yes">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="no" collapse="yes">
 				<title>Nr.18</title>
 				<text>
 </text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
 			</todo>
 		</todo>
 		<todo done="no" collapse="yes">
@@ -512,7 +612,7 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Specific Lilypond related Questions</title>
 		<text>
 </text>
