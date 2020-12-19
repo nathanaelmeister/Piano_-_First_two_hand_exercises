@@ -497,6 +497,21 @@
 			</todo>
 		</todo>
 	</todo>
+	<todo done="no" collapse="no">
+		<title>Add Table of Contents (TOC)</title>
+		<text>
+</text>
+	</todo>
+	<todo done="no" collapse="yes">
+		<title>File Structering</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>Add leading Zeros to files Nr.</title>
+			<text>
+</text>
+		</todo>
+	</todo>
 	<todo done="no" collapse="yes">
 		<title>Scripts</title>
 		<text>
@@ -630,6 +645,191 @@
 			<title>Ask for list of piano-technique tags</title>
 			<text>
 </text>
+		</todo>
+	</todo>
+	<todo done="no" collapse="no">
+		<title>Explore material</title>
+		<text>
+</text>
+		<todo done="no" collapse="yes">
+			<title>find . -maxdepth 1 -type d -name "D*"</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>./Dumont,_Felix</title>
+				<text>
+</text>
+				<todo done="no" collapse="no">
+					<title>Wiegenlied korrigieren</title>
+					<text>F-Akkord 
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Bohemien Dance S.27</title>
+					<text>evince --page-label=27 ../../Dumont,_Felix/Scans/IMSLP289320-PMLP469788-FDumont_cole_du_piano_livre_1_Op.24_6thedition.pdf
+</text>
+					<todo done="yes" collapse="no">
+						<title>typeset</title>
+						<text>
+</text>
+					</todo>
+					<todo done="no" collapse="no">
+						<title>include</title>
+						<text>
+</text>
+					</todo>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Continue with G-Position (S.29)</title>
+					<text>Wallerstein
+</text>
+				</todo>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>./Drews,_Hermann</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>./Dennée,_Charles</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>./Dussek,_Jan_Ladislav</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>./Diabelli,_Anton</title>
+				<text>
+</text>
+				<todo done="no" collapse="no">
+					<title>Op.149; Nr.4</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Op.149; Nr.5</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="yes">
+					<title>Op.149; Nr.6 (to very end with Trio in c-minor) </title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Op.149; Nr.7 (to very end with Trio in c-minor)</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>check Op.163; Nr.1-4</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Op.151; Nr.1 (G-Position)</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>./Duvernoy,_Jean-Baptiste</title>
+				<text>
+</text>
+				<todo done="no" collapse="no">
+					<title>Op.176; Nr.1 - first scaling</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="yes">
+					<title>Op.176; Nr.2 - first scaling</title>
+					<text>
+</text>
+					<todo done="yes" collapse="no">
+						<title>typeset</title>
+						<text>
+</text>
+					</todo>
+					<todo done="no" collapse="no">
+						<title>include</title>
+						<text>
+</text>
+					</todo>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>Op.120: first scaling</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>find . -maxdepth 1 -type d -name "C*"</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>Cooke,_James_Francis</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Cramer,_Johann_Baptist</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Clementi,_Muzio</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Couppey,_Feliz_Le</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Casella,_Alfredo</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Collections</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Corelli,_Arcangelo</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Chopin</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Czerny,_Charles</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Couppey,_Félix_Le</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Carr,_Benjamin</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Czerny,_Carl</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 	</todo>
 	<todo done="no" collapse="yes">
@@ -1093,6 +1293,21 @@
 		</todo>
 		<todo done="no" collapse="no">
 			<title>81_Bolck_Oscar_-_Op_23_-_Nr_4</title>
+			<text>
+</text>
+		</todo>
+	</todo>
+	<todo done="no" collapse="no">
+		<title>Further Research</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>Wallerstein</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Rameu</title>
 			<text>
 </text>
 		</todo>

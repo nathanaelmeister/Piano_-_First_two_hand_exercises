@@ -6,7 +6,7 @@
     \new Staff = "upper" \with {
       midiInstrument = #"acoustic grand" }
 
-    \relative c' {
+    \relative c'' {
       \clef treble
       \key c \major
       \time 3/4
@@ -65,3 +65,5 @@
     %opus = "24"
   }
 }
+
+%% Specifications: LH:F-Major-Chord;RH:6-notes;  
