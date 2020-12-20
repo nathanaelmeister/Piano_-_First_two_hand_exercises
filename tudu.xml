@@ -25,6 +25,27 @@
 			<text>
 </text>
 		</todo>
+		<todo done="no" collapse="no">
+			<title>rewrite bass in: Gutlitt; Op.288 (check original)</title>
+			<text>
+</text>
+		</todo>
+	</todo>
+	<todo done="no" collapse="yes">
+		<title>Git - next commit</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>build 125</title>
+			<text>- fixed: Composer; Opus: Carl Czerny; Recreations;
+- added: William Mathews; Standard_Graded_Course;
+  - Nr.27; Nr.31
+  - Nr.33-37 (beginning)                                                                                   |
+  - Nr.38-41 (153ff.)                                                                                      |
+  - Nr.42-43 
+- added: Nathanael Meister; Op.24; Nr.09
+</text>
+		</todo>
 	</todo>
 	<todo done="no" collapse="yes">
 		<title>Add new pieces</title>
@@ -51,7 +72,22 @@
 			<text>
 </text>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="no" collapse="yes">
+			<title>Nathanael; Op.24; Nr.9</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>typeset</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>include</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
 			<title>Czerny Recreations</title>
 			<text>
 </text>
@@ -126,7 +162,7 @@
 			<text>
 </text>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="no" collapse="yes">
 			<title>Czerny Op. 599; Nr. 1</title>
 			<text>
 </text>
@@ -224,7 +260,7 @@
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>review</title>
 					<text>
 </text>
@@ -239,7 +275,7 @@
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>review</title>
 					<text>
 </text>
@@ -254,7 +290,7 @@
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>review</title>
 					<text>
 </text>
@@ -285,7 +321,7 @@
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>review</title>
 				<text>
 </text>
@@ -386,7 +422,7 @@
 </text>
 			</todo>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="no" collapse="yes">
 			<title>Check for pieces of Louis Köhler to add here</title>
 			<text>
 </text>
@@ -412,85 +448,205 @@
 			</todo>
 		</todo>
 		<todo done="no" collapse="yes">
-			<title>Find place to introduce Mathews with higher C</title>
+			<title>Heinz Schüngeler; Elementarschule; 1-16</title>
 			<text>
 </text>
 			<todo done="yes" collapse="no">
-				<title>William Mathews; Standard Graded Course</title>
+				<title>Check for original ´\relative c {}´</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Schüngeler 1-4 (fixed: `relative c` errors)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Schüngeler 5-6 (=&gt; Nr.56-67) $(nm.sh 056 2)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Schüngeler 7-8 (=&gt; Nr.71-72) $(nm.sh 072 1)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Schüngeler 9-10 (=&gt; Nr.80-71) $(nm.sh 080 2)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Schüngeler 11-12 (=&gt; Nr.90-91) $(nm.sh 090 2)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Schüngeler 13-16 (=&gt; Nr.100-101) $(nm.sh 100 2)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Schüngeler 14-16 (=&gt; Nr.109-110) $(nm.sh 109 2)</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>William Mathews; Standard Graded Course</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>1-4 before Nr.30: Beyer_-_Op_101_-_Nr_15 &gt;&gt; Nr.13-16</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>5-6 to Nr.39-40</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>7-10 (=&gt; Nr.59-62 if Schüngeler 5-6 before) $(nm.sh 059 4)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>11-13 (=&gt; Nr.85-87) $(nm.sh 085 3)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Move: Schmoll "Der erste Walzer" here </title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>14-16 (=&gt; Nr.107-109) $(nm.sh 107 3)</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr. 27</title>
 				<text>
 </text>
 				<todo done="yes" collapse="no">
-					<title>1-4 before Nr.30: Beyer_-_Op_101_-_Nr_15 &gt;&gt; Nr.13-16</title>
+					<title>typeset</title>
 					<text>
 </text>
 				</todo>
 				<todo done="yes" collapse="no">
-					<title>5-6 to Nr.39-40</title>
+					<title>include</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr. 30</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
 					<text>
 </text>
 				</todo>
 				<todo done="yes" collapse="no">
-					<title>7-10 (=&gt; Nr.59-62 if Schüngeler 5-6 before) $(nm.sh 059 4)</title>
+					<title>include</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr. 31</title>
+				<text>evince --page-index=12 Standard_Graded_Course_of_Studies_for_the_Pianoforte_\(Mathews\,_William_Smythe_Babcock\)/IMSLP345818-SIBLEY1802.15280.97ae-39087009941727grade_1.pdf &amp;
+</text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
 					<text>
 </text>
 				</todo>
 				<todo done="yes" collapse="no">
-					<title>11-13 (=&gt; Nr.85-87) $(nm.sh 085 3)</title>
+					<title>include</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr. 33-37 (beginning)</title>
+				<text>
+</text>
+				<todo done="no" collapse="yes">
+					<title>Nr.34 =&gt; 009</title>
+					<text>
+</text>
+					<todo done="yes" collapse="no">
+						<title>typeset</title>
+						<text>
+</text>
+					</todo>
+					<todo done="yes" collapse="no">
+						<title>include</title>
+						<text>
+</text>
+					</todo>
+				</todo>
+				<todo done="no" collapse="yes">
+					<title>Nr.35-37 =&gt; 031 (032)ff.</title>
+					<text>
+</text>
+					<todo done="yes" collapse="no">
+						<title>typeset</title>
+						<text>
+</text>
+					</todo>
+					<todo done="yes" collapse="no">
+						<title>include</title>
+						<text>
+</text>
+					</todo>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr. 38-41 (153ff.)</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
 					<text>
 </text>
 				</todo>
 				<todo done="yes" collapse="no">
-					<title>Move: Schmoll "Der erste Walzer" here </title>
+					<title>include</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr. 42-43 (164ff.)</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>typset</title>
 					<text>
 </text>
 				</todo>
 				<todo done="yes" collapse="no">
-					<title>14-16 (=&gt; Nr.107-109) $(nm.sh 107 3)</title>
+					<title>include</title>
 					<text>
 </text>
 				</todo>
 			</todo>
 			<todo done="no" collapse="no">
-				<title>Heinz Schüngeler; Elementarschule; 1-16</title>
+				<title>Nr. 45</title>
 				<text>
 </text>
 				<todo done="yes" collapse="no">
-					<title>Check for original ´\relative c {}´</title>
+					<title>typeset</title>
 					<text>
 </text>
 				</todo>
-				<todo done="yes" collapse="no">
-					<title>Schüngeler 1-4 (fixed: `relative c` errors)</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>Schüngeler 5-6 (=&gt; Nr.56-67) $(nm.sh 056 2)</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>Schüngeler 7-8 (=&gt; Nr.71-72) $(nm.sh 072 1)</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>Schüngeler 9-10 (=&gt; Nr.80-71) $(nm.sh 080 2)</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>Schüngeler 11-12 (=&gt; Nr.90-91) $(nm.sh 090 2)</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>Schüngeler 13-16 (=&gt; Nr.100-101) $(nm.sh 100 2)</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>Schüngeler 14-16 (=&gt; Nr.109-110) $(nm.sh 109 2)</title>
+				<todo done="no" collapse="no">
+					<title>include later =&gt; position changes</title>
 					<text>
 </text>
 				</todo>
@@ -1308,6 +1464,16 @@
 		</todo>
 		<todo done="no" collapse="no">
 			<title>Rameu</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Ferdinand Sor</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Engel</title>
 			<text>
 </text>
 		</todo>
