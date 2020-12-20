@@ -35,13 +35,13 @@
 		<title>Git - next commit</title>
 		<text>
 </text>
-		<todo done="no" collapse="no">
+		<todo done="yes" collapse="no">
 			<title>build 125</title>
 			<text>- fixed: Composer; Opus: Carl Czerny; Recreations;
 - added: William Mathews; Standard_Graded_Course;
   - Nr.27; Nr.31
-  - Nr.33-37 (beginning)                                                                                   |
-  - Nr.38-41 (153ff.)                                                                                      |
+  - Nr.33-37 (beginning)
+  - Nr.38-41 (153ff.)
   - Nr.42-43 
 - added: Nathanael Meister; Op.24; Nr.09
 </text>
@@ -815,7 +815,7 @@
 				<title>./Dumont,_Felix</title>
 				<text>
 </text>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>Wiegenlied korrigieren</title>
 					<text>F-Akkord 
 </text>
@@ -830,7 +830,7 @@
 </text>
 					</todo>
 					<todo done="no" collapse="no">
-						<title>include</title>
+						<title>include -&gt; if yes, pretty late</title>
 						<text>
 </text>
 					</todo>

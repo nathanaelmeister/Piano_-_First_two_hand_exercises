@@ -47,12 +47,19 @@
       \time 3/4
 
       c4-5 e-3 g-1
-      \repeat unfold 14 {
+      \repeat unfold 8 {
         c,4 e g
       }
-      b,2.
-      \repeat unfold 7 {
-        c4 e g
+      c,-5 f-2 a-1
+      c,-5 e-3 g-1
+      \repeat unfold 2 {
+        c, f-2 a
+        c, e-3 g
+      }
+      b,2.-5
+      c4-5 e g
+      \repeat unfold 6 {
+        c,4 e g
       }
       c,2. \bar "|."
     }
