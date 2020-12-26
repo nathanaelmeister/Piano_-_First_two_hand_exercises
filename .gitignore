@@ -1,6 +1,7 @@
 composers/
 composer-books/
 infile
+.tudu.xml_lock
 _*
 ~*
 *.ogg
