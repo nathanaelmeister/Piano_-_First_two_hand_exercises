@@ -772,7 +772,7 @@
 			<text>
 </text>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="yes" collapse="no">
 			<title>Write Script Descriptions and or add help options</title>
 			<text>
 </text>
@@ -781,6 +781,26 @@
 			<title>Remove obsolete Scripts from Repository</title>
 			<text>
 </text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>make-book.sh</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>write TOC creator</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>fragment</title>
+					<text>
+</text>
+				</todo>
+				<todo done="no" collapse="no">
+					<title>finalize</title>
+					<text>
+</text>
+				</todo>
+			</todo>
 		</todo>
 	</todo>
 	<todo done="no" collapse="yes">
@@ -926,12 +946,12 @@
 			<title>find . -maxdepth 1 -type d -name "C*"</title>
 			<text>
 </text>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Cooke,_James_Francis</title>
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>Cramer,_Johann_Baptist</title>
 				<text>
 </text>
