@@ -61,10 +61,20 @@
 - added: Nathanael Meister; Op.24; Nr.09
 </text>
 		</todo>
-		<todo done="no" collapse="no">
-			<title>build 126</title>
+		<todo done="yes" collapse="no">
+			<title>build 128</title>
 			<text>- removed obsolete file Part.ly
 - added Table of Contents (TOC)
+- updated README.md
+
+</text>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>build 129</title>
+			<text>- created title page, not yet included into book
+  - scaling needs to be fixed
+  - maybe some fit to page command, if available
+
 </text>
 		</todo>
 	</todo>
@@ -684,14 +694,24 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Layout</title>
 		<text>
 </text>
 		<todo done="no" collapse="no">
-			<title>Add title page</title>
+			<title>Title page</title>
 			<text>
 </text>
+			<todo done="yes" collapse="no">
+				<title>create</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>include into book</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>Add Table of Contents (TOC)</title>
@@ -763,6 +783,16 @@
 					<text>
 </text>
 				</todo>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Make-Book.sh</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>needs to check if last number of title page is correct</title>
+				<text>
+</text>
 			</todo>
 		</todo>
 		<todo done="no" collapse="no">
