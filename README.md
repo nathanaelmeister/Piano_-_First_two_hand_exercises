@@ -190,9 +190,23 @@ If you want to get **PDF** files beforehand you need to install [LilyPond](http:
 apt update
 apt install lilypond
 
-# compile input file with LilyPond
+# to compile the whole book with LilyPond run:
 
-lilypond filename.ly
+lilypond First-Piano-two-hand-Exercises.ly
+
+# to compile the same book with smaler notes and fewer pages run
+
+lilypond Small-print.ly # (highly experimental edition)
+
+# to compile single pages, enter the single-pages directory
+
+cd single-pages/ # then run lilypond on the file, for example
+
+lilypond 160_Czerny_Carl_-_Op_599_-_Nr_15.ly
+
+# to compile a range of files for example 100-140 run
+
+lilypond {100..140}*.ly
 
 # to batch compile all files in a folder use a wildcard
 
@@ -213,7 +227,6 @@ snippets and tweaks can be found in [The LilyPond Snippet Repository ♪♫](htt
 Questions about LilyPond are highly appreciated on the QA Board [Music on StackExchange](https://music.stackexchange.com)  
 _____________________________________________________________
 
-**To do list:**
 ```
 
 # ========================================================#
@@ -411,4 +424,4 @@ _____________________________________________________________
      Skandinavisches Volkslied - Gubben Noak
 ```
 
-**Book-Version:** 0.0.2-125
+**Book-Version:** 0.0.2-128

@@ -5,4 +5,6 @@
      (minimum-distance . 10)
      (padding . 4)
      (stretchability . 60))
+
+  tocItemMarkup = \tocItemWithDotsMarkup
 }

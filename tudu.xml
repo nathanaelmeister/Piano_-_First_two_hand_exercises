@@ -31,6 +31,21 @@
 </text>
 		</todo>
 	</todo>
+	<todo done="no" collapse="no">
+		<title>File-handeling</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>Remove obsolote files</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>Part.ly</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+	</todo>
 	<todo done="no" collapse="yes">
 		<title>Git - next commit</title>
 		<text>
@@ -44,6 +59,12 @@
   - Nr.38-41 (153ff.)
   - Nr.42-43 
 - added: Nathanael Meister; Op.24; Nr.09
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>build 126</title>
+			<text>- removed obsolete file Part.ly
+- added Table of Contents (TOC)
 </text>
 		</todo>
 	</todo>
@@ -653,11 +674,6 @@
 			</todo>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
-		<title>Add Table of Contents (TOC)</title>
-		<text>
-</text>
-	</todo>
 	<todo done="no" collapse="yes">
 		<title>File Structering</title>
 		<text>
@@ -666,6 +682,43 @@
 			<title>Add leading Zeros to files Nr.</title>
 			<text>
 </text>
+		</todo>
+	</todo>
+	<todo done="no" collapse="no">
+		<title>Layout</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>Add title page</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Add Table of Contents (TOC)</title>
+			<text>- use simple technique, with one language first.
+- dotted line.
+
+</text>
+			<todo done="yes" collapse="no">
+				<title>write script to process test file</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>implement code into make-book.sh script</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Compile book</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>Review</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 	</todo>
 	<todo done="no" collapse="yes">
