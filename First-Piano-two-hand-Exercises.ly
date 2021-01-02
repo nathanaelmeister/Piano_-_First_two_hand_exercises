@@ -3,8 +3,9 @@
 #(set-default-paper-size "a4")
 #(set-global-staff-size 24)
 
-\include "./global-files/paper.ily"
 \include "./global-files/gitlink.ily"
+
+\include "./global-files/paper.ily"
 \include "./global-files/pdf-header.ily"
 \include "./global-files/keyboard-diagramm.ily"
 

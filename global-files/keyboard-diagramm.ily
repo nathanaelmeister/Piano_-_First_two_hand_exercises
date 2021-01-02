@@ -9,7 +9,7 @@
 % \markup\vspace #1
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\language "deutsch"
+% \language "deutsch"
 
 %% often people think that the black keys are centered to the white keys
 %% even in piano teaching books keyboards are drawn this way

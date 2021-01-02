@@ -8,7 +8,9 @@
     \fill-line {
       \bold \italic \tiny
       "Spiele das Stück mit beiden Variationen:" }
-    \line { \null }}}
+    \line { \null }
+  }
+}
 
 \markup {
   \fill-line {
@@ -55,7 +57,7 @@
             }
           }
         >>
-        \layout { }
+        \layout { ragged-right = ##t }
       }
     }
   }
@@ -127,7 +129,7 @@
       }
     }
   >>
-  \layout { }
+  \layout {}
   \midi {}
   \header {
     composer = "Louis Köhler; Op.300; Nº.42"
