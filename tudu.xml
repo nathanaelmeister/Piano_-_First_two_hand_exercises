@@ -78,6 +78,57 @@
 </text>
 		</todo>
 	</todo>
+	<todo done="no" collapse="no">
+		<title>README.md</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>add preview image frontpage.png</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>mv _preview to preview</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>adapt make-preview-image.sh script</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>remove *.png from .gitignore</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>add image link to make-README.sh script</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>Preview images for all pieces?</title>
+			<text>needs to be compiled into a separate folder
+or maybe the ./preview/ folder with the frontpage.png
+</text>
+			<todo done="yes" collapse="no">
+				<title>not yet, maybe at a later state</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>reconsider in final state...</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>correct line break music.se link</title>
+			<text>
+</text>
+		</todo>
+	</todo>
 	<todo done="no" collapse="yes">
 		<title>Add new pieces</title>
 		<text>
@@ -707,7 +758,7 @@
 				<text>
 </text>
 			</todo>
-			<todo done="no" collapse="no">
+			<todo done="yes" collapse="no">
 				<title>include into book</title>
 				<text>
 </text>
