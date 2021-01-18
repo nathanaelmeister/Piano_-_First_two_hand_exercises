@@ -31,12 +31,32 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>File-handeling</title>
 		<text>
 </text>
 		<todo done="no" collapse="no">
-			<title>Remove obsolote files</title>
+			<title>find and remove obsolete files</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Renaming</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>add leading zeros to numbers in file Names</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>replace roman numbers in file names</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>Removed obsolote files:</title>
 			<text>
 </text>
 			<todo done="yes" collapse="no">
@@ -78,7 +98,7 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>README.md</title>
 		<text>
 </text>
@@ -736,16 +756,6 @@ or maybe the ./preview/ folder with the frontpage.png
 		</todo>
 	</todo>
 	<todo done="no" collapse="yes">
-		<title>File Structering</title>
-		<text>
-</text>
-		<todo done="no" collapse="no">
-			<title>Add leading Zeros to files Nr.</title>
-			<text>
-</text>
-		</todo>
-	</todo>
-	<todo done="no" collapse="yes">
 		<title>Layout</title>
 		<text>
 </text>
@@ -763,6 +773,41 @@ or maybe the ./preview/ folder with the frontpage.png
 				<text>
 </text>
 			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Add last page</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>With additional Information</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>With QR-Code</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>With links to Repository</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>more spacing</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>scale the whole book down a little</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>add space in paper { left-margin &amp; right-margin }</title>
+			<text>
+</text>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>Add Table of Contents (TOC)</title>
@@ -787,6 +832,11 @@ or maybe the ./preview/ folder with the frontpage.png
 			</todo>
 			<todo done="yes" collapse="no">
 				<title>Review</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Table of Contents sorted after Composer</title>
 				<text>
 </text>
 			</todo>
@@ -834,6 +884,26 @@ or maybe the ./preview/ folder with the frontpage.png
 					<text>
 </text>
 				</todo>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Script folder needs own README.md with description</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>README.md from make-README.sh script needs to be changed</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>maybe promt for updating, else just use different name</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>create README.md for this script repository</title>
+				<text>
+</text>
 			</todo>
 		</todo>
 		<todo done="no" collapse="no">
@@ -910,11 +980,36 @@ or maybe the ./preview/ folder with the frontpage.png
 			<title>Write Script Descriptions and or add help options</title>
 			<text>
 </text>
+			<todo done="yes" collapse="no">
+				<title>make-book.sh</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Clean obsolete lines in scripts and write comments</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>make-book.sh</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>Remove obsolete Scripts from Repository</title>
 			<text>
 </text>
+			<todo done="yes" collapse="no">
+				<title>run.sh</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>check-all</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>make-book.sh</title>
@@ -929,7 +1024,7 @@ or maybe the ./preview/ folder with the frontpage.png
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>finalize</title>
 					<text>
 </text>
@@ -957,7 +1052,7 @@ or maybe the ./preview/ folder with the frontpage.png
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Explore material</title>
 		<text>
 </text>
@@ -1146,7 +1241,7 @@ or maybe the ./preview/ folder with the frontpage.png
 		<title>Review all pieces</title>
 		<text>
 </text>
-		<todo done="no" collapse="no">
+		<todo done="no" collapse="yes">
 			<title>01_Czerny_Carl_-_Op_824_-_Nr_1</title>
 			<text>
 </text>
@@ -1451,7 +1546,7 @@ or maybe the ./preview/ folder with the frontpage.png
 			<text>
 </text>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="yes" collapse="no">
 			<title>51_Dumont_Felix_-_Op_24_-_Wiegenlied</title>
 			<text>
 </text>
@@ -1607,7 +1702,7 @@ or maybe the ./preview/ folder with the frontpage.png
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Further Research</title>
 		<text>
 </text>
