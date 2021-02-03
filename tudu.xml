@@ -153,6 +153,31 @@ or maybe the ./preview/ folder with the frontpage.png
 		<title>Add new pieces</title>
 		<text>
 </text>
+		<todo done="no" collapse="no">
+			<title>G-Position</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>Czerny Op. 481; Nr. 4</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Czerny Op. 481; Nr. 5</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Beyer Op.101; Nr.32ff.</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Bela Bartok - Mikrokosmos</title>
+				<text>
+</text>
+			</todo>
+		</todo>
 		<todo done="yes" collapse="no">
 			<title>23 - Nathanael o.O.</title>
 			<text>Reversed left hand, right hand technique of Berens Op.70 Nr. 1
@@ -189,79 +214,23 @@ or maybe the ./preview/ folder with the frontpage.png
 </text>
 			</todo>
 		</todo>
-		<todo done="no" collapse="yes">
-			<title>Czerny Recreations</title>
-			<text>
-</text>
-			<todo done="no" collapse="yes">
-				<title>Nr.3</title>
-				<text>
-</text>
-				<todo done="yes" collapse="no">
-					<title>typeset</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>include</title>
-					<text>
-</text>
-				</todo>
-			</todo>
-			<todo done="no" collapse="yes">
-				<title>Nr.4</title>
-				<text>
-</text>
-				<todo done="yes" collapse="no">
-					<title>typeset</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>include</title>
-					<text>
-</text>
-				</todo>
-			</todo>
-			<todo done="no" collapse="yes">
-				<title>Nr.5</title>
-				<text>
-</text>
-				<todo done="yes" collapse="no">
-					<title>typeset</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>include</title>
-					<text>
-</text>
-				</todo>
-			</todo>
-			<todo done="no" collapse="yes">
-				<title>Nr.6</title>
-				<text>
-</text>
-				<todo done="yes" collapse="no">
-					<title>typeset</title>
-					<text>
-</text>
-				</todo>
-				<todo done="yes" collapse="no">
-					<title>include</title>
-					<text>
-</text>
-				</todo>
-			</todo>
-			<todo done="no" collapse="no">
-				<title>continue with others when introducing jumps</title>
-				<text>
-</text>
-			</todo>
-		</todo>
 		<todo done="yes" collapse="no">
 			<title>Czerny Op. 481; Nr. 1</title>
 			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Czerny Op. 481; Nr. 2 =&gt; END</title>
+			<text>The melody is allready in Czernies Childrens Varions
+- due to G octave jumps in the left Hand
+  this one got to go rather to the END.
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Czerny Op. 481; Nr. 3 =&gt; END</title>
+			<text>- this one can come straight after 481; Nr.1
+the following pieces are to be introduced when
+adding G-Position.
 </text>
 		</todo>
 		<todo done="no" collapse="yes">
