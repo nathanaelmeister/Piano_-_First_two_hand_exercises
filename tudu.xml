@@ -214,6 +214,76 @@ or maybe the ./preview/ folder with the frontpage.png
 </text>
 			</todo>
 		</todo>
+		<todo done="no" collapse="yes">
+			<title>Czerny Recreations</title>
+			<text>
+</text>
+			<todo done="no" collapse="yes">
+				<title>Nr.3</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr.4</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr.5</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="yes">
+				<title>Nr.6</title>
+				<text>
+</text>
+				<todo done="yes" collapse="no">
+					<title>typeset</title>
+					<text>
+</text>
+				</todo>
+				<todo done="yes" collapse="no">
+					<title>include</title>
+					<text>
+</text>
+				</todo>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>continue with others when introducing jumps</title>
+				<text>
+</text>
+			</todo>
+		</todo>
 		<todo done="yes" collapse="no">
 			<title>Czerny Op. 481; Nr. 1</title>
 			<text>
