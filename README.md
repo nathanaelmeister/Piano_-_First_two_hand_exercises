@@ -223,7 +223,7 @@ typset with: [LilyPond](http://lilypond.org) "2.20.0"
 also have a look at: [LilyBin](http://lilybin.com)
 or get support at the offical IRC on [FreeNode](http://webchat.freenode.net/?channels=lilypond)  
 more Scores in the [LilyPond](http://lilypond.org) format can be found on [www.MutopiaProject.org](https://www.mutopiaproject.org)  
-snippets and tweaks can be found in [The LilyPond Snippet Repository ♪♫](http://lsr.di.unimi.it/LSR/Search) 
+snippets and tweaks can be found in [The LilyPond Snippet Repository ♪♫](http://lsr.di.unimi.it/LSR/Search)  
 Questions about LilyPond are highly appreciated on the QA Board [Music on StackExchange](https://music.stackexchange.com)  
 _____________________________________________________________
 
@@ -424,4 +424,4 @@ _____________________________________________________________
      Skandinavisches Volkslied - Gubben Noak
 ```
 
-**Book-Version:** 0.0.2-128
+**Book-Version:** 0.0.2-131

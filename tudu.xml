@@ -31,12 +31,32 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>File-handeling</title>
 		<text>
 </text>
 		<todo done="no" collapse="no">
-			<title>Remove obsolote files</title>
+			<title>find and remove obsolete files</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Renaming</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>add leading zeros to numbers in file Names</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>replace roman numbers in file names</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>Removed obsolote files:</title>
 			<text>
 </text>
 			<todo done="yes" collapse="no">
@@ -61,10 +81,71 @@
 - added: Nathanael Meister; Op.24; Nr.09
 </text>
 		</todo>
-		<todo done="no" collapse="no">
-			<title>build 126</title>
+		<todo done="yes" collapse="no">
+			<title>build 128</title>
 			<text>- removed obsolete file Part.ly
 - added Table of Contents (TOC)
+- updated README.md
+
+</text>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>build 129</title>
+			<text>- created title page, not yet included into book
+  - scaling needs to be fixed
+  - maybe some fit to page command, if available
+
+</text>
+		</todo>
+	</todo>
+	<todo done="no" collapse="yes">
+		<title>README.md</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>add preview image frontpage.png</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>mv _preview to preview</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>adapt make-preview-image.sh script</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>remove *.png from .gitignore</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>add image link to make-README.sh script</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="yes">
+			<title>Preview images for all pieces?</title>
+			<text>needs to be compiled into a separate folder
+or maybe the ./preview/ folder with the frontpage.png
+</text>
+			<todo done="yes" collapse="no">
+				<title>not yet, maybe at a later state</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>reconsider in final state...</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="yes" collapse="no">
+			<title>correct line break music.se link</title>
+			<text>
 </text>
 		</todo>
 	</todo>
@@ -72,6 +153,31 @@
 		<title>Add new pieces</title>
 		<text>
 </text>
+		<todo done="no" collapse="no">
+			<title>G-Position</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>Czerny Op. 481; Nr. 4</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Czerny Op. 481; Nr. 5</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Beyer Op.101; Nr.32ff.</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Bela Bartok - Mikrokosmos</title>
+				<text>
+</text>
+			</todo>
+		</todo>
 		<todo done="yes" collapse="no">
 			<title>23 - Nathanael o.O.</title>
 			<text>Reversed left hand, right hand technique of Berens Op.70 Nr. 1
@@ -181,6 +287,20 @@
 		<todo done="yes" collapse="no">
 			<title>Czerny Op. 481; Nr. 1</title>
 			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Czerny Op. 481; Nr. 2 =&gt; END</title>
+			<text>The melody is allready in Czernies Childrens Varions
+- due to G octave jumps in the left Hand
+  this one got to go rather to the END.
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Czerny Op. 481; Nr. 3 =&gt; END</title>
+			<text>- this one can come straight after 481; Nr.1
+the following pieces are to be introduced when
+adding G-Position.
 </text>
 		</todo>
 		<todo done="no" collapse="yes">
@@ -675,21 +795,56 @@
 		</todo>
 	</todo>
 	<todo done="no" collapse="yes">
-		<title>File Structering</title>
-		<text>
-</text>
-		<todo done="no" collapse="no">
-			<title>Add leading Zeros to files Nr.</title>
-			<text>
-</text>
-		</todo>
-	</todo>
-	<todo done="no" collapse="no">
 		<title>Layout</title>
 		<text>
 </text>
 		<todo done="no" collapse="no">
-			<title>Add title page</title>
+			<title>Title page</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>create</title>
+				<text>
+</text>
+			</todo>
+			<todo done="yes" collapse="no">
+				<title>include into book</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Add last page</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>With additional Information</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>With QR-Code</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>With links to Repository</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>more spacing</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>scale the whole book down a little</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>add space in paper { left-margin &amp; right-margin }</title>
 			<text>
 </text>
 		</todo>
@@ -716,6 +871,11 @@
 			</todo>
 			<todo done="yes" collapse="no">
 				<title>Review</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Table of Contents sorted after Composer</title>
 				<text>
 </text>
 			</todo>
@@ -763,6 +923,36 @@
 					<text>
 </text>
 				</todo>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Script folder needs own README.md with description</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>README.md from make-README.sh script needs to be changed</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>maybe promt for updating, else just use different name</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>create README.md for this script repository</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Make-Book.sh</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>needs to check if last number of title page is correct</title>
+				<text>
+</text>
 			</todo>
 		</todo>
 		<todo done="no" collapse="no">
@@ -829,11 +1019,36 @@
 			<title>Write Script Descriptions and or add help options</title>
 			<text>
 </text>
+			<todo done="yes" collapse="no">
+				<title>make-book.sh</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Clean obsolete lines in scripts and write comments</title>
+			<text>
+</text>
+			<todo done="yes" collapse="no">
+				<title>make-book.sh</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>Remove obsolete Scripts from Repository</title>
 			<text>
 </text>
+			<todo done="yes" collapse="no">
+				<title>run.sh</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>check-all</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 		<todo done="no" collapse="no">
 			<title>make-book.sh</title>
@@ -848,7 +1063,7 @@
 					<text>
 </text>
 				</todo>
-				<todo done="no" collapse="no">
+				<todo done="yes" collapse="no">
 					<title>finalize</title>
 					<text>
 </text>
@@ -876,7 +1091,7 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Explore material</title>
 		<text>
 </text>
@@ -1065,7 +1280,7 @@
 		<title>Review all pieces</title>
 		<text>
 </text>
-		<todo done="no" collapse="no">
+		<todo done="no" collapse="yes">
 			<title>01_Czerny_Carl_-_Op_824_-_Nr_1</title>
 			<text>
 </text>
@@ -1370,7 +1585,7 @@
 			<text>
 </text>
 		</todo>
-		<todo done="no" collapse="no">
+		<todo done="yes" collapse="no">
 			<title>51_Dumont_Felix_-_Op_24_-_Wiegenlied</title>
 			<text>
 </text>
@@ -1526,7 +1741,7 @@
 </text>
 		</todo>
 	</todo>
-	<todo done="no" collapse="no">
+	<todo done="no" collapse="yes">
 		<title>Further Research</title>
 		<text>
 </text>

@@ -4,21 +4,26 @@
 #(set-global-staff-size 24)
 
 \include "./global-files/gitlink.ily"
+
 \include "./global-files/paper.ily"
 \include "./global-files/pdf-header.ily"
+\include "./global-files/keyboard-diagramm.ily"
+
+staffSize = #(define-music-function (parser location new-size) (number?)
+  #{
+    \set fontSize = #new-size
+    \override StaffSymbol.staff-space = #(magstep new-size)
+    \override StaffSymbol.thickness = #(magstep new-size)
+  #})
 
 \book {
-  \paper {
-    ragged-right = ##f
-    scoreTitleMarkup = \markup {
-      \fill-line {
-        \fontsize #2 \bold \fromproperty #'header:piece
-        \fromproperty #'header:composer
-      }
-    }
+  \bookpart {
+    \include "./global-files/frontpage.ily"
   }
-  \markuplist \table-of-contents
-  \pageBreak
+  \bookpart {
+    \markuplist \table-of-contents
+  }
+
   \include "./global-files/header.ily"
 
   \tocItem \markup { \bold "1.) " "Carl Czerny; Op. 824; Nº.1" }
