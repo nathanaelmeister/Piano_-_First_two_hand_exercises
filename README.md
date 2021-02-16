@@ -5,6 +5,10 @@
 Collection of easy pieces for the first lectures in
 playing the Piano with two hands independently.
 
+
+![Preview - LilyPond Piano School](./preview/frontpage.png)
+
+
 1. Czerny Carl - Op.824 - Nº.1 - [[LilyPond]](./input-files/001_Czerny_Carl_-_Op_824_-_Nr_1.ily)
 2. Czerny Carl - Op.824 - Nº.2 - [[LilyPond]](./input-files/002_Czerny_Carl_-_Op_824_-_Nr_2.ily)
 3. Czerny Carl - Op.824 - Nº.3 - [[LilyPond]](./input-files/003_Czerny_Carl_-_Op_824_-_Nr_3.ily)
